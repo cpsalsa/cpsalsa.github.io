@@ -1,0 +1,17 @@
+// Our variables
+$brand-primary:    			#f541aa !default;
+$brand-secondary:  			#41f5f0;
+
+$font-size-base:   			16px;
+
+$input-bg: 		   			#343434;
+$input-border:	   			#444;
+$input-color:	   			#777;
+
+$link-color: 	   			darken($brand-secondary, 20%);
+$secondary-header-color:	lighten($brand-primary, 20%);
+
+$event-background:			desaturate(darken($brand-primary, 45%), 80%);
+$event-card-background:		lighten($event-background, 3%);
+$about-background:			desaturate(darken($brand-primary, 48%), 70%);
+$about-card-background:		lighten($about-background, 3%);

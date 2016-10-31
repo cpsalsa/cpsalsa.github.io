@@ -1,0 +1,18 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #222;
+    color: $gray-lighter;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans Condensed', serif;
+    color: $brand-primary;
+}
+
+h4, h5, h6 {
+	color: $secondary-header-color;
+}
+
+a {
+	text-decoration: underline;
+}

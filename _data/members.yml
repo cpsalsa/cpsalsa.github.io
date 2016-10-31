@@ -1,0 +1,28 @@
+  - name: Nimisha Patel
+    position: President
+    description: Lorem ipsm dolerem
+    image:
+        url: images/members/president.jpg
+        alt: Picture of Nimisha Patel
+
+  - name: Kevin Martinez
+    position: Vice President
+    description: Lorem ipsm dolerem
+    image:
+        url: images/members/vice-president.jpg
+        alt: Picture of Kevin Martinez
+
+  - name: Katie Johnson
+    position: Treasurer
+    description: Lorem ipsm dolerem
+    image:
+        url: images/members/treasurer.jpg
+        alt: Picture of Katie Johnson
+
+
+  - name: Kari Wastun
+    position: Instruction
+    description: Lorem ipsm dolerem
+    image:
+        url: images/members/instruction.jpg
+        alt: Picture of Kari Wastun

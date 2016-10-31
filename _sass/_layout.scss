@@ -1,0 +1,182 @@
+.row.is-flex {
+    @media (min-width: $screen-md-min) {
+        @include display-flex;
+    }
+}
+.row.is-flex > [class*='col-'] {
+    @media (min-width: $screen-md-min) {
+        @include flex-column;
+    }
+}
+.row.sm-flex {
+    @media (min-width: $screen-sm-min) {
+        @include display-flex;
+    }
+}
+.row.sm-flex > [class*='col-'] {
+    @media (min-width: $screen-sm-min) {
+        @include flex-column;
+    }
+}
+
+.hero {
+    display: block;
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+}
+.hero:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100vh;
+    background:
+        linear-gradient(
+            rgba(46, 27, 175, 0.9),
+            rgba(179, 8, 151, 0.7)
+        ),
+        url(../images/hero-back2.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.hero-content {
+    position: absolute;
+    left: 0;
+    top: 50vh;
+    width: 100%;
+    transform: translate(0px, -50%);
+    text-align: center;
+
+    @include default-padding;
+}
+.hero-title {
+    width: 45vw;
+    @media (max-device-width: $screen-xs-min) {
+        width: 75vw;
+    }
+}
+.hero-slogan {
+    font-style: italic;
+}
+
+.fridays,
+.events,
+.about,
+.site-footer {
+    display: block;
+    width: 100%;
+}
+.fridays .content,
+.events .content {
+    height: 100%;
+    @include default-padding;
+}
+.fridays .friday-slideshow {
+    background: url(../images/hero-back3.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.events {
+    @include default-padding;
+    // background: #221e38;
+    background: $event-background;
+}
+.fb-events .card {
+    overflow: hidden;
+    padding: 0;
+    background: $event-card-background;
+
+    @include card;
+}
+.fb-events .card img {
+    height: 158px;
+    @media (min-width: $screen-lg-min) {
+        height: 250px;
+    }
+    width: 100%;
+    object-fit: cover;
+}
+.fb-events .card .details {
+    padding: 10px 20px;
+}
+.fb-events .title {
+    color: $brand-primary;
+}
+.fb-events .when,
+.fb-events .where {
+    display: block;
+}
+.fb-events .where {
+    color: $gray-light;
+}
+
+.about {
+    // background: #302131;
+    background: $about-background;
+
+    @include default-padding;
+}
+.about p {
+    text-align: left;
+}
+.about .card {
+    // background: #352635;
+    background: $about-card-background;
+
+    @include card;
+}
+.about .card h4 {
+    color: $brand-secondary;
+}
+.about .card img {
+    display: block;
+    width: 100%;
+    height: 400px;
+    @media (max-device-width: $screen-sm-min) {
+        height: 300px;
+    }
+
+    object-fit: cover;
+    object-position: top;
+}
+.about .card .details {
+    padding: 10px 20px;
+}
+
+.contact,
+.site-footer {
+    @include default-padding;
+}
+.contact {
+    // background:
+    //     linear-gradient(
+    //         rgba(13, 56, 64, 1),
+    //         rgba(34, 34, 34, 1)
+    //     );
+}
+.contact .messenger-contact {
+    margin-left: 0;
+}
+.center {
+    position: relative;
+    margin: auto;
+    float: none;
+}
+
+.site-footer {
+    padding-top: 0;
+}
+.site-footer .row {
+    padding-top: 20px;
+    border-top: 1px solid #4a4a4a;
+}
+.site-footer .footer-title {
+    width: 25vw;
+    @media (max-device-width: $screen-xs-min) {
+        width: 35vw;
+    }
+}
+
+.azm-btn {
+    text-decoration: none;
+}

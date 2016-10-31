@@ -1,0 +1,36 @@
+@mixin default-padding {
+    padding: 40px 60px;
+    @media (max-device-width: $screen-sm-min) {
+    	padding: 30px 40px;
+    }
+    @media (max-device-width: $screen-xs-min) {
+        padding: 20px 30px;
+    }
+}
+
+@mixin display-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+@mixin flex-column {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+@mixin card {
+    margin: 20px 0;
+    height: 100%;
+}

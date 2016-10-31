@@ -1,0 +1,211 @@
+---
+layout: home
+---
+        <section class="hero">
+            <div class="hero-content">
+                <img class="hero-title" src="images/logo.svg" alt="CPSalsa">
+                <h1>We have a passion for dance</h1>
+                <p class="hero-slogan lead">
+                    A student-run organization from Cal Poly San Luis Obispo, we teach lessons in
+                    Salsa, Bachata, and Cha Cha Cha and put on dance socials throughout the year.
+                </p>
+                <p>
+                    <a href="https://www.facebook.com/cpsalsa"
+                       class="btn azm-social azm-size-48 azm-circle azm-long-shadow azm-facebook">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://www.instagram.com/cpsalsa/"
+                       class="btn azm-social azm-size-48 azm-circle azm-long-shadow azm-instagram">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                    <a href="#contact"
+                       class="btn azm-social azm-size-48 azm-circle azm-long-shadow azm-email-1">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                </p>
+            </div>
+        </section>
+
+        <section class="fridays">
+            <div class="row is-flex">
+                <div class="col-md-6">
+                    <div class="content friday-text">
+                        <h1>Friday Night Lessons and Social</h1>
+                        <p>Every Friday, save for during school breaks, we provide multiple levels of
+                        lessons teaching salsa. We also provide lessons teaching other related forms
+                        of dancing like bachata and cha cha cha. Afterwards, we turn down the lights
+                        and pump up the music as we enter the social dance portion of the night.</p>
+                        <h2>Where</h2>
+                        <p>Architecture and Environmental Design, San Luis Obispo, CA 93405</p>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <h4>Park Here (free after 5pm)</h4>
+                                <p>
+                                    <a href="https://goo.gl/maps/NkFYPzmJkB72">Lot C7</a><br>
+                                    <a href="https://goo.gl/maps/b4Mq5jnoygP2">Lot H2</a>
+                                </p>
+                            </div>
+                            <div class="col-sm-6">
+                                <h4>Walk Here</h4>
+                                <p><a href="https://goo.gl/maps/KavK5JfJj8o">Building 5</a></p>
+                            </div>
+                        </div>
+                        <h2>Schedule</h2>
+                        <p>
+                            7:30 PM - 8:00 PM : Bachata/Cha Cha Cha lesson<br>
+                            8:00 PM - 9:30 PM : Salsa lesson<br>
+                            9:30 PM - 12:00 AM : FREE Social Dancing
+                        </p>
+                        <h2>Cost</h2>
+                        <p>
+                            $35 for 10 Lessons (Get 3 lessons for FREE)<br>
+                            $20 for 5 Lessons (Get 1 lesson for FREE)<br>
+                            $5 for the night
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="content friday-slideshow">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="events">
+            <h1>Upcoming Events</h1>
+            <div class="row sm-flex fb-events">
+                <div class="col-sm-6">
+                    <div class="card">
+                        <a href=""><img src="images/general-meeting.jpg" alt=""></a>
+                        <div class="details">
+                            <h3 class="title">CPSalsa General Meeting</h3>
+                            <span class="when">October 27, 7:30pm</span>
+                            <span class="where">Cal Poly Bld 5 Rm 225</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                        <a href=""><img src="images/salsaween.jpg" alt=""></a>
+                        <div class="details">
+                            <h3 class="title">Salsaween!</h3>
+                            <span class="when">October 27, 7:30pm</span>
+                            <span class="where">Cal Poly Bld 5 Rm 225</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                        <a href=""><img src="images/madonna-inn.jpg" alt=""></a>
+                        <div class="details">
+                            <h3 class="title">23rd Madonna Inn Salsa Night of 2016</h3>
+                            <span class="when">October 27, 7:30pm</span>
+                            <span class="where">Cal Poly Bld 5 Rm 225</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about">
+            <h1>Who We Are</h1>
+            <p class="about-text">
+                We are a student organization associated with California Polytechnic State
+                University (Cal Poly) in San Luis Obispo dedicated to spreading our love of Salsa
+                dancing to San Luis Obispo and the rest of the Central Coast. While we are
+                associated with Cal Poly, our members and officers consist of non-students and
+                students alike.
+            </p>
+            <p class="about-text">
+                Our main goal is to share our passion for salsa dancing and music to people of all
+                backgrounds and ages. We provide high quality social activities, instruction, and
+                entertainment, all while striving to maintain an environment that is safe and
+                welcoming.</p>
+            <h1>Our Team</h1>
+            {% for member in site.data.members %}
+            {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
+            {% if modulo == '0' %}
+            <div class="row sm-flex">
+            {% endif %}
+                <div class="col-sm-3">
+                    <div class="card">
+                        <img src="{{ member.image.url }}" alt="{{ member.image.alt }}">
+                        <div class="details">
+                            <h3>{{ member.name }}</h3>
+                            <h4>{{ member.position }}</h4>
+                            <p>{{ member.description }}</p>
+                        </div>
+                    </div>
+                </div>
+            {% if modulo == 0 and forloop.first == true or forloop.last == true %}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </section>
+
+        <section class="contact" id="contact">
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>Contact Us</h1>
+                    <a href="https://m.me/cpsalsa"
+                       class="btn messenger-contact azm-social azm-btn azm-border-bottom azm-facebook">
+                        <i class="fa fa-facebook"></i>
+                        Message Us on Facebook
+                    </a>
+                </div>
+                <div class="col-sm-6">
+                    <h1 class="footer-heading">Subscribe to our Mailing List</h1>
+                    <!-- Begin MailChimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <form action="//facebook.us9.list-manage.com/subscribe/post?u=f34e80aad6faec053b07a407a&amp;id=712f72335c"
+                              method="post" id="mc-embedded-subscribe-form"
+                              name="mc-embedded-subscribe-form"
+                              class="validate" target="_blank" novalidate>
+                            <fieldset>
+                                <div class="form-group">
+                                    <input type="text" id="mce-EMAIL" name="EMAIL" class="form-control"
+                                           placeholder="Email Address" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="mce-FNAME" name="FNAME" class="form-control"
+                                           placeholder="First Name">
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" id="mce-LNAME" name="LNAME" class="form-control"
+                                           placeholder="Last Name">
+                                </div>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_f34e80aad6faec053b07a407a_712f72335c"
+                                           tabindex="-1" value="">
+                                </div>
+                                <div class="form-group">
+                                    <input type="submit" id="mc-embedded-subscribe"
+                                           value="Subscribe" name="subscribe"
+                                           class="btn btn-primary">
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+                    <script type='text/javascript'>
+                        (function($) {
+                            window.fnames = new Array();
+                            window.ftypes = new Array();
+                            fnames[0]='EMAIL';
+                            ftypes[0]='email';
+                            fnames[1]='FNAME';
+                            ftypes[1]='text';
+                            fnames[2]='LNAME';
+                            ftypes[2]='text';
+                        }(jQuery));
+
+                        var $mcj = jQuery.noConflict(true);
+                    </script>
+                    <!--End mc_embed_signup-->
+                </div>
+            </div>
+
+        </section>
+

@@ -17,7 +17,3 @@ url: "http://cpsalsa.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-# Gems
-gems:
-  - jekyll-bootstrap-sass

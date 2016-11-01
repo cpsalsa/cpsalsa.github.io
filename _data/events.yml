@@ -1,0 +1,39 @@
+  - id: 1102046236580458
+    title: CP Salsa Officer Meeting
+    when: 2016-11-08T19:00:00-0800
+    where:
+        name: Cal Poly, Building 2, Room 212
+    image:
+        url: https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14639879_10154697383758000_7910411619235098108_n.png?oh=632457d990f8b7defaff309f7673ee44&oe=58A4C8C7
+        alt: CP Salsa Officer Meeting
+
+  - id: 319452308447509
+    title: "CPSalsa Friday Night: Week 6!"
+    when: 2016-11-04T19:30:00-0700
+    where:
+        name: Cal Poly, Building 5, Room 225
+        latitude: 35.30315
+        longitude: -120.65955
+    image:
+        url: https://scontent.xx.fbcdn.net/t31.0-8/s720x720/14889717_10154697284488000_4881513336431075526_o.jpg
+        alt: CPSalsa Friday Night Week 6!
+
+  - id: 357480924591555
+    title: 24th Madonna Inn Salsa Night of 2016
+    when: 2016-11-08T20:00:00-0800
+    where:
+        name: Madonna Inn
+        latitude: 35.267267219681
+        longitude: -120.67482565396
+    image:
+        url: https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14604857_10154697397088000_3661771392985042989_n.jpg?oh=2b10673359effed26500bf2ad872e1e5&oe=58CE2374
+        alt: 24th Madonna Inn Salsa Night of 2016
+
+  - id: 1644560009169081
+    title: CPSalsa General Meeting
+    when: 2016-11-01T19:00:00-0700
+    where:
+        name: Cal Poly, Building 2 Room 212
+    image:
+        url: https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14713532_10154667378638000_3299036876276834388_n.jpg?oh=50e1752150261133fe3b40b534849682&oe=58CE6718
+        alt: CPSalsa General Meeting

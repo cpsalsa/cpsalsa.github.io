@@ -4,10 +4,10 @@ layout: home
         <section class="hero">
             <div class="hero-content">
                 <img class="hero-title" src="images/logo.svg" alt="CPSalsa">
-                <h1>We have a passion for dance</h1>
+                <h1>Cal Poly Students passionate about dance</h1>
                 <p class="hero-slogan lead">
-                    A student-run organization from Cal Poly San Luis Obispo, we teach lessons in
-                    Salsa, Bachata, and Cha Cha Cha and put on dance socials throughout the year.
+                    Student-run from Cal Poly San Luis Obispo, we teach lessons in Salsa, Bachata,
+                    and Cha Cha Cha and host numerous dance events throughout the year.
                 </p>
                 <p>
                     <a href="https://www.facebook.com/cpsalsa"
@@ -73,38 +73,28 @@ layout: home
 
         <section class="events">
             <h1>Upcoming Events</h1>
+            {% assign events = site.data.events | sort: 'when' %}
+            {% for event in events %}
+            {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+            {% if modulo == '0' %}
             <div class="row sm-flex fb-events">
+            {% endif %}
                 <div class="col-sm-6">
                     <div class="card">
-                        <a href=""><img src="images/general-meeting.jpg" alt=""></a>
+                        <a href="https://www.facebook.com/events/{{ event.id }}">
+                            <img src="{{ event.image.url }}" alt="{{ event.image.alt }}">
+                        </a>
                         <div class="details">
-                            <h3 class="title">CPSalsa General Meeting</h3>
-                            <span class="when">October 27, 7:30pm</span>
-                            <span class="where">Cal Poly Bld 5 Rm 225</span>
+                            <h3 class="title">{{ event.title }}</h3>
+                            <span class="when">{{ event.when | date: "%B %-d, %I:%M%p" }}</span>
+                            <span class="where">{{ event.where.name }}</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="card">
-                        <a href=""><img src="images/salsaween.jpg" alt=""></a>
-                        <div class="details">
-                            <h3 class="title">Salsaween!</h3>
-                            <span class="when">October 27, 7:30pm</span>
-                            <span class="where">Cal Poly Bld 5 Rm 225</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="card">
-                        <a href=""><img src="images/madonna-inn.jpg" alt=""></a>
-                        <div class="details">
-                            <h3 class="title">23rd Madonna Inn Salsa Night of 2016</h3>
-                            <span class="when">October 27, 7:30pm</span>
-                            <span class="where">Cal Poly Bld 5 Rm 225</span>
-                        </div>
-                    </div>
-                </div>
+            {% if modulo == '1' or forloop.last == true %}
             </div>
+            {% endif %}
+            {% endfor %}
         </section>
 
         <section class="about">
@@ -137,7 +127,7 @@ layout: home
                         </div>
                     </div>
                 </div>
-            {% if modulo == 0 and forloop.first == true or forloop.last == true %}
+            {% if modulo == '3' or forloop.last == true %}
             </div>
             {% endif %}
             {% endfor %}

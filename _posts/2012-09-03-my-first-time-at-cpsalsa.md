@@ -2,7 +2,7 @@
 id: 873
 title: My First Time at CPSalsa
 date: 2012-09-03T09:00:29+00:00
-author: Aarti Garg
+author: aarti
 layout: post
 guid: http://www.cpsalsa.com/?p=873
 permalink: /archives/my-first-time-at-cpsalsa

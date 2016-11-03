@@ -30,3 +30,9 @@ angie:
     image:
         url: /images/authors/angie-vasta.jpg
         alt: Picture of Angie
+aarti:
+    name: Aarti Garg
+    description: Former CPSalsa president.
+    image:
+        url: /images/authors/aarti-garg.jpg
+        alt: Picture of Aarti

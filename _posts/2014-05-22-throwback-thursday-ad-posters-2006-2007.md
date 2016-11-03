@@ -22,7 +22,7 @@ Thursdays are the domain of the throwback, so today, we give you our ad posters 
 
 The first batch of photos is from the Fall quarter and were images taken in a photoshoot earlier that Spring by Paul Meissner, a senior photography student at the time. Charlie spent all Summer coming up with the designs, updating Jeff and me as she went along. If you&#8217;ve gone to our Friday nights and these look familiar to you, it&#8217;s because three of these are the vinyls we hang on our back wall each week!
 
-<div class="row sm-flex">
+<div class="row sm-flex gallery">
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/MoveWithRhythmka.jpg' data-lightbox="fallAds" data-title="The &#8216;Move with Rhythm&#8217; poster featuring Anna and Khang">
@@ -149,7 +149,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
 
 The second batch is from the Spring quarter. Charlie wanted to do something sillier and came up with the idea of salsa and guacamole ingredients, only we were the ingredients. She wanted it to look as cheesy and obviously photoshopped as possible. We did this one on a budget where we didn&#8217;t hire a true photographer. Rather, we set up a makeshift studio with a background we got from a previous shoot and simple desk and spot lamps in my apartment. I used my own little point and shoot camera to take the photos. Finally, Charlie and I worked together on the design to come up with something cheesy and festive.
 
-<div class="row sm-flex">
+<div class="row sm-flex gallery">
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classnikkiJess.jpg' data-lightbox="springAds" data-title="With Nikki Arceneaux and Jessica Cozzetto-Duong">

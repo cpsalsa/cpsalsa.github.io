@@ -123,7 +123,9 @@ layout: home
                         <div class="details">
                             <h3>{{ member.name }}</h3>
                             <h4>{{ member.position }}</h4>
+                            {% if member.description %}
                             <p>{{ member.description }}</p>
+                            {% endif %}
                         </div>
                     </div>
                 </div>

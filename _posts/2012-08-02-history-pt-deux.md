@@ -32,7 +32,7 @@ But we held out until Jeff made his return. As soon as he got back he began recr
 
 It was also around this time that a new dancer by the name of Sarah started coming along, getting hooked not only with our dances, but our weekly pilgrimage to Santa Barbara to dance at Ruby&#8217;s. It just so happened that she was a photography major and wanted to shoot some dance related photos. After an initial shoot with Jeff, Mariela, a girl named Ashley, and me done up in red, Jeff and I thought it might be fun to get another shoot with a bunch of our regulars&#8211;this time with a bunch of different, comical themes. So off we went, shooting Billy as a redneck, me as a nerd, stuff with salsa (the dip) in a bowl, plays on _A Few Good Men_, and plays on milk advertising with Dave and Kim (got salsa?). I worked with Jeff to post-process the images and out came our fall advertising for 2004.
 
-<div class="row sm-flex">
+<div class="row sm-flex gallery">
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/dave_body.jpg' data-lightbox="ads2004" data-title="Dave and his bowl of salsa">

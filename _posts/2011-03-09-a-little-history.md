@@ -36,7 +36,7 @@ Jeff and Ed&#8217;s first move was to approach the ballroom club about teaching 
 
 CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slowly they began to amass a following of students (and non-students) wanting to learn Salsa as well as a core group of people interested in running the club. Eventually, the list of officers grew to include the likes of Liliana Graham, Nate Nocon, Sonia Balcazar, Amber Ousterling, Ana Ruvalcalba, Rogelio Hernandez, Melanie Mueller, Sieno Castillo and more.
 
-<div class="row sm-flex">
+<div class="row sm-flex gallery">
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/cls_winter2001-4.jpg" data-lightbox="oldschool" data-title="">

@@ -27,9 +27,9 @@ $post-date-color:			darken($text-color, 50%);
 //** Padding around the thumbnail image
 $thumbnail-padding:           4px !default;
 //** Thumbnail background color
-$thumbnail-bg:                lighten($body-bg, 2%) !default;
+$thumbnail-bg:                lighten($body-bg, 4%) !default;
 //** Thumbnail border color
-$thumbnail-border:            lighten($body-bg, 2%) !default;
+$thumbnail-border:            lighten($body-bg, 4%) !default;
 //** Thumbnail border radius
 $thumbnail-border-radius:     0 !default;
 

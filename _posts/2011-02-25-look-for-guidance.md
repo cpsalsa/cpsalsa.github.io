@@ -54,17 +54,17 @@ Same goes for women. Try to find a male instructor who knows how to follow well;
 
 Here’s my order of preference if you are a guy:
 
-    1. A Woman who leads well
-    2. A Guy who follows well
-    3. A Guy who can’t follow (at least he can lead and show you that)
-    4. A Woman who can’t lead (you probably won’t get too much out of this, unless you are taking the lesson for other reasons, ahemm.)
+1. A Woman who leads well
+2. A Guy who follows well
+3. A Guy who can’t follow (at least he can lead and show you that)
+4. A Woman who can’t lead (you probably won’t get too much out of this, unless you are taking the lesson for other reasons, ahemm.)
 
 And if you are a woman:
 
-    1. A Guy who follows well
-    2. A Woman who leads well
-    3. A Guy who can’t follow (at least he can lead you through moves)
-    4. A Woman who can’t lead (this should be your first choice if you are only interested in styling and footwork)
+1. A Guy who follows well
+2. A Woman who leads well
+3. A Guy who can’t follow (at least he can lead you through moves)
+4. A Woman who can’t lead (this should be your first choice if you are only interested in styling and footwork)
 
 Ask your Salsa guru if they are comfortable both following and leading before signing up with them. You’d be surprised to know how many teachers can only lead or follow.
 

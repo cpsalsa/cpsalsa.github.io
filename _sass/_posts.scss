@@ -50,8 +50,11 @@
             height: 300px;
             object-fit: cover;
             object-position: top;
-            filter: saturate(50%);
-            transition: ease-in-out 0.2s all;
+
+            @media (min-width: $screen-lg-min) {
+                filter: saturate(50%);
+                transition: ease-in-out 0.2s all;
+            }
         }
         .post-img img:hover {
             filter: unset;
@@ -147,22 +150,30 @@ article.post {
     .post-content {
         margin-top: 40px;
         padding: 20px;
-    }
-    .post-content .thumbnail {
+
+        .thumbnail {
         height: 100%;
+        }
+        .thumbnail img {
+            height: 200px;
+            width: 100%;
+            object-fit: cover;
+            object-position: top;
+        }
+        .youtube {
+            padding: 30px 0;
+            overflow: hidden;
+        }
+        .youtube iframe {
+            display: block;
+            margin: auto;
+        }
+        .gallery {
+            margin-top: 30px;
+        }
     }
-    .post-content .thumbnail img {
-        height: 200px;
-        width: 100%;
-        object-fit: cover;
-        object-position: top;
-    }
-    .post-content .youtube {
-        padding: 30px 0;
-        overflow: hidden;
-    }
-    .post-content .youtube iframe {
-        display: block;
-        margin: auto;
-    }
+}
+
+.post-back {
+    margin-top: 20px;
 }

@@ -58,16 +58,16 @@ Like I said, Billy&#8217;s a devious one. Soon after the stickers went up, Cal P
 
 All told, it was probably our most successful ad campaign ever. Of course, talking it up means nothing if you can&#8217;t see it right? I&#8217;ve included the images below, so go ahead and enjoy them at your leisure. Also, below is the full list of articles and letters to the editor mentioned above (some of these links are the same as those linked above).
 
-    * [The original article describing the firemen campaign, the controversy, and the stickers in response](http://mustangnews.net/cpsalsacoverssexypostersimgsrcpagesuploadedimagesupdategifaligncenter/)
-    * [An opinion piece by one of the journalists at Mustang Daily](http://mustangnews.net/censorshipandthefirstamendment/)
-    * [Another opinion piece referencing our ads and the actions of a professor](http://mustangnews.net/administrationmuststopactsofignorance/)
-    * [Letters to the editor for October 13](http://mustangnews.net/Postersshouldnotbeuponpublicschoolgrounds/)
-    * [Letters to the editor for October 14](http://mustangnews.net/TheCPSalsapostersmustcomedowntopreservelove/)
-    * [Letters to the editor for October 17](http://mustangnews.net/Allthisoverhalfabreast/)
-    * [Letters to the editor for October 18](http://mustangnews.net/Donotenforceyourmoralityonme/)
-    * [Letters to the editor for October 25](http://mustangnews.net/Modestyisthebestshowoff/)
+* [The original article describing the firemen campaign, the controversy, and the stickers in response](http://mustangnews.net/cpsalsacoverssexypostersimgsrcpagesuploadedimagesupdategifaligncenter/)
+* [An opinion piece by one of the journalists at Mustang Daily](http://mustangnews.net/censorshipandthefirstamendment/)
+* [Another opinion piece referencing our ads and the actions of a professor](http://mustangnews.net/administrationmuststopactsofignorance/)
+* [Letters to the editor for October 13](http://mustangnews.net/Postersshouldnotbeuponpublicschoolgrounds/)
+* [Letters to the editor for October 14](http://mustangnews.net/TheCPSalsapostersmustcomedowntopreservelove/)
+* [Letters to the editor for October 17](http://mustangnews.net/Allthisoverhalfabreast/)
+* [Letters to the editor for October 18](http://mustangnews.net/Donotenforceyourmoralityonme/)
+* [Letters to the editor for October 25](http://mustangnews.net/Modestyisthebestshowoff/)
 
-<div class="row sm-flex">
+<div class="row sm-flex gallery">
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/charlieSmall1.jpg" data-lightbox="fireman-ads" data-title="Hat? Check. Jacket? Check. Shirt? &#8230;">

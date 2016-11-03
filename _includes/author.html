@@ -1,0 +1,23 @@
+
+<section class="author">
+    <div class="row">
+        <div class="col-sm-offset-3 col-sm-6">
+            <div class="card">
+                <img src="{{ author.image.url }}" alt="{{ author.image.alt }}" class="img-circle">
+                <div class="details">
+                    <h4 class="name">{{ author.name }}</h4>
+                    <div class="separator"></div>
+                    <p class="description">{{ author.description }}</p>
+                </div>
+                <div class="social-media">
+                    {% if author.facebook %}
+                    <a href="https://www.facebook.com/{{ author.facebook }}" class="azm-size-48"><i class="fa fa-facebook"></i></a>
+                    {% endif %}
+                    {% if author.twitter %}
+                    <a href="https://www.twitter.com/{{ author.twitter }}" class="azm-size-48"><i class="fa fa-twitter"></i></a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

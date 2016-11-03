@@ -133,6 +133,21 @@ layout: home
             {% endfor %}
         </section>
 
+        <section class="posts posts-main">
+            <div class="row sm-flex">
+                {% for post in site.posts | limit: 4 %}
+                <div class="col-sm-3 post-wrapper">
+                {% include post-brief.html post=post %}
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row all-posts-block">
+                <div class="col-md-12">
+                    <a href="/posts">View all posts</a>
+                </div>
+            </div>
+        </section>
+
         <section class="contact" id="contact">
 
             <div class="row">

@@ -1,0 +1,32 @@
+khang:
+    name: Khang Duong
+    twitter: khangfoo
+    facebook: khang.duong
+    description: Dancer. Karateka. Software Engineer. Or as my wife says, an artist who learned to be an engineer.
+    image:
+        url: /images/authors/khang-duong.jpg
+        alt: Picture of Khang
+jeff:
+    name: Jeff Berkman
+    description: Some call me the godfather of CPSalsa. I just go by Jeff. And sometimes even Jey. Long story, ask me some time.
+    image:
+        url: /images/authors/jeff-berkman.jpg
+        alt: Picture of Jeff
+chance:
+    name: Chance Siri
+    description: International man of mystery and OG CPSalsa dancer.
+    image:
+        url: /images/authors/chance-siri.jpg
+        alt: Picture of Chance
+patrick:
+    name: Patrick Klima
+    description: The nomadic dancer. I started with Salsa, but now have a love for many forms of dancing including West Coast Swing and Blues.
+    image:
+        url: /images/authors/patrick-klima.jpg
+        alt: Picture of Patrick
+angie:
+    name: Angie Vasta
+    description: I started salsa way back in 2002 and haven't looked back since.
+    image:
+        url: /images/authors/angie-vasta.jpg
+        alt: Picture of Angie

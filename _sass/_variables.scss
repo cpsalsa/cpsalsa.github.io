@@ -2,7 +2,9 @@
 $brand-primary:    			#f541aa !default;
 $brand-secondary:  			#41f5f0;
 
+$body-bg:					#222 !default;
 $font-size-base:   			16px;
+$text-color:            	#eee !default;
 
 $input-bg: 		   			#343434;
 $input-border:	   			#444;
@@ -15,3 +17,23 @@ $event-background:			desaturate(darken($brand-primary, 45%), 80%);
 $event-card-background:		lighten($event-background, 3%);
 $about-background:			desaturate(darken($brand-primary, 48%), 70%);
 $about-card-background:		lighten($about-background, 3%);
+$post-background:			lighten($about-background, 5%);
+$all-posts-background:		lighten($post-background, 10%);
+$all-posts-hover:			saturate(lighten($all-posts-background, 10%), 15%);
+
+$post-border:				lighten($post-background, 5%);
+$post-date-color:			darken($text-color, 50%);
+
+//** Padding around the thumbnail image
+$thumbnail-padding:           4px !default;
+//** Thumbnail background color
+$thumbnail-bg:                lighten($body-bg, 2%) !default;
+//** Thumbnail border color
+$thumbnail-border:            lighten($body-bg, 2%) !default;
+//** Thumbnail border radius
+$thumbnail-border-radius:     0 !default;
+
+//** Custom text color for thumbnail captions
+$thumbnail-caption-color:     $text-color !default;
+//** Padding around the thumbnail caption
+$thumbnail-caption-padding:   9px !default;

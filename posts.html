@@ -1,0 +1,26 @@
+---
+layout: all-posts
+---
+        <section class="sidebar">
+            <div class="sidebar-content">
+                <a href="/">
+                    <img class="logo" src="images/logo.svg" alt="CPSalsa">
+                </a>
+                <h1>All Posts</h1>
+                <p class="sidebar-lead lead">
+                    Peruse our small collection of articles detailing some of the history of
+                    CPSalsa as well as some musings about a dancer's life.
+                </p>
+            </div>
+        </section>
+
+        <section class="posts">
+            <div class="row sm-flex">
+                {% for post in site.posts %}
+                <div class="col-sm-6 post-wrapper">
+                {% include post-brief.html post=post %}
+                </div>
+                {% endfor %}
+            </div>
+        </section>
+

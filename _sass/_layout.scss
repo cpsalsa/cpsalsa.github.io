@@ -1,3 +1,14 @@
+[class*='container'].no-gutter {
+    padding: 0;
+}
+[class*='container'].no-gutter .row {
+    margin-right: 0;
+    margin-left: 0;
+}
+[class*='container'].no-gutter .row > [class*='col-'] {
+    padding-left: 0;
+    padding-right: 0;
+}
 .row.is-flex {
     @media (min-width: $screen-md-min) {
         @include display-flex;
@@ -20,16 +31,10 @@
 }
 
 .hero {
-    display: block;
+    display: flex;
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     color: #fff;
-}
-.hero:before {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 100vh;
     background:
         linear-gradient(
             rgba(46, 27, 175, 0.9),
@@ -37,15 +42,18 @@
         ),
         url(../images/hero-back2.jpg) no-repeat center fixed;
     background-size: cover;
+
+    flex-direction: column;
+    justify-content: center;
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
 }
 .hero-content {
-    position: absolute;
     left: 0;
-    top: 50vh;
     width: 100%;
-    transform: translate(0px, -50%);
     text-align: center;
-    z-index: 10;
 
     @include default-padding;
 }

@@ -1,14 +1,14 @@
-[class*='container'].no-gutter {
+.no-gutter {
     padding: 0;
 }
 [class*='container'].no-gutter .row {
     margin-right: 0;
     margin-left: 0;
 }
-[class*='container'].no-gutter .row > [class*='col-'] {
-    padding-left: 0;
-    padding-right: 0;
-}
+// [class*='container'].no-gutter .row > [class*='col-'] {
+//     padding-left: 0;
+//     padding-right: 0;
+// }
 .row.is-flex {
     @media (min-width: $screen-md-min) {
         @include display-flex;

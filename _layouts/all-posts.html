@@ -7,6 +7,27 @@
 
         {{ content }}
 
+        <script type="text/javascript">
+            function init() {
+                var imgDefer = document.getElementsByTagName('img');
+                var onload = function(img) {
+                    img.removeAttribute('data-src');
+                };
+
+                for (var i = 0; i < imgDefer.length; i++) {
+                    var img = imgDefer[i];
+
+                    if(img.getAttribute('data-src')) {
+                        img.setAttribute('src', img.getAttribute('data-src'));
+                    }
+
+                    img.onload = onload.bind(this, img);
+                }
+            }
+
+            window.onload = init;
+        </script>
+
     </body>
 
 </html>

@@ -1,10 +1,10 @@
 @mixin default-padding {
-    padding: 40px 60px;
+    padding: 40px (60 - $grid-gutter-width/2);
     @media (max-device-width: $screen-sm-min) {
-    	padding: 30px 40px;
+    	padding: 30px (40 - $grid-gutter-width/2);
     }
     @media (max-device-width: $screen-xs-min) {
-        padding: 20px 30px;
+        padding: 20px (30 - $grid-gutter-width/2);
     }
 }
 

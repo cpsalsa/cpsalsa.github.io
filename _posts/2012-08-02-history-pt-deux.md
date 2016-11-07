@@ -36,7 +36,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/dave_body.jpg' data-lightbox="ads2004" data-title="Dave and his bowl of salsa">
-                <img src="/images/uploads/2012/08/dave_body.jpg" class="img-responsive" alt="Dave showing that salsa does a body good"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/dave_body.jpg" class="img-responsive" alt="Dave showing that salsa does a body good"/>
             </a>
             <div class="caption">
                 Dave and his bowl of salsa
@@ -47,7 +47,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/got_salsa.jpg' data-lightbox="ads2004" data-title="Got Salsa? If so, Kim wants it bad">
-                <img src="/images/uploads/2012/08/got_salsa.jpg" class="img-responsive" alt="Kim crawling towards a bowl of salsa"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/got_salsa.jpg" class="img-responsive" alt="Kim crawling towards a bowl of salsa"/>
             </a>
             <div class="caption">
                 Got Salsa? If so, Kim wants it bad
@@ -58,7 +58,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/without.jpg' data-lightbox="ads2004" data-title="Poor Nerdy Khang. No salsa makes him a sad boy">
-                <img src="/images/uploads/2012/08/without.jpg" class="img-responsive" alt="Nerdy Khang without Salsa"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/without.jpg" class="img-responsive" alt="Nerdy Khang without Salsa"/>
             </a>
             <div class="caption">
                 Poor Nerdy Khang. No salsa makes him a sad boy
@@ -69,7 +69,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/withs.jpg' data-lightbox="ads2004" data-title="Nerdy Khang is all smiles now">
-                <img src="/images/uploads/2012/08/withs.jpg" class="img-responsive" alt="Nerdy Khang with Ana, Irene, Kate, and Dulce"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/withs.jpg" class="img-responsive" alt="Nerdy Khang with Ana, Irene, Kate, and Dulce"/>
             </a>
             <div class="caption">
                 Nerdy Khang is all smiles now
@@ -80,7 +80,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/mmm_mmm.jpg' data-lightbox="ads2004" data-title="Anna Luisa cheesing it up">
-                <img src="/images/uploads/2012/08/mmm_mmm.jpg" class="img-responsive" alt="Anna Luisa winking with a bowl of salsa"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/mmm_mmm.jpg" class="img-responsive" alt="Anna Luisa winking with a bowl of salsa"/>
             </a>
             <div class="caption">
                 Anna Luisa cheesing it up
@@ -91,7 +91,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/kate_salsa.jpg' data-lightbox="ads2004" data-title="Kate gets sultry with her salsa">
-                <img src="/images/uploads/2012/08/kate_salsa.jpg" class="img-responsive" alt="Kate and a bowl of salsa"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/kate_salsa.jpg" class="img-responsive" alt="Kate and a bowl of salsa"/>
             </a>
             <div class="caption">
                 Kate gets sultry with her salsa
@@ -102,7 +102,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/few_good_men.jpg' data-lightbox="ads2004" data-title="The girls saying, &#8220;we want you!&#8221;">
-                <img src="/images/uploads/2012/08/few_good_men.jpg" class="img-responsive" alt="Irene, Ashley and Kate posing"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/few_good_men.jpg" class="img-responsive" alt="Irene, Ashley and Kate posing"/>
             </a>
             <div class="caption">
                 The girls saying, &#8220;we want you!&#8221;
@@ -113,7 +113,7 @@ It was also around this time that a new dancer by the name of Sarah started comi
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2012/08/diet.jpg' data-lightbox="ads2004" data-title="Irene in Billy&#8217;s pants">
-                <img src="/images/uploads/2012/08/diet.jpg" class="img-responsive" alt="Irene dons Billy&#039;s pants for a diet ad"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/08/diet.jpg" class="img-responsive" alt="Irene dons Billy&#039;s pants for a diet ad"/>
             </a>
             <div class="caption">
                 Irene in Billy&#8217;s pants

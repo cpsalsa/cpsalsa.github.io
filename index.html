@@ -66,7 +66,7 @@ layout: home
                         </div>
                     </div>
                     <div class="col-md-6 no-gutter">
-                        <div class="content friday-slideshow">
+                        <div class="friday-slideshow">
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ layout: home
                     <div class="col-sm-6">
                         <div class="card">
                             <a href="https://www.facebook.com/events/{{ event.id }}">
-                                <img src="{{ event.image.url }}" alt="{{ event.image.alt }}">
+                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ event.image.url }}" alt="{{ event.image.alt }}">
                             </a>
                             <div class="details">
                                 <h3 class="title">{{ event.title }}</h3>
@@ -124,7 +124,7 @@ layout: home
                 {% endif %}
                     <div class="col-sm-3">
                         <div class="card">
-                            <img src="{{ member.image.url }}" alt="{{ member.image.alt }}">
+                            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ member.image.url }}" alt="{{ member.image.alt }}">
                             <div class="details">
                                 <h3>{{ member.name }}</h3>
                                 <h4>{{ member.position }}</h4>

@@ -26,7 +26,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/MoveWithRhythmka.jpg' data-lightbox="fallAds" data-title="The &#8216;Move with Rhythm&#8217; poster featuring Anna and Khang">
-                <img src="/images/uploads/2014/05/MoveWithRhythmka.jpg" class="attachment-thumbnail size-thumbnail" alt="The &#039;Move with Rhythm&#039; poster featuring Anna and Khang"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/MoveWithRhythmka.jpg" class="attachment-thumbnail size-thumbnail" alt="The &#039;Move with Rhythm&#039; poster featuring Anna and Khang"/>
             </a>
             <div class="caption">
                 The &#8216;Move with Rhythm&#8217; poster featuring Anna and Khang
@@ -37,7 +37,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/MasterTheFootworkka.jpg' data-lightbox="fallAds" data-title="&#8216;Master the Footwork&#8217; poster featuring Anna and Khang">
-                <img src="/images/uploads/2014/05/MasterTheFootworkka.jpg" class="attachment-thumbnail size-thumbnail" alt="&#039;Master the Footwork&#039; poster featuring Anna and Khang"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/MasterTheFootworkka.jpg" class="attachment-thumbnail size-thumbnail" alt="&#039;Master the Footwork&#039; poster featuring Anna and Khang"/>
             </a>
             <div class="caption">
                 &#8216;Master the Footwork&#8217; poster featuring Anna and Khang
@@ -48,7 +48,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/MakeAConnectioncf-copy.jpg' data-lightbox="fallAds" data-title="Poster featuring Charlie and Fabio">
-                <img src="/images/uploads/2014/05/MakeAConnectioncf-copy.jpg" class="attachment-thumbnail size-thumbnail" alt="Poster featuring Charlie and Fabio"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/MakeAConnectioncf-copy.jpg" class="attachment-thumbnail size-thumbnail" alt="Poster featuring Charlie and Fabio"/>
             </a>
             <div class="caption">
                 Poster featuring Charlie and Fabio
@@ -59,7 +59,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/FeelTrueRomancejm.jpg' data-lightbox="fallAds" data-title="Featuring Jeff Berkman and Mariela Broce">
-                <img src="/images/uploads/2014/05/FeelTrueRomancejm.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jeff Berkman and Mariela Broce"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/FeelTrueRomancejm.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jeff Berkman and Mariela Broce"/>
             </a>
             <div class="caption">
                 Featuring Jeff Berkman and Mariela Broce
@@ -70,7 +70,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/FeelTheExhilararionjf.jpg' data-lightbox="fallAds" data-title="Featuring Jessica Cozzetto-Duong and Chris Ellwood">
-                <img src="/images/uploads/2014/05/FeelTheExhilararionjf.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jessica Cozzetto-Duong and Chris Ellwood"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/FeelTheExhilararionjf.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jessica Cozzetto-Duong and Chris Ellwood"/>
             </a>
             <div class="caption">
                 Featuring Jessica Cozzetto-Duong and Chris Ellwood
@@ -81,7 +81,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/EnhanceTheDanceFloorjc.jpg' data-lightbox="fallAds" data-title="Featuring Jessica Cozzetto-Duong and Chris Ellwood">
-                <img src="/images/uploads/2014/05/EnhanceTheDanceFloorjc.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jessica Cozzetto-Duong and Chris Ellwood"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/EnhanceTheDanceFloorjc.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Jessica Cozzetto-Duong and Chris Ellwood"/>
             </a>
             <div class="caption">
                 Featuring Jessica Cozzetto-Duong and Chris Ellwood
@@ -92,7 +92,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/DescubraLaPasion.jpg' data-lightbox="fallAds" data-title="Featuring Chelsea Wanner and Dave Guerrant">
-                <img src="/images/uploads/2014/05/DescubraLaPasion.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Dave Guerrant"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/DescubraLaPasion.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Dave Guerrant"/>
             </a>
             <div class="caption">
                 Featuring Chelsea Wanner and Dave Guerrant
@@ -103,7 +103,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/DanceWithStyle.jpg' data-lightbox="fallAds" data-title="Featuring Chelsea Wanner and Charlie Rios">
-                <img src="/images/uploads/2014/05/DanceWithStyle.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Charlie Rios"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/DanceWithStyle.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Charlie Rios"/>
             </a>
             <div class="caption">
                 Featuring Chelsea Wanner and Charlie Rios
@@ -114,7 +114,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/ComeWithAttitudecc.jpg' data-lightbox="fallAds" data-title="Featuring Chelsea Wanner and Charlie Rios">
-                <img src="/images/uploads/2014/05/ComeWithAttitudecc.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Charlie Rios"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/ComeWithAttitudecc.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Chelsea Wanner and Charlie Rios"/>
             </a>
             <div class="caption">
                 Featuring Chelsea Wanner and Charlie Rios
@@ -125,7 +125,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/CaptivateYourAudience.jpg' data-lightbox="fallAds" data-title="Featuring Charlie Rios and Khang Duong">
-                <img src="/images/uploads/2014/05/CaptivateYourAudience.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Charlie Rios and Khang Duong"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/CaptivateYourAudience.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Charlie Rios and Khang Duong"/>
             </a>
             <div class="caption">
                 Featuring Charlie Rios and Khang Duong
@@ -136,7 +136,7 @@ The first batch of photos is from the Fall quarter and were images taken in a ph
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/anya.jpg' data-lightbox="fallAds" data-title="Featuring Anna Bylova">
-                <img src="/images/uploads/2014/05/anya.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Anna Bylova"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/anya.jpg" class="attachment-thumbnail size-thumbnail" alt="Featuring Anna Bylova"/>
             </a>
             <div class="caption">
                 Featuring Anna Bylova
@@ -153,7 +153,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classnikkiJess.jpg' data-lightbox="springAds" data-title="With Nikki Arceneaux and Jessica Cozzetto-Duong">
-                <img src="/images/uploads/2014/05/classnikkiJess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Nikki Arceneaux and Jessica Cozzetto-Duong"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classnikkiJess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Nikki Arceneaux and Jessica Cozzetto-Duong"/>
             </a>
             <div class="caption">
                 With Nikki Arceneaux and Jessica Cozzetto-Duong
@@ -164,7 +164,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classjess.jpg' data-lightbox="springAds" data-title="With Jessica Cozzetto-Duong">
-                <img src="/images/uploads/2014/05/classjess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Jessica Cozzetto-Duong"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classjess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Jessica Cozzetto-Duong"/>
             </a>
             <div class="caption">
                 With Jessica Cozzetto-Duong
@@ -175,7 +175,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classdaveSmarmy.jpg' data-lightbox="springAds" data-title="With Dave Guerrant">
-                <img src="/images/uploads/2014/05/classdaveSmarmy.jpg" class="attachment-thumbnail size-thumbnail" alt="With Dave Guerrant"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classdaveSmarmy.jpg" class="attachment-thumbnail size-thumbnail" alt="With Dave Guerrant"/>
             </a>
             <div class="caption">
                 With Dave Guerrant
@@ -186,7 +186,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classcharlieJess.jpg' data-lightbox="springAds" data-title="With Charlie Rios groping Jessica Cozzetto-Duong">
-                <img src="/images/uploads/2014/05/classcharlieJess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Charlie Rios groping Jessica Cozzetto-Duong"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classcharlieJess.jpg" class="attachment-thumbnail size-thumbnail" alt="With Charlie Rios groping Jessica Cozzetto-Duong"/>
             </a>
             <div class="caption">
                 With Charlie Rios groping Jessica Cozzetto-Duong
@@ -197,7 +197,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classCharlie.jpg' data-lightbox="springAds" data-title="With Charlie Rios">
-                <img src="/images/uploads/2014/05/classCharlie.jpg" class="attachment-thumbnail size-thumbnail" alt="With Charlie Rios" aria-describedby="gallery-5-1599"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classCharlie.jpg" class="attachment-thumbnail size-thumbnail" alt="With Charlie Rios" aria-describedby="gallery-5-1599"/>
             </a>
             <div class="caption">
                 With Charlie Rios
@@ -208,7 +208,7 @@ The second batch is from the Spring quarter. Charlie wanted to do something sill
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href='/images/uploads/2014/05/classbarrydave.jpg' data-lightbox="springAds" data-title="With Barry Zhang and Dave Guerrant">
-                <img src="/images/uploads/2014/05/classbarrydave.jpg" class="attachment-thumbnail size-thumbnail" alt="With Barry Zhang and Dave Guerrant"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2014/05/classbarrydave.jpg" class="attachment-thumbnail size-thumbnail" alt="With Barry Zhang and Dave Guerrant"/>
             </a>
             <div class="caption">
                 With Barry Zhang and Dave Guerrant

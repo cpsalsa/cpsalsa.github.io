@@ -40,7 +40,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/cls_winter2001-4.jpg" data-lightbox="oldschool" data-title="">
-                <img src="/images/uploads/2011/03/cls_winter2001-4.jpg" class="image-responsive" alt="Salsa Class Winter 2001" />
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/cls_winter2001-4.jpg" class="image-responsive" alt="Salsa Class Winter 2001" />
             </a>
         </div>
     </div>
@@ -48,7 +48,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/cls_winter2001-3.jpg" data-lightbox="oldschool" data-title="">
-                <img src="/images/uploads/2011/03/cls_winter2001-3.jpg" class="image-responsive" alt="Salsa Class Winter 2001" />
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/cls_winter2001-3.jpg" class="image-responsive" alt="Salsa Class Winter 2001" />
             </a>
         </div>
     </div>
@@ -56,7 +56,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/nate-mel436.jpg" data-lightbox="oldschool" data-title="Nate dipping Melanie">
-                <img src="/images/uploads/2011/03/nate-mel436.jpg" class="image-responsive" alt="Nate dipping Melanie"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/nate-mel436.jpg" class="image-responsive" alt="Nate dipping Melanie"/>
             </a>
             <div class="caption">
                 <small>Nate dipping Melanie</small>
@@ -67,7 +67,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/Ladies.jpg" data-lightbox="oldschool" data-title="The CPSalsa Ladies">
-                <img src="/images/uploads/2011/03/Ladies.jpg" class="image-responsive" alt="CPSalsa Ladies"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/Ladies.jpg" class="image-responsive" alt="CPSalsa Ladies"/>
             </a>
             <div class="caption">
                 <small>The CPSalsa Ladies</small>
@@ -78,7 +78,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/cpsalsa_joby.jpg" data-lightbox="oldschool" data-title="Joby with Oscar">
-                <img src="/images/uploads/2011/03/cpsalsa_joby.jpg" class="image-responsive" alt="Joby and Oscar"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/cpsalsa_joby.jpg" class="image-responsive" alt="Joby and Oscar"/>
             </a>
             <div class="caption">
                 <small>Joby with Oscar</small>
@@ -89,7 +89,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/cpsalsa_nate2.jpg" data-lightbox="oldschool" data-title="Jeff and Nate">
-                <img src="/images/uploads/2011/03/cpsalsa_nate2.jpg" class="image-responsive" alt="Jeff and Nate"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/cpsalsa_nate2.jpg" class="image-responsive" alt="Jeff and Nate"/>
             </a>
             <div class="caption">
                 <small>Jeff and Nate</small>
@@ -100,7 +100,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/jeff-sandra.jpg" data-lightbox="oldschool" data-title="Jeff dancing with Sandra Bullock. Yes, that Sandra Bullock">
-                <img src="/images/uploads/2011/03/jeff-sandra.jpg" class="image-responsive" alt="Jeff dancing with Sandra Bullock"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/jeff-sandra.jpg" class="image-responsive" alt="Jeff dancing with Sandra Bullock"/>
             </a>
             <div class="caption">
                 <small>Jeff dancing with Sandra Bullock</small>
@@ -111,7 +111,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/JeffandRogelio.jpg" data-lightbox="oldschool" data-title="Jeff and Rogelio showing off a tshirt">
-                <img src="/images/uploads/2011/03/JeffandRogelio.jpg" class="image-responsive" alt="Jeff and Rogelio showing off a tshirt"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/JeffandRogelio.jpg" class="image-responsive" alt="Jeff and Rogelio showing off a tshirt"/>
             </a>
             <div class="caption">
                 <small>Jeff and Rogelio showing off a tshirt</small>
@@ -122,7 +122,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/jeff-mel4.jpg" data-lightbox="oldschool" data-title="Dip!">
-                <img src="/images/uploads/2011/03/jeff-mel4.jpg" class="image-responsive" alt="Jeff dipping Mel"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/jeff-mel4.jpg" class="image-responsive" alt="Jeff dipping Mel"/>
             </a>
             <div class="caption">
                 <small>Dip!</small>
@@ -133,7 +133,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/jeff-eddie67.jpg" data-lightbox="oldschool" data-title="Jeff goofing off with Ed">
-                <img src="/images/uploads/2011/03/jeff-eddie67.jpg" class="image-responsive" alt="Jeff and Eddie"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/jeff-eddie67.jpg" class="image-responsive" alt="Jeff and Eddie"/>
             </a>
             <div class="caption">
                 <small>Jeff goofing off with Ed</small>
@@ -144,7 +144,7 @@ CPSalsa began hosting weekly lessons every Tuesday accompanied by a dance. Slo
     <div class="col-sm-4">
         <div class="thumbnail">
             <a href="/images/uploads/2011/03/salsa103002e.jpg" data-lightbox="oldschool" data-title="A group of officers and dancers from the early days">
-                <img src="/images/uploads/2011/03/salsa103002e.jpg" class="image-responsive" alt="The Officers"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2011/03/salsa103002e.jpg" class="image-responsive" alt="The Officers"/>
             </a>
             <div class="caption">
                 <small>A group of officers and dancers from the early days</small>

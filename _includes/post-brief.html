@@ -2,7 +2,7 @@
     <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-img">
             {% if post.image %}
-            <img src="{{ post.image }}" alt="Post Featured Image">
+            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ post.image }}" alt="Post Featured Image">
             {% endif %}
         </div>
     </a>

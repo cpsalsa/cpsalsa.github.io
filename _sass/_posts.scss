@@ -51,14 +51,17 @@
             object-fit: cover;
             object-position: top;
 
-            @media (min-width: $screen-lg-min) {
+            @media (min-width: $screen-md-min) {
                 filter: saturate(50%);
-                transition: ease-in-out 0.2s all;
             }
+
+            transition: ease-in-out 0.2s all;
         }
         .post-img img:hover {
-            filter: unset;
-            transform: scale(1.1);
+            @media (min-width: $screen-md-min) {
+                filter: unset;
+                transform: scale(1.1);
+            }
         }
         .post-img:before {
             // content: '';

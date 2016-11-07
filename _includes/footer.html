@@ -18,6 +18,7 @@
 
 <script src="{{ "/js/jquery-3.1.1.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/lightbox.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/unslider-min.js" | prepend: site.baseurl }}"></script>
 
 <script type="text/javascript">
     jQuery(function() {
@@ -34,4 +35,32 @@
             }
         });
     });
+
+
+    function init() {
+        var imgDefer = document.getElementsByTagName('img');
+        var onload = function(img) {
+            img.removeAttribute('data-src');
+        };
+
+        for (var i = 0; i < imgDefer.length; i++) {
+            var img = imgDefer[i];
+
+            if(img.getAttribute('data-src')) {
+                img.setAttribute('src', img.getAttribute('data-src'));
+            }
+
+            img.onload = onload.bind(this, img);
+        }
+
+        jQuery('.slider').unslider({
+            animation: 'fade',
+            autoplay: true,
+            arrows: false,
+            delay: 10000,
+            speed: 2000
+        });
+    }
+
+    window.onload = init;
 </script>

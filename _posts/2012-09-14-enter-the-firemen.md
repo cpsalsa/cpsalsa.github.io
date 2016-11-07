@@ -71,7 +71,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/charlieSmall1.jpg" data-lightbox="fireman-ads" data-title="Hat? Check. Jacket? Check. Shirt? &#8230;">
-                <img src="/images/uploads/2012/09/charlieSmall1.jpg" alt="Charlie the Firewoman"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/charlieSmall1.jpg" alt="Charlie the Firewoman"/>
             </a>
             <div class="caption">
                 <small>Hat? Check. Jacket? Check. Shirt? &#8230;</small>
@@ -82,7 +82,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/kokouSmall1.jpg" data-lightbox="fireman-ads" data-title="Firemen don&#8217;t need shirts or jackets to battle fires right?">
-                <img src="/images/uploads/2012/09/kokouSmall1.jpg" alt="Kokou Shirtless"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/kokouSmall1.jpg" alt="Kokou Shirtless"/>
             </a>
             <div class="caption">
                 <small>Firemen don&#8217;t need shirts or jackets to battle fires right?</small>
@@ -93,7 +93,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/toddSmall1.jpg" data-lightbox="fireman-ads" data-title="&#8220;In our jurisdiction, we fight fires with less clothes.&#8221;">
-                <img src="/images/uploads/2012/09/toddSmall1.jpg" alt="The Actual Fireman"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/toddSmall1.jpg" alt="The Actual Fireman"/>
             </a>
             <div class="caption">
                 <small>&#8220;In our jurisdiction, we fight fires with less clothes.&#8221;</small>
@@ -104,7 +104,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/jessSmall1.jpg" data-lightbox="fireman-ads" data-title="Dancer&#8217;s legs.">
-                <img src="/images/uploads/2012/09/jessSmall1.jpg" alt="Jess&#039; Legs"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/jessSmall1.jpg" alt="Jess&#039; Legs"/>
             </a>
             <div class="caption">
                 <small>Dancer&#8217;s legs.</small>
@@ -115,7 +115,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/donaMariaSmall1.jpg" data-lightbox="fireman-ads" data-title="">
-                <img src="/images/uploads/2012/09/donaMariaSmall1.jpg"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/donaMariaSmall1.jpg"/>
             </a>
         </div>
     </div>
@@ -123,7 +123,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/buttSmall1.jpg" data-lightbox="fireman-ads" data-title="More of the dancer&#8217;s legs&#8230;with some adivitional skin&#8230;">
-                <img src="/images/uploads/2012/09/buttSmall1.jpg" alt="Jess&#039; Legs"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/buttSmall1.jpg" alt="Jess&#039; Legs"/>
             </a>
             <div class="caption">
                 <small>More of the dancer&#8217;s legs&#8230;with some adivitional skin&#8230;</small>
@@ -134,7 +134,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/censorshipStickers1.jpg" data-lightbox="fireman-ads" data-title="Censorship Stickers Set 1">
-                <img src="/images/uploads/2012/09/censorshipStickers1.jpg" alt="Censorship Stickers Set 1"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/censorshipStickers1.jpg" alt="Censorship Stickers Set 1"/>
             </a>
             <div class="caption">
                 <small>The first set of censorship stickers.</small>
@@ -145,7 +145,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/censorshipStickers21.jpg" data-lightbox="fireman-ads" data-title="Censorship Stickers Set 2">
-                <img src="/images/uploads/2012/09/censorshipStickers21.jpg" alt="Censorship Stickers Set 2"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/censorshipStickers21.jpg" alt="Censorship Stickers Set 2"/>
             </a>
             <div class="caption">
                 <small>The second set of censorship stickers</small>
@@ -156,7 +156,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/censorshipStickers3.jpg" data-lightbox="fireman-ads" data-title="Censorship Stickers Set 3">
-                <img src="/images/uploads/2012/09/censorshipStickers3.jpg" alt="Censorship Stickers Set 3"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/censorshipStickers3.jpg" alt="Censorship Stickers Set 3"/>
             </a>
             <div class="caption">
                 <small>The third set of censorship stickers</small>
@@ -167,7 +167,7 @@ All told, it was probably our most successful ad campaign ever. Of course, talki
     <div class="col-sm-3">
         <div class="thumbnail">
             <a href="/images/uploads/2012/09/censorshipStickers41.jpg" data-lightbox="fireman-ads" data-title="Censorship Stickers Set 4">
-                <img src="/images/uploads/2012/09/censorshipStickers41.jpg" alt="Censorship Stickers Set 4"/>
+                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/images/uploads/2012/09/censorshipStickers41.jpg" alt="Censorship Stickers Set 4"/>
             </a>
             <div class="caption">
                 <small>The last set of censorship stickers</small>

@@ -3,29 +3,9 @@
   when: '2016-11-11T19:30:00-0800'
   where:
     name: Cal Poly Bld 5 Rm 225
-    latitude: 35.30315
-    longitude: -120.65955
+    latitude: 35.300661348709
+    longitude: -120.66432237625
   image:
     url: >-
       https://scontent.xx.fbcdn.net/t31.0-8/s720x720/14852985_10154697319218000_2427128804773692957_o.jpg
     alt: 'CPSalsa Friday Night: Week 7!'
-- id: '357480924591555'
-  title: 24th Madonna Inn Salsa Night of 2016
-  when: '2016-11-08T20:00:00-0800'
-  where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14604857_10154697397088000_3661771392985042989_n.jpg?oh=2b10673359effed26500bf2ad872e1e5&oe=58CE2374
-    alt: 24th Madonna Inn Salsa Night of 2016
-- id: '1102046236580458'
-  title: CP Salsa Officer Meeting
-  when: '2016-11-08T19:00:00-0800'
-  where:
-    name: 'Cal Poly, Building 2, Room 212'
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14639879_10154697383758000_7910411619235098108_n.png?oh=d4340781ac7f9f0bab1146400b869f74&oe=58CC55C7
-    alt: CP Salsa Officer Meeting

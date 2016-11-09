@@ -87,10 +87,11 @@ layout: home
             </div>
         </section>
 
+        {% if site.data.events %}
+        {% assign events = site.data.events | sort: 'when' %}
         <section class="events">
             <div class="container-fluid">
                 <h1>Upcoming Events</h1>
-                {% assign events = site.data.events | sort: 'when' %}
                 {% for event in events %}
                 {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
                 {% if modulo == '0' %}
@@ -114,6 +115,7 @@ layout: home
                 {% endfor %}
             </div>
         </section>
+        {% endif %}
 
         <section class="about">
             <div class="container-fluid">

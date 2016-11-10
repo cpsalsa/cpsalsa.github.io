@@ -83,7 +83,7 @@
     height: 100%;
     min-height: 800px;
 }
-.fridays .unslider-wrap {
+.fridays ul {
     list-style: none;
 }
 .fridays .unslider {
@@ -107,7 +107,6 @@
     background: $event-background;
 }
 .fb-events .card {
-    overflow: hidden;
     padding: 0;
     background: $event-card-background;
 

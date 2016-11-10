@@ -1,0 +1,23 @@
+<div class="gallery">
+    {% for item in include.gallery %}
+    {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
+    {% if modulo == '0' %}
+    <div class="row sm-flex gallery">
+    {% endif %}
+        <div class="col-sm-3">
+            <div class="thumbnail">
+                <a href='{{ item.image }}' data-lightbox="{{ include.grouping }}" data-title="{{ item.caption }}">
+                    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+                         data-src="{{ item.image }}" class="attachment-thumbnail size-thumbnail"
+                         alt="{{ item.caption }}"/>
+                </a>
+                <div class="caption">
+                    {{ item.caption }}
+                </div>
+            </div>
+        </div>
+    {% if modulo == '3' or forloop.last == true %}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

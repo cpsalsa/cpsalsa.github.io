@@ -15,12 +15,17 @@ layout: all-posts
         </section>
 
         <section class="posts">
+            {% for post in site.posts %}
+            {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+            {% if modulo == '0' %}
             <div class="row sm-flex">
-                {% for post in site.posts %}
+            {% endif %}
                 <div class="col-sm-6 post-wrapper">
                 {% include post-brief.html post=post %}
                 </div>
-                {% endfor %}
+            {% if modulo == '1' or forloop.last == true %}
             </div>
+            {% endif %}
+            {% endfor %}
         </section>
 

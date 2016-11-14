@@ -87,7 +87,7 @@ layout: home
             </div>
         </section>
 
-        {% if site.data.events != empty %}
+        {% if site.data.events %}
         {% assign events = site.data.events | sort: 'when' %}
         <section class="events wow fadeIn">
             <div class="container-fluid">

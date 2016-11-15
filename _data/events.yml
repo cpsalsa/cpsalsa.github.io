@@ -1,0 +1,22 @@
+- id: '186263861833111'
+  title: 25th Madonna Inn Salsa Night of 2016
+  when: '2016-11-22T20:00:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15078579_10154744085588000_5646750631063177032_n.jpg?oh=4f694725f2bafc6c3cf6ed45b10c976a&oe=58BBFE2B
+    alt: 25th Madonna Inn Salsa Night of 2016
+- id: '977211539068596'
+  title: 'CPSalsa Friday Night: Week 8!'
+  when: '2016-11-18T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/14906886_10154717735463000_7350974307899492846_n.jpg?oh=81282fe443bdcad827474773ad987b10&oe=58BBDC00
+    alt: 'CPSalsa Friday Night: Week 8!'

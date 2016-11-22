@@ -1,3 +1,14 @@
+- id: '1797309683857216'
+  title: 26th Madonna Inn Salsa Night of 2016
+  when: '2016-11-29T20:00:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15095634_10154744227763000_249194169144803484_n.jpg?oh=08bd0844767b446fa4048d10d6745120&oe=58CB6B13
+    alt: 26th Madonna Inn Salsa Night of 2016
 - id: '186263861833111'
   title: 25th Madonna Inn Salsa Night of 2016
   when: '2016-11-22T20:00:00-0800'

@@ -1,3 +1,12 @@
+- id: '1195709300523551'
+  title: 'CPSalsa Holiday Party - Food, White Elephant, and More :)'
+  when: '2016-12-03T18:00:00-0800'
+  where:
+    name: '832 Lawrence Dr, San Luis Obispo, CA 93401-5716, United States'
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/15220177_10154790175318000_5297303497549378545_n.jpg?oh=831937ff039176dd72b6d6261b93c7f2&oe=58FCB47E
+    alt: 'CPSalsa Holiday Party - Food, White Elephant, and More :)'
 - id: '1396582933715450'
   title: 'CPSalsa Friday Night: Week 9!'
   when: '2016-12-02T19:30:00-0800'

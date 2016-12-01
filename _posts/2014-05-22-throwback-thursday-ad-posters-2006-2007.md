@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=1521
 permalink: /archives/throwback-thursday-ad-posters-2006-2007
-sfw_pwd:
-    - pE5v83jJf7bl
 image: /images/uploads/2014/05/CaptivateYourAudience1-e1400531866437.jpg
 galleries:
     first:

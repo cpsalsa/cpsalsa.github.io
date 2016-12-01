@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=428
 permalink: /archives/history-pt-deux
-sfw_pwd:
-    - W1VF9my3kPMz
 image: /images/uploads/2012/08/without.jpg
 excerpt:
     Our stroll down memory lane begins a few years after the founding of CPSalsa (detailed in <a href="http://www.cpsalsa.com/archives/a-little-history">Part 1</a>.

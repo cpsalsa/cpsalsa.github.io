@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=88
 permalink: /archives/a-little-history
-sfw_pwd:
-    - JiMNgzxHaCpu
 image: /images/uploads/2011/03/salsa103002e.jpg
 excerpt:
     Eleven years ago, CPSalsa was little more than an idea floating around inside the heads of a couple of guys. Back then, they may not have known that CPSalsa would still be here now, but to them, all that mattered was that they needed to dance Salsa, and they wanted more people to get into it like they were. This little story is about how those two guys gave rise to our favorite little club.

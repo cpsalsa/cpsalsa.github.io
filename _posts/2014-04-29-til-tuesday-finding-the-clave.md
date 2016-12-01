@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=1491
 permalink: /archives/til-tuesday-finding-the-clave
-sfw_pwd:
-    - FuS1fx2SnKJd
 image: /images/uploads/2014/04/Clave-e1398801073242.jpg
 excerpt:
     A while back I <a title="Some Rhythm Lessons" href="http://www.cpsalsa.com/archives/some-rhythm-lessons" target="_blank">posted a video</a> on the clave rhythm, but if you&#8217;ve been listening to a lot of salsa, you may find that you can&#8217;t actually hear it all the time. So how do you find the clave when you can&#8217;t hear it (you&#8217;ll likely want to do this when dancing on2 or in the clave)? This video explains how.

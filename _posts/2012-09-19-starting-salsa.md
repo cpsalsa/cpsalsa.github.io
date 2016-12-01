@@ -6,8 +6,6 @@ author: angie
 layout: post
 guid: http://www.cpsalsa.com/?p=1142
 permalink: /archives/starting-salsa
-sfw_pwd:
-    - xEojwD2DG5QE
 image: /images/uploads/2012/09/angie-started.jpg
 categories:
     - History

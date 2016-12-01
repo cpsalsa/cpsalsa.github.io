@@ -7,8 +7,6 @@ layout: post
 guid: http://www.cpsalsa.com/?p=1482
 permalink: /archives/throwback-thursday-officers-04
 image: /images/uploads/2014/04/9225797365_87dbba05d4_o.jpg
-sfw_pwd:
-    - X39Th7x7ACyV
 categories:
     - History
     - Throwback Thursdays

@@ -6,8 +6,6 @@ author: chance
 layout: post
 guid: http://www.cpsalsa.com/?p=1000
 permalink: /archives/learning-to-live-and-salsa
-sfw_pwd:
-    - fNLqEDQf7OcI
 image: /images/uploads/2012/09/chance-salsa.jpg
 categories:
     - History

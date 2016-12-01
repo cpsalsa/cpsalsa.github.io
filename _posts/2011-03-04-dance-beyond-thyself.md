@@ -10,8 +10,6 @@ permalink: /archives/dance-beyond-thyself
 image: /images/uploads/2011/03/dance-better.jpg
 excerpt:
     'Dancers use the term “plateau”  to describe a point of stagnation. If you want out of this rut, you&#8217;ll need to push your limits, and here’s how:'
-sfw_pwd:
-  - kcW4tLfaQIqT
 categories:
   - Dance
 tags:

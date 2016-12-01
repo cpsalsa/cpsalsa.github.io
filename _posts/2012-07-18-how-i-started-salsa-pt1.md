@@ -6,8 +6,6 @@ author: patrick
 layout: post
 guid: http://www.cpsalsa.com/?p=434
 permalink: /archives/how-i-started-salsa-pt1
-sfw_pwd:
-    - 0uikcNyfgPOu
 image: /images/uploads/2012/07/patrick-salsa-1.jpg
 categories:
     - History

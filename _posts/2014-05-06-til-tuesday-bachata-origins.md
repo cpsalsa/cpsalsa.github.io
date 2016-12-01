@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=1507
 permalink: /archives/til-tuesday-bachata-origins
-sfw_pwd:
-    - XR16gS80GrGG
 image: /images/uploads/2014/05/bachata_unrequited_love_-e1398964711695.jpg
 excerpt:
     Bachata originated from the Dominican Republic in the 1960s following the demise of Trujillo and his 30 year dictatorship, the first recorded bachata singles being credited to <a href="http://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Calder%C3%B3n_(musician)">José Manuel Calderón</a>. Originally, it was considered a variant of bolero, though was given the name bachata by those who wanted to disparage the music as culturally backward and vulgar.

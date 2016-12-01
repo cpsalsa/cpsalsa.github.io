@@ -12,8 +12,6 @@ excerpt:
     As a thirteen year Salsa veteran, I consider myself a decent lead; however, when I started, I stumbled and flailed, couldn&#8217;t keep a beat, and generally made a fool of myself. And all the while, I couldn&#8217;t figure out why I was surrounded by better dancers that have been dancing the same amount of time as me.
 dsq_thread_id:
     - "240440780"
-sfw_pwd:
-    - ylepaJdtT1F8
 categories:
     - Dance
 tags:

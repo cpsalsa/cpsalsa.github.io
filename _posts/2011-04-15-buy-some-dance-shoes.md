@@ -10,8 +10,6 @@ permalink: /archives/buy-some-dance-shoes
 image: /images/uploads/2011/04/dancers-shoes.jpg
 excerpt:
     Too many CPSalsa dancers wear flip flops or sneakers, week after week, month after month, without realizing what a huge hindrance it is to their dancing. Buying a pair of dance shoes is perhaps the easiest way to improve one’s dancing quickly.
-sfw_pwd:
-  - JPKEWSUuWeVl
 categories:
   - Dance
 tags:

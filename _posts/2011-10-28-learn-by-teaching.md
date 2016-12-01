@@ -10,8 +10,6 @@ permalink: /archives/learn-by-teaching
 image: /images/uploads/2011/10/dance-class.jpg
 excerpt:
     Learning to teach Salsa starts off by analyzing every lead, follow, movement and style that make up a combination. This detailed analysis will improve your own understanding and awareness of the combination, and will also show you which parts of a combination you need to practice.
-sfw_pwd:
-    - lzKw25LsSwm5
 categories:
     - Dance
 tags:

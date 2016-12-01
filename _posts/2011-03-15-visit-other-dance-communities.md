@@ -10,8 +10,6 @@ permalink: /archives/visit-other-dance-communities
 image: /images/uploads/2011/03/dance-communities.jpg
 excerpt:
     Yes, ignorance is bliss, but if you want to be a better dancer, you need to venture out and experience Salsa in the big world. SLO has a particular homey, homogeneous style called “late nineties on ‘1’ L.A.” Our local dancers know each other so well, they can dance blindfolded and tell who their partner is.
-sfw_pwd:
-  - 05pnlLAlVxzt
 categories:
   - Dance
 tags:

@@ -7,8 +7,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=570
 permalink: /archives/enter-the-firemen
-sfw_pwd:
-    - o2CdktP95UK0
 image: /images/uploads/2012/09/firemanFeatured-e1353458335389.jpg
 excerpt:
     We were originally thinking of movie parodies like <i>American Beauty</i> and <i>Spiderman</i> when Charlie had mentioned in one of the advertising meetings the idea of doing something with firemen in the shoot. It sounded like a good idea to all of us, and luckily, I had recently met a new dancer who was married to a fireman; so I was able to get her and her husband to agree to lend us equipment (and her husband) for the photos.

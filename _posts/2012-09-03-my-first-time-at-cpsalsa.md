@@ -6,8 +6,6 @@ author: aarti
 layout: post
 guid: http://www.cpsalsa.com/?p=873
 permalink: /archives/my-first-time-at-cpsalsa
-sfw_pwd:
-    - EpqPqPT2Fwlk
 image: /images/uploads/2012/09/aarti-salsa.jpg
 categories:
     - History

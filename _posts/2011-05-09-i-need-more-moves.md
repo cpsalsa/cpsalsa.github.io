@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=214
 permalink: /archives/i-need-more-moves
-sfw_pwd:
-    - Dqh1Q0YHrfkJ
 image: /images/uploads/2011/05/need-more-moves.jpg
 categories:
     - Videos

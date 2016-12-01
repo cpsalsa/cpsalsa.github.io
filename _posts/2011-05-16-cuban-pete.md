@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=228
 permalink: /archives/cuban-pete
-sfw_pwd:
-    - OtQGOce4UaG7
 image: /images/uploads/2011/05/cuban-pete.jpg
 excerpt: Cuban Pete was one of the celebrated dancers of the Palladium era of mambo/salsa in the 50s.
 categories:

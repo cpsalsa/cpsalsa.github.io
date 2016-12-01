@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=236
 permalink: /archives/favorite-songs
-sfw_pwd:
-    - y9ops7XapVMw
 image: /images/uploads/2011/06/favorite-songs.jpg
 categories:
     - Dance

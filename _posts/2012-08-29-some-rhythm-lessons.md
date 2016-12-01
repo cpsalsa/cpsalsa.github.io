@@ -6,8 +6,6 @@ author: khang
 layout: post
 guid: http://www.cpsalsa.com/?p=807
 permalink: /archives/some-rhythm-lessons
-sfw_pwd:
-  - B9WlClsbr8Je
 image: /images/uploads/2012/08/delabahia.jpg
 excerpt:
     Found these drum lessons on youtube that give some great background and insight into two core rhythms in Afro-Cuban music. Pretty in depth since it&#8217;s meant to teach how to play these  on drums, but good nonetheless.

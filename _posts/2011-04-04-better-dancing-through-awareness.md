@@ -10,8 +10,6 @@ permalink: /archives/better-dancing-through-awareness
 image: /images/uploads/2011/04/dance-awareness.jpg
 excerpt:
     The best advice I can give to an aspiring dancer, besides taking classes and dancing, is to become mindful. I see too many &#8220;experienced&#8221; dancers leading or following poorly because they are dancing blindly, unaware of their flaws, their surrounding, their everything. They dance at the same low level for years, barely making progress. It&#8217;s a common sight, really. The remedy is to sharpen your awareness of yourself, your partner, and your environment. It&#8217;s so easy, I&#8217;m surprised more don&#8217;t do it. Here are a few tips to get you tuned in:
-sfw_pwd:
-  - 1LydiEV2UPHX
 categories:
   - Dance
 tags:

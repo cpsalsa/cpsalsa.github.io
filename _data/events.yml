@@ -1,3 +1,14 @@
+- id: '242326132872958'
+  title: 2nd Madonna Inn Salsa Night of 2017
+  when: '2017-01-24T20:00:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16142329_10154972764218000_7032209125399745037_n.jpg?oh=ed210d3e654c7adbe67f6678dd0280b9&oe=590C0CF1
+    alt: 2nd Madonna Inn Salsa Night of 2017
 - id: '1232424473517471'
   title: 'CPSalsa Friday Night: Week 2!'
   when: '2017-01-20T19:30:00-0800'

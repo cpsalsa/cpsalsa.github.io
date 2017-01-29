@@ -1,3 +1,14 @@
+- id: '582671198605847'
+  title: Misho and Akrivi Come to SLO
+  when: '2017-02-03T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16299545_10155017479513000_2658314375390556903_n.jpg?oh=e04cdac53c306356646a5e74dde23a59&oe=59136576
+    alt: Misho and Akrivi Come to SLO
 - id: '1828193280729865'
   title: 3rd Madonna Inn Salsa Night of 2017
   when: '2017-01-31T20:00:00-0800'
@@ -9,14 +20,14 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16388270_10155011829528000_4139497849887673755_n.jpg?oh=3e266e0f3499c2297d3763f490af7728&oe=59069D84
     alt: 3rd Madonna Inn Salsa Night of 2017
-- id: '407026279634750'
-  title: 'CPSalsa Friday Night: Week 3!'
-  when: '2017-01-27T19:30:00-0800'
+- id: '242232866224172'
+  title: CPSalsa Officer Meeting
+  when: '2017-01-31T19:00:00-0800'
   where:
     name: Cal Poly Bld 5 Rm 225
     latitude: 35.300661348709
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16142978_10154998579718000_3662609906990911287_n.jpg?oh=95dd0ab534bef9c2cd7c4d2c90d98f2d&oe=5915B35F
-    alt: 'CPSalsa Friday Night: Week 3!'
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16265416_10155015224448000_6835047780995474020_n.jpg?oh=82ac301cc9e3c49893d7361fbcb3304c&oe=5913A808
+    alt: CPSalsa Officer Meeting

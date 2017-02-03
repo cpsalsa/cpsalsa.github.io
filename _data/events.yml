@@ -1,3 +1,14 @@
+- id: '1812422289024567'
+  title: Intermediate/Advanced Bachata - Refresher
+  when: '2017-02-06T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16425764_10155031796198000_6124027743938084211_n.png?oh=dc7f008f4a94928f5207d2eb4aac2f63&oe=590800B0
+    alt: Intermediate/Advanced Bachata - Refresher
 - id: '582671198605847'
   title: Misho and Akrivi Come to SLO
   when: '2017-02-03T19:30:00-0800'

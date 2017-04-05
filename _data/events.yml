@@ -1,33 +1,44 @@
-- id: '381696395539799'
-  title: 4th Madonna Inn Salsa Night of 2017
-  when: '2017-02-14T20:00:00-0800'
+- id: '762278257262562'
+  title: National Dance Week Demo at Farmers Market
+  when: '2017-04-20T18:00:00-0700'
   where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
+    name: San Luis Obispo Farmers Market
+    latitude: 35.279257319091
+    longitude: -120.6635338
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16473079_10155031756688000_7099477188868338649_n.jpg?oh=1ccd241816b3cd36a766cf4b7295203f&oe=5949538E
-    alt: 4th Madonna Inn Salsa Night of 2017
-- id: '162783390883762'
-  title: 'CPSalsa Friday Night: Week 5!'
-  when: '2017-02-10T19:30:00-0800'
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17155680_10155165707173000_704644957133746006_n.jpg?oh=bd3cfd8f312d71fb86c417e70a9bf4df&oe=5954B3ED
+    alt: National Dance Week Demo at Farmers Market
+- id: '227258807678693'
+  title: CPSalsa at Open House
+  when: '2017-04-08T08:00:00-0700'
+  where:
+    name: California Polytechnic State University (Cal Poly)
+    latitude: 35.300319102941
+    longitude: -120.66024579852
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/17353454_10155229543453000_1233963916667559132_n.jpg?oh=03710b2c8af40eff2896809928b5e819&oe=59577FCE
+    alt: CPSalsa at Open House
+- id: '243132189489049'
+  title: 'CPSalsa Friday Night: Week 1!'
+  when: '2017-04-07T19:30:00-0700'
   where:
     name: Cal Poly Bld 5 Rm 225
     latitude: 35.300661348709
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16472939_10155031753318000_534261719742032362_n.jpg?oh=4410da3cebcda0ac73af6e891ebe95e2&oe=5945DCD5
-    alt: 'CPSalsa Friday Night: Week 5!'
-- id: '1812422289024567'
-  title: Intermediate/Advanced Bachata - Refresher
-  when: '2017-02-06T19:00:00-0800'
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17757338_10155231736928000_9148904073670757970_n.jpg?oh=6020674f85c7317fff1d277eb2a5a9c1&oe=594EDB25
+    alt: 'CPSalsa Friday Night: Week 1!'
+- id: '919783384791755'
+  title: CPSalsa at SLO Farmers Market
+  when: '2017-04-06T18:00:00-0700'
   where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
+    name: San Luis Obispo Farmers Market
+    latitude: 35.279257319091
+    longitude: -120.6635338
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/16425764_10155031796198000_6124027743938084211_n.png?oh=dc7f008f4a94928f5207d2eb4aac2f63&oe=590800B0
-    alt: Intermediate/Advanced Bachata - Refresher
+      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/17635150_10155229382463000_2076646926307200792_o.jpg?oh=de810a1166a826b57f73b5aff0b80032&oe=5958DFF2
+    alt: CPSalsa at SLO Farmers Market

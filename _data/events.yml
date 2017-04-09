@@ -9,25 +9,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17155680_10155165707173000_704644957133746006_n.jpg?oh=bd3cfd8f312d71fb86c417e70a9bf4df&oe=5954B3ED
     alt: National Dance Week Demo at Farmers Market
-- id: '227258807678693'
-  title: CPSalsa at Open House
-  when: '2017-04-08T08:00:00-0700'
-  where:
-    name: California Polytechnic State University (Cal Poly)
-    latitude: 35.300319102941
-    longitude: -120.66024579852
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/17353454_10155229543453000_1233963916667559132_n.jpg?oh=03710b2c8af40eff2896809928b5e819&oe=59577FCE
-    alt: CPSalsa at Open House
-- id: '243132189489049'
-  title: 'CPSalsa Friday Night: Week 1!'
-  when: '2017-04-07T19:30:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17757338_10155231736928000_9148904073670757970_n.jpg?oh=6020674f85c7317fff1d277eb2a5a9c1&oe=594EDB25
-    alt: 'CPSalsa Friday Night: Week 1!'

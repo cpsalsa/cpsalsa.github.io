@@ -1,3 +1,25 @@
+- id: '273279419798167'
+  title: 9th Madonna Inn Salsa Night of 2017
+  when: '2017-04-25T20:00:00-0700'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17861632_10155258341128000_7367488090360857875_n.jpg?oh=5f21c44b9aa31443d02c1cb64741f78f&oe=598C04E7
+    alt: 9th Madonna Inn Salsa Night of 2017
+- id: '231750330563179'
+  title: 'CPSalsa Friday Night: Week 3!'
+  when: '2017-04-21T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17757279_10155258299213000_8630230072887082992_n.jpg?oh=b226b9eb9bb5a9c6cfdefabf392d8ae5&oe=5955CFFB
+    alt: 'CPSalsa Friday Night: Week 3!'
 - id: '762278257262562'
   title: National Dance Week Demo at Farmers Market
   when: '2017-04-20T18:00:00-0700'
@@ -18,14 +40,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17904192_10155271027913000_375920100780850851_n.jpg?oh=44ee88b1e2b04bc006741743d6f8adb3&oe=599A0489
     alt: CPSalsa Elections
-- id: '623801681148019'
-  title: 'CPSalsa Friday Night: Week 2!'
-  when: '2017-04-14T19:30:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17523191_10155258241243000_405248057964117929_n.jpg?oh=1601a378ebf63a7f1da5ccb9175b9637&oe=598BBC40
-    alt: 'CPSalsa Friday Night: Week 2!'

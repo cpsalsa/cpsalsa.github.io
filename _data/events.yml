@@ -1,3 +1,14 @@
+- id: '729394103901938'
+  title: 'CPSalsa Friday Night: Week 4!'
+  when: '2017-04-28T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17884352_10155258329383000_6770441476150990201_n.jpg?oh=7c5e5727a2290b9bba425cb46066af82&oe=598305E5
+    alt: 'CPSalsa Friday Night: Week 4!'
 - id: '273279419798167'
   title: 9th Madonna Inn Salsa Night of 2017
   when: '2017-04-25T20:00:00-0700'
@@ -9,14 +20,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17861632_10155258341128000_7367488090360857875_n.jpg?oh=5f21c44b9aa31443d02c1cb64741f78f&oe=598C04E7
     alt: 9th Madonna Inn Salsa Night of 2017
-- id: '231750330563179'
-  title: 'CPSalsa Friday Night: Week 3!'
-  when: '2017-04-21T19:30:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17757279_10155258299213000_8630230072887082992_n.jpg?oh=51d1249891500d0e8961477ad7080e85&oe=597D5CFB
-    alt: 'CPSalsa Friday Night: Week 3!'

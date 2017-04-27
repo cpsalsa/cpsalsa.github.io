@@ -9,21 +9,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17884352_10155258329383000_6770441476150990201_n.jpg?oh=7c5e5727a2290b9bba425cb46066af82&oe=598305E5
     alt: 'CPSalsa Friday Night: Week 4!'
-- id: '273279419798167'
-  title: 9th Madonna Inn Salsa Night of 2017
-  when: '2017-04-25T20:00:00-0700'
-  where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17861632_10155258341128000_7367488090360857875_n.jpg?oh=5f21c44b9aa31443d02c1cb64741f78f&oe=598C04E7
-    alt: 9th Madonna Inn Salsa Night of 2017
-- id: '1217674911683834'
-  title: Officer Meeting
-  when: '2017-04-25T19:00:00-0700'
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18118850_10155306233038000_7185201030829522408_n.jpg?oh=1eda7e892813e8dfc8851db9726e02e1&oe=597FD6B3
-    alt: Officer Meeting

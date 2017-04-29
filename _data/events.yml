@@ -1,3 +1,14 @@
+- id: '799642350201980'
+  title: 'Urban Bachata 5-Week Progressive Series - Week #1'
+  when: '2017-05-08T20:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18193085_10155317697963000_176570910277040473_o.jpg?oh=1cb6a4bdb3acc1561933145fd06f3d0e&oe=5981CA44
+    alt: 'Urban Bachata 5-Week Progressive Series - Week #1'
 - id: '729394103901938'
   title: 'CPSalsa Friday Night: Week 4!'
   when: '2017-04-28T19:30:00-0700'

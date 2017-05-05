@@ -12,6 +12,10 @@
 - id: '1716920125272311'
   title: Pinata Party and Cinco De Mayo!
   when: '2017-05-05T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
   image:
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18274722_10155331589228000_4912818258111946919_n.jpg?oh=1abff80c1c2606f9f59cebe5d9aeaf13&oe=59BE7E9C

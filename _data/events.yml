@@ -1,22 +1,11 @@
-- id: '1836691569986607'
-  title: 10th Madonna Inn Salsa Night of 2017
-  when: '2017-05-09T20:00:00-0700'
-  where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18342690_10155347712868000_4966198039087214158_n.jpg?oh=6af145468bcea0d9b991453b60ea211f&oe=59B51A82
-    alt: 10th Madonna Inn Salsa Night of 2017
-- id: '1849535258628942'
-  title: CPSalsa Officer Meeting
-  when: '2017-05-09T19:00:00-0700'
+- id: '1702746676696088'
+  title: 'CPSalsa Friday Night: Week 7!'
+  when: '2017-05-12T19:30:00-0700'
   where:
     name: Cal Poly Bld 5 Rm 225
     latitude: 35.300661348709
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18300816_10155347726663000_1987581391569808932_n.jpg?oh=addbc0f1890a7c17b7dd0f9a5337ec3e&oe=59BA01AC
-    alt: CPSalsa Officer Meeting
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18341826_10155354223158000_7474681954831487954_n.jpg?oh=6f2c5d6076b303b33c9dbe1602b0adaa&oe=59BB1A7A
+    alt: 'CPSalsa Friday Night: Week 7!'

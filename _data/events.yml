@@ -1,0 +1,33 @@
+- id: '101240140458428'
+  title: Yosemite Hall Dance Showcase
+  when: '2017-06-03T20:30:00-0700'
+  where:
+    name: Yosemite Hall - Cal Poly
+    latitude: 35.28965502
+    longitude: -120.64942357
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18446530_10155370826673000_1390516455103638329_n.jpg?oh=f5b51dec4babf57cb22bd95eb9f68aa9&oe=5976E5F0
+    alt: Yosemite Hall Dance Showcase
+- id: '806007469553642'
+  title: CPSalsa Friday Night Week 7!
+  when: '2017-05-19T19:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18491513_10155370752808000_753495532260301564_o.jpg?oh=e5e8dd2103fe43d9331301f53f3bacae&oe=5977FA45
+    alt: CPSalsa Friday Night Week 7!
+- id: '126442524586720'
+  title: 'Urban Bachata 5-Week Progressive Series - Week #2'
+  when: '2017-05-15T20:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18489845_10155372236433000_3776005006792612426_o.jpg?oh=dae9bda37dd0aa8178610864e89c556e&oe=59AACAB4
+    alt: 'Urban Bachata 5-Week Progressive Series - Week #2'

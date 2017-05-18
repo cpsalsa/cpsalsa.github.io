@@ -31,24 +31,9 @@
 }
 
 .hero {
-    // display: flex;
     width: 100%;
     min-height: 100vh;
     color: #fff;
-    background:
-        linear-gradient(
-            rgba(46, 27, 175, 0.9),
-            rgba(179, 8, 151, 0.7)
-        ),
-        url(../images/hero-back1.jpg) no-repeat center right fixed;
-    background-size: cover;
-
-    // flex-direction: column;
-    // justify-content: center;
-
-    @media (max-device-width: $screen-xs-min) {
-        background-attachment: scroll;
-    }
 
     .row {
         height: 50vh;
@@ -128,12 +113,6 @@
 
     @include default-padding;
 }
-.hero-title {
-    // width: 45vw;
-    // @media (max-device-width: $screen-xs-min) {
-    //     width: 75vw;
-    // }
-}
 .hero-slogan {
     font-style: italic;
 }
@@ -141,10 +120,10 @@
     color: $brand-primary;
 }
 
-section:not(.hero) .fridays,
-section:not(.hero) .events,
-section:not(.hero) .about,
-section:not(.hero) .site-footer {
+body > .fridays,
+body > .events,
+body > .about,
+body > .site-footer {
     display: block;
     width: 100%;
 }
@@ -162,7 +141,7 @@ section:not(.hero) .site-footer {
     }
 }
 .fridays {
-    h1, h2, h3, h4 {
+    h4 {
         color: $secondary-header-color;
     }
 }
@@ -224,9 +203,6 @@ section:not(.hero) .site-footer {
 }
 .fb-events .card .details {
     padding: 10px 20px;
-}
-.fb-events .title {
-    color: $brand-secondary;
 }
 .fb-events .when,
 .fb-events .where {

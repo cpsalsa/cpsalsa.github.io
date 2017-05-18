@@ -14,6 +14,7 @@ $input-color:	   			#777;
 
 $link-color: 	   			darken($brand-secondary, 10%);
 $secondary-header-color:	lighten($brand-primary, 30%);
+$fridays-header-color:		#860474;
 
 $title-background:			#2e1baf;
 $friday-background:			#41b1a7;
@@ -23,6 +24,7 @@ $about-background:			#0092ff;
 $about-card-background:		darken($about-background, 5%);
 $post-background:			#6f1788;
 $post-page-background: 		lighten($body-bg, 2%);
+$sidebar-background:		darken($post-background, 10%);
 $all-posts-background:		lighten($post-background, 10%);
 $all-posts-hover:			saturate(lighten($all-posts-background, 10%), 15%);
 

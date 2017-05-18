@@ -1,23 +1,27 @@
 // Our variables
 $brand-primary:    			#f541aa !default;
 $brand-secondary:  			#41f5f0;
+$brand-headers:				#fff;
 
 $body-bg:					#222 !default;
 $font-size-base:   			16px;
 $text-color:            	#eee !default;
+$text-darker: 				darken($text-color, 10%);
 
 $input-bg: 		   			#343434;
 $input-border:	   			#444;
 $input-color:	   			#777;
 
-$link-color: 	   			darken($brand-secondary, 20%);
-$secondary-header-color:	lighten($brand-primary, 20%);
+$link-color: 	   			darken($brand-secondary, 10%);
+$secondary-header-color:	lighten($brand-primary, 30%);
 
-$event-background:			desaturate(darken($brand-primary, 45%), 80%);
-$event-card-background:		lighten($event-background, 3%);
-$about-background:			desaturate(darken($brand-primary, 48%), 70%);
-$about-card-background:		lighten($about-background, 3%);
-$post-background:			lighten($about-background, 5%);
+$friday-background:			#41b1a7;
+$event-background:			#e37521;
+$event-card-background:		lighten($event-background, 5%);
+$about-background:			#0092ff;
+$about-card-background:		darken($about-background, 5%);
+$post-background:			#6f1788;
+$post-page-background: 		lighten($body-bg, 2%);
 $all-posts-background:		lighten($post-background, 10%);
 $all-posts-hover:			saturate(lighten($all-posts-background, 10%), 15%);
 

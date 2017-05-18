@@ -53,7 +53,7 @@
 .hero-content {
     left: 0;
     width: 100%;
-    text-align: center;
+    text-align: left;
 
     @include default-padding;
 }
@@ -66,6 +66,9 @@
 .hero-slogan {
     font-style: italic;
 }
+.hero-content h1 {
+    color: $brand-primary;
+}
 
 .fridays,
 .events,
@@ -73,6 +76,20 @@
 .site-footer {
     display: block;
     width: 100%;
+}
+.fridays {
+    background:
+        linear-gradient(
+            rgba(65, 177, 167, 0.9),
+            rgba(65, 177, 167, 0.7)
+        ),
+        url(../images/fridays-1.jpg) no-repeat center right fixed;
+    background-size: cover;
+}
+.fridays {
+    h1, h2, h3, h4 {
+        color: $secondary-header-color;
+    }
 }
 .fridays .content,
 .events .content {
@@ -104,7 +121,13 @@
 .events {
     @include default-padding;
     // background: #221e38;
-    background: $event-background;
+    background:
+        linear-gradient(
+            rgba(227, 117, 33, 0.9),
+            rgba(227, 117, 33, 0.7)
+        ),
+        url(../images/fridays-2.jpg) no-repeat center right fixed;
+    background-size: cover;
 }
 .fb-events .card {
     padding: 0;
@@ -124,19 +147,25 @@
     padding: 10px 20px;
 }
 .fb-events .title {
-    color: $brand-primary;
+    color: $brand-secondary;
 }
 .fb-events .when,
 .fb-events .where {
     display: block;
 }
 .fb-events .where {
-    color: $gray-light;
+    color: $text-darker;
 }
 
 .about {
     // background: #302131;
-    background: $about-background;
+    background:
+        linear-gradient(
+            rgba(0, 146, 255, 0.95),
+            rgba(0, 146, 255, 0.9)
+        ),
+        url(../images/fridays-5.jpg) no-repeat center right fixed;
+    background-size: cover;
 
     @include default-padding;
 }

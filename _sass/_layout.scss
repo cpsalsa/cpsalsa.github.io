@@ -96,7 +96,13 @@
         }
     }
     .posts {
-
+        background:
+            linear-gradient(
+                rgba(111, 23, 136, 0.95),
+                rgba(111, 23, 136, 0.9)
+            ),
+            url(../images/fridays-3.jpg) no-repeat center left local;
+        background-size: cover;
     }
     .contact {
         background:

@@ -47,37 +47,39 @@
         text-align: center !important;
         background-attachment: local;
 
-        @media (max-device-width: $screen-xs-min) {
+        @media (max-device-width: $screen-md-min) {
             display: none;
         }
         h1, h2, p {
             visibility: hidden;
             z-index: 1;
         }
-        &:before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            left: 0;
-            opacity: 0;
-            transition: opacity ease-in-out 0.15s;
-        }
-        &:hover:before {
-            opacity: 1;
+        @media (max-device-width: $screen-md-min) {
+            &:before {
+                content: '';
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                opacity: 0;
+                transition: opacity ease-in-out 0.15s;
+            }
+            &:hover:before {
+                opacity: 1;
+            }
         }
     }
     .title {
         @include gradient-image('../images/hero-back1.jpg', right, local, 46, 27, 175, 0.95, 0.9);
 
-        @media (max-device-width: $screen-xs-min) {
+        @media (max-device-width: $screen-md-min) {
             display: flex;
             height: 100vh;
         }
         h1, p {
             display: none;
 
-            @media (max-device-width: $screen-xs-min) {
+            @media (max-device-width: $screen-md-min) {
                 display: block;
             }
         }

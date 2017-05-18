@@ -1,33 +1,22 @@
-- id: '273279419798167'
-  title: 9th Madonna Inn Salsa Night of 2017
-  when: '2017-04-25T20:00:00-0700'
+- id: '101240140458428'
+  title: Yosemite Hall Dance Showcase
+  when: '2017-06-03T20:30:00-0700'
   where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
+    name: Yosemite Hall - Cal Poly
+    latitude: 35.28965502
+    longitude: -120.64942357
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17861632_10155258341128000_7367488090360857875_n.jpg?oh=5f21c44b9aa31443d02c1cb64741f78f&oe=598C04E7
-    alt: 9th Madonna Inn Salsa Night of 2017
-- id: '231750330563179'
-  title: 'CPSalsa Friday Night: Week 3!'
-  when: '2017-04-21T19:30:00-0700'
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18446530_10155370826673000_1390516455103638329_n.jpg?oh=f5b51dec4babf57cb22bd95eb9f68aa9&oe=5976E5F0
+    alt: Yosemite Hall Dance Showcase
+- id: '806007469553642'
+  title: CPSalsa Friday Night Week 7!
+  when: '2017-05-19T19:00:00-0700'
   where:
     name: Cal Poly Bld 5 Rm 225
     latitude: 35.300661348709
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17757279_10155258299213000_8630230072887082992_n.jpg?oh=51d1249891500d0e8961477ad7080e85&oe=597D5CFB
-    alt: 'CPSalsa Friday Night: Week 3!'
-- id: '762278257262562'
-  title: National Dance Week Demo at Farmers Market
-  when: '2017-04-20T18:00:00-0700'
-  where:
-    name: San Luis Obispo Farmers Market
-    latitude: 35.279257319091
-    longitude: -120.6635338
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17155680_10155165707173000_704644957133746006_n.jpg?oh=fcf4c5750b6b8e58e29a41b5dbdb7d1c&oe=597C40ED
-    alt: National Dance Week Demo at Farmers Market
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18491513_10155370752808000_753495532260301564_o.jpg?oh=e5e8dd2103fe43d9331301f53f3bacae&oe=5977FA45
+    alt: CPSalsa Friday Night Week 7!

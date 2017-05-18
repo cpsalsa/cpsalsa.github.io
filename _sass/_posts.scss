@@ -19,13 +19,14 @@
         width: 80%;
     }
 }
-.posts {
-    background: $post-background;
-
-    @media (min-width: $screen-md-min) {
+section:not(.hero) .posts {
+        @media (min-width: $screen-md-min) {
         width: 70%;
         float: right;
     }
+}
+.posts {
+    background: $post-background;
 
     .row {
         margin: 0;

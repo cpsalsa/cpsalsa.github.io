@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Josefin Sans', serif;
     font-weight: bold;
     color: $brand-headers;
+
+    @media (max-device-width: $screen-xs-min) {
+        font-weight: 400;
+    }
 }
 
 h4, h5, h6 {

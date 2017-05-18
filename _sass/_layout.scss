@@ -31,7 +31,7 @@
 }
 
 .hero {
-    display: flex;
+    // display: flex;
     width: 100%;
     min-height: 100vh;
     color: #fff;
@@ -43,11 +43,76 @@
         url(../images/hero-back1.jpg) no-repeat center right fixed;
     background-size: cover;
 
-    flex-direction: column;
-    justify-content: center;
+    // flex-direction: column;
+    // justify-content: center;
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
+    }
+
+    .row {
+        height: 50vh;
+    }
+    [class*='col-'] {
+        height: 50vh;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center !important;
+        background-attachment: local;
+
+        @media (max-device-width: $screen-xs-min) {
+            display: none;
+        }
+    }
+    .title {
+        background:
+            linear-gradient(
+                rgba(46, 27, 175, 0.95),
+                rgba(46, 27, 175, 0.9)
+            ),
+            url(../images/hero-back1.jpg) no-repeat center right local;
+
+        @media (max-device-width: $screen-xs-min) {
+            display: flex;
+            height: 100vh;
+        }
+        h1, p {
+            display: none;
+
+            @media (max-device-width: $screen-xs-min) {
+                display: block;
+            }
+        }
+        h1 {
+            color: $brand-primary;
+        }
+    }
+    .about {
+        background-position: center left;
+        p {
+            text-align: center;
+        }
+    }
+    .posts {
+
+    }
+    .contact {
+        background:
+            linear-gradient(
+                rgba(179, 8, 151, 0.95),
+                rgba(179, 8, 151, 0.9)
+            ),
+            url(../images/fridays-4.jpg) no-repeat center left local;
+        background-size: cover;
+    }
+    h2 {
+        border-bottom: 1px solid $text-color;
+        a {
+            text-decoration: none;
+            color: $text-color;
+        }
     }
 }
 .hero-content {
@@ -58,10 +123,10 @@
     @include default-padding;
 }
 .hero-title {
-    width: 45vw;
-    @media (max-device-width: $screen-xs-min) {
-        width: 75vw;
-    }
+    // width: 45vw;
+    // @media (max-device-width: $screen-xs-min) {
+    //     width: 75vw;
+    // }
 }
 .hero-slogan {
     font-style: italic;
@@ -70,21 +135,25 @@
     color: $brand-primary;
 }
 
-.fridays,
-.events,
-.about,
-.site-footer {
+section:not(.hero) .fridays,
+section:not(.hero) .events,
+section:not(.hero) .about,
+section:not(.hero) .site-footer {
     display: block;
     width: 100%;
 }
 .fridays {
     background:
         linear-gradient(
-            rgba(65, 177, 167, 0.9),
-            rgba(65, 177, 167, 0.7)
+            rgba(65, 177, 167, 0.95),
+            rgba(65, 177, 167, 0.9)
         ),
         url(../images/fridays-1.jpg) no-repeat center right fixed;
     background-size: cover;
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
 }
 .fridays {
     h1, h2, h3, h4 {
@@ -123,11 +192,15 @@
     // background: #221e38;
     background:
         linear-gradient(
-            rgba(227, 117, 33, 0.9),
-            rgba(227, 117, 33, 0.7)
+            rgba(227, 117, 33, 0.95),
+            rgba(227, 117, 33, 0.9)
         ),
         url(../images/fridays-2.jpg) no-repeat center right fixed;
     background-size: cover;
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
 }
 .fb-events .card {
     padding: 0;
@@ -167,6 +240,10 @@
         url(../images/fridays-5.jpg) no-repeat center right fixed;
     background-size: cover;
 
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
+
     @include default-padding;
 }
 .about p {
@@ -201,12 +278,8 @@
 .site-footer {
     @include default-padding;
 }
-.contact {
-    // background:
-    //     linear-gradient(
-    //         rgba(13, 56, 64, 1),
-    //         rgba(34, 34, 34, 1)
-    //     );
+.contact h1 {
+    color: $brand-primary;
 }
 .contact .messenger-contact {
     margin-left: 0;

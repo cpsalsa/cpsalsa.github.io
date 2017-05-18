@@ -1,26 +1,32 @@
-  - name: Nimisha Patel
-    position: President
-    image:
-        url: images/members/president.jpg
-        alt: Picture of Nimisha Patel
-
   - name: Kevin Martinez
-    position: Vice President
+    position: President
     image:
         url: images/members/vice-president.jpg
         alt: Picture of Kevin Martinez
 
-  - name: Katie Johnson
+  - name: Nimisha Patel
+    position: Vice President
+    image:
+        url: images/members/president.jpg
+        alt: Picture of Nimisha Patel
+
+  - name: Mikaela Manzano
+    position: Secretary
+    image:
+        url: images/members/secretary.jpg
+        alt: Picture of Mikaela Manzano
+
+  - name: Ricky Tan
     position: Treasurer
     image:
         url: images/members/treasurer.jpg
-        alt: Picture of Katie Johnson
+        alt: Picture of Ricky Tan
 
-  - name: Troy Rivera
+  - name: Ivan Ramirez
     position: Friday Nights
     image:
         url: images/members/friday-nights.jpg
-        alt: Picture of Troy Rivera
+        alt: Picture of Ivan Ramirez
 
   - name: Ed Pecson
     position: Instruction
@@ -28,11 +34,11 @@
         url: images/members/instruction.jpg
         alt: Picture of Ed Pecson
 
-  - name: Alyssa Elliott
-    position: Graphics
+  - name: Sydney Jones
+    position: Advertising
     image:
         url: images/members/graphics.jpg
-        alt: Picture of Allysa Elliot
+        alt: Picture of Sydney Jones
 
   - name: Katia Panighetti
     position: Social Media
@@ -40,14 +46,8 @@
         url: images/members/social-media-1.jpg
         alt: Picture of Katia Panighetti
 
-  - name: Patrick Lim
-    position: Social Media
-    image:
-        url: images/members/social-media-2.jpg
-        alt: Picture of Patrick Lim
-
-  - name: Kelsey Woodson
+  - name: Maya Blair
     position: Outreach
     image:
         url: images/members/outreach.jpg
-        alt: Picture of Kelsey Woodson
+        alt: Picture of Maya Blair

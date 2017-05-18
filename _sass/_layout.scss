@@ -50,14 +50,25 @@
         @media (max-device-width: $screen-xs-min) {
             display: none;
         }
+        h1, h2, p {
+            visibility: hidden;
+            z-index: 1;
+        }
+        &:before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            opacity: 0;
+            transition: opacity ease-in-out 0.15s;
+        }
+        &:hover:before {
+            opacity: 1;
+        }
     }
     .title {
-        background:
-            linear-gradient(
-                rgba(46, 27, 175, 0.95),
-                rgba(46, 27, 175, 0.9)
-            ),
-            url(../images/hero-back1.jpg) no-repeat center right local;
+        @include gradient-image('../images/hero-back1.jpg', right, local, 46, 27, 175, 0.95, 0.9);
 
         @media (max-device-width: $screen-xs-min) {
             display: flex;
@@ -80,23 +91,26 @@
             text-align: center;
         }
     }
-    .posts {
-        background:
-            linear-gradient(
-                rgba(111, 23, 136, 0.95),
-                rgba(111, 23, 136, 0.9)
-            ),
-            url(../images/fridays-3.jpg) no-repeat center left local;
-        background-size: cover;
+    .about:before {
+        @include hero-card-hover('../images/fridays-5.jpg', right);
     }
     .contact {
-        background:
-            linear-gradient(
-                rgba(179, 8, 151, 0.95),
-                rgba(179, 8, 151, 0.9)
-            ),
-            url(../images/fridays-4.jpg) no-repeat center left local;
-        background-size: cover;
+        @include gradient-image('../images/fridays-4.jpg', left, local, 179, 8, 151, 0.95, 0.9);
+    }
+    .contact:before {
+        @include hero-card-hover('../images/fridays-4.jpg', left);
+    }
+    .events:before {
+        @include hero-card-hover('../images/fridays-2.jpg', right);
+    }
+    .fridays:before {
+        @include hero-card-hover('../images/fridays-1.jpg', right);
+    }
+    .posts {
+        @include gradient-image('../images/fridays-3.jpg', left, local, 111, 23, 136, 0.95, 0.9);
+    }
+    .posts:before {
+        @include hero-card-hover('../images/fridays-3.jpg', left);
     }
     h2 {
         border-bottom: 1px solid $text-color;
@@ -113,6 +127,9 @@
 
     @include default-padding;
 }
+.hero-title {
+    visibility: hidden;
+}
 .hero-slogan {
     font-style: italic;
 }
@@ -128,13 +145,7 @@ body > .site-footer {
     width: 100%;
 }
 .fridays {
-    background:
-        linear-gradient(
-            rgba(65, 177, 167, 0.95),
-            rgba(65, 177, 167, 0.9)
-        ),
-        url(../images/fridays-1.jpg) no-repeat center right fixed;
-    background-size: cover;
+    @include gradient-image('../images/fridays-1.jpg', right, fixed, 65, 177, 167, 0.95, 0.9);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
@@ -174,14 +185,7 @@ body > .site-footer {
 
 .events {
     @include default-padding;
-    // background: #221e38;
-    background:
-        linear-gradient(
-            rgba(227, 117, 33, 0.95),
-            rgba(227, 117, 33, 0.9)
-        ),
-        url(../images/fridays-2.jpg) no-repeat center right fixed;
-    background-size: cover;
+    @include gradient-image('../images/fridays-2.jpg', right, fixed, 227, 117, 33, 0.95, 0.9);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
@@ -213,14 +217,7 @@ body > .site-footer {
 }
 
 .about {
-    // background: #302131;
-    background:
-        linear-gradient(
-            rgba(0, 146, 255, 0.95),
-            rgba(0, 146, 255, 0.9)
-        ),
-        url(../images/fridays-5.jpg) no-repeat center right fixed;
-    background-size: cover;
+    @include gradient-image('../images/fridays-5.jpg', right, fixed, 0, 146, 255, 0.95, 0.9);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;

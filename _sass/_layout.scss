@@ -150,15 +150,24 @@ body > .site-footer {
     width: 100%;
 }
 .fridays {
+    position: relative;
+    overflow: hidden;
     @include gradient-image('../images/fridays-1.jpg', right, fixed, 65, 177, 167, 0.95, 0.9);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
     }
 }
-.fridays {
-    h4 {
-        color: $secondary-header-color;
+.fridays h4 {
+    color: $secondary-header-color;
+}
+.fridays .power-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    @media (max-width: $screen-md-min) {
+        display: none;
     }
 }
 .fridays .content,
@@ -257,6 +266,25 @@ body > .site-footer {
 .about .card .details {
     padding: 10px 20px;
 }
+// .about .is-flex {
+//     display: -webkit-box;
+//     display: -webkit-flex;
+//     display: -ms-flexbox;
+//     display: flex;
+//     -webkit-flex-wrap: wrap;
+//     -ms-flex-wrap: wrap;
+//     flex-wrap: wrap;
+//     margin: 0 -15px;
+// }
+// .about .is-flex [class*='col-'] {
+//     flex: 1 0 400px;
+//     margin-bottom: 20px;
+//     @include flex-column;
+// }
+// .about .is-flex:after {
+//     content: '';
+//     flex-grow: 10000000;
+// }
 
 .contact,
 .site-footer {

@@ -52,16 +52,16 @@ layout: home
         <section class="fridays" id="fridays">
             <div class="container-fluid no-gutter">
                 <div class="row is-flex">
-                    <div class="col-md-offset-2 col-md-8 wow fadeInDown">
+                    <div class="col-md-offset-1 col-md-6 wow fadeInDown">
                         <div class="content friday-text">
-                            <h1>Friday Night Lessons and Social</h1>
-                            <p>Every Friday, save for during school breaks, we provide multiple levels of
+                            <h1 class="wow fadeInLeftBig">Friday Night Lessons and Social</h1>
+                            <p class="wow fadeInLeftBig">Every Friday, save for during school breaks, we provide multiple levels of
                             lessons teaching salsa. We also provide lessons teaching other related forms
                             of dancing like bachata and cha cha cha. Afterwards, we turn down the lights
                             and pump up the music and dance the rest of the night away.</p>
-                            <h2>Where</h2>
-                            <p>Architecture and Environmental Design, Cal Poly, San Luis Obispo, CA 93405</p>
-                            <div class="row">
+                            <h2 class="wow fadeInRightBig" data-wow-delay="0.2s">Where</h2>
+                            <p class="wow fadeInRightBig" data-wow-delay="0.2s">Architecture and Environmental Design, Cal Poly, San Luis Obispo, CA 93405</p>
+                            <div class="row wow fadeInRightBig" data-wow-delay="0.2s">
                                 <div class="col-sm-6 no-gutter">
                                     <h4>Park Here (free after 5pm)</h4>
                                     <p>
@@ -74,20 +74,23 @@ layout: home
                                     <p><a href="https://goo.gl/maps/KavK5JfJj8o">Building 5</a></p>
                                 </div>
                             </div>
-                            <h2>Schedule</h2>
-                            <p>
+                            <h2 class="wow fadeInLeftBig" data-wow-delay="0.3s">Schedule</h2>
+                            <p class="wow fadeInLeftBig" data-wow-delay="0.3s">
                                 <strong>7:30 PM - 8:00 PM</strong> : Bachata/Cha Cha Cha lesson<br>
                                 <strong>8:00 PM - 9:30 PM</strong> : Salsa lesson<br>
                                 <strong>9:30 PM - 12:00 AM</strong> : FREE Social Dancing
                             </p>
-                            <h2>Cost</h2>
-                            <p>
+                            <h2 class="wow fadeInRightBig" data-wow-delay="0.4s">Cost</h2>
+                            <p class="wow fadeInRightBig" data-wow-delay="0.4s">
                                 $35 for 10 Lessons (Get 3 lessons for FREE)<br>
                                 $20 for 5 Lessons (Get 1 lesson for FREE)<br>
                                 $5 for the night
                             </p>
                         </div>
                     </div>
+                </div>
+                <div class="power-image wow fadeInRightBig" data-wow-delay="1s">
+                    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="images/chelsea-jose.png" alt="Chelsea dancing with Jose">
                 </div>
             </div>
         </section>
@@ -141,10 +144,10 @@ layout: home
                 {% for member in site.data.members %}
                 {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
                 {% if modulo == '0' %}
-                <div class="row sm-flex">
+                <div class="row is-flex">
                 {% endif %}
-                    <div class="col-sm-3">
-                        <div class="card wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}s">
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="card wow {% if modulo == '0' or modulo == '1' %} fadeInLeft {% else %} fadeInRight {% endif %}"">
                             <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ member.image.url }}" alt="{{ member.image.alt }}">
                             <div class="details">
                                 <h3>{{ member.name }}</h3>

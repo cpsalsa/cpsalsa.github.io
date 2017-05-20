@@ -154,6 +154,7 @@ body > .posts:not(.posts-main) {
         top: -160px;
         left: -250px;
         pointer-events: none;
+        z-index: 1;
 
         @media (max-width: $screen-md-min) {
             display: none;
@@ -162,7 +163,7 @@ body > .posts:not(.posts-main) {
     .side-bar h1,
     .side-bar p,
     .side-bar a {
-        z-index: 1;
+        z-index: 2;
     }
 }
 .all-posts-block {
@@ -186,9 +187,9 @@ body > .posts:not(.posts-main) {
     }
 }
 .post-list.no-gutter {
-    margin: -40px (-50 - $grid-gutter-width/2) -40px (50 + $grid-gutter-width/2);
+    margin: -40px (-45 - $grid-gutter-width/2) -40px (45 + $grid-gutter-width/2);
     @media (max-width: $screen-md-min) {
-        margin: 40px (-60 + $grid-gutter-width/2) -40px (-60 + $grid-gutter-width/2);
+        margin: 40px (-75 + $grid-gutter-width/2) -40px (-75 + $grid-gutter-width/2);
     }
     @media (max-width: $screen-sm-min) {
         margin: 40px (-55 + $grid-gutter-width/2) -40px (-55 + $grid-gutter-width/2);

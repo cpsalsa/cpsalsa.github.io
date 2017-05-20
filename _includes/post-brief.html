@@ -1,4 +1,4 @@
-<div class="card {% if include.showanim == 'true' %}wow fadeInDown{% endif %}" data-wow-delay="{{ include.index | times: 0.2 }}s">
+<div class="card {{ include.anim }}">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-img">
             {% if post.image %}

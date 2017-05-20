@@ -29,7 +29,7 @@ $all-posts-background:		lighten($post-background, 10%);
 $all-posts-hover:			saturate(lighten($all-posts-background, 10%), 15%);
 
 $post-border:				lighten($post-background, 5%);
-$post-date-color:			darken($text-color, 50%);
+$post-date-color:			lighten($brand-primary, 30%);
 
 //** Padding around the thumbnail image
 $thumbnail-padding:           4px !default;

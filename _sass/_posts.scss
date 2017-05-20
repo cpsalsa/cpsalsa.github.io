@@ -285,4 +285,20 @@ article.post {
 
 .post-back {
     margin-top: 20px;
+
+    a {
+        display: block;
+        padding: 20px;
+        width: 200px;
+        text-align: center;
+        border: 3px solid $text-color;
+        color: $text-color;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: none;
+            color: $brand-secondary;
+            border-color: $brand-secondary;
+        }
+    }
 }

@@ -13,21 +13,21 @@ layout: home
                     </div>
                     <div class="col-md-4 fridays">
                         <h2 class="wow fadeInDown" data-wow-delay="0.1s"><a href="#fridays">Fridays</a></h2>
-                        <p class="wow fadeInDown" data-wow-delay="0.1s">We teach lessons and dance every Friday</p>
+                        <p class="blurb wow fadeInDown" data-wow-delay="0.1s">We teach lessons and dance every Friday</p>
                     </div>
                     <div class="col-md-4 events">
                         <h2 class="wow fadeInDown" data-wow-delay="0.2s"><a href="#events">Events</a></h2>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Socials, Workshops, and more</p>
+                        <p class="blurb wow fadeInDown" data-wow-delay="0.2s">Socials, Workshops, and more</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 about">
                         <h2 class="wow fadeInDown" data-wow-delay="0.3s"><a href="#about">About</a></h2>
-                        <p class="wow fadeInDown" data-wow-delay="0.3s">A student group that loves to dance</p>
+                        <p class="blurb wow fadeInDown" data-wow-delay="0.3s">A student group that loves to dance</p>
                     </div>
                     <div class="col-md-4 posts">
                         <h2 class="wow fadeInDown" data-wow-delay="0.4s"><a href="#posts">Articles</a></h2>
-                        <p class="wow fadeInDown" data-wow-delay="0.4s">Peruse our thoughts and history</p>
+                        <p class="blurb wow fadeInDown" data-wow-delay="0.4s">Peruse our thoughts and history</p>
                     </div>
                     <div class="col-md-4 contact">
                         <p class="wow fadeInDown" data-wow-delay="0.5s">
@@ -145,12 +145,10 @@ layout: home
                     entertainment, all while striving to maintain an environment that is safe and
                     welcoming.</p>
                 <h1>Our Team</h1>
+                <div class="row is-flex">
                 {% for member in site.data.members %}
                 {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
-                {% if modulo == '0' %}
-                <div class="row sm-flex">
-                {% endif %}
-                    <div class="col-md-3 col-sm-4 col-xs-12">
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <div class="card wow {% if modulo == '0' or modulo == '1' %} fadeInLeft {% else %} fadeInRight {% endif %}"">
                             <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ member.image.url }}" alt="{{ member.image.alt }}">
                             <div class="details">
@@ -162,10 +160,8 @@ layout: home
                             </div>
                         </div>
                     </div>
-                {% if modulo == '3' or forloop.last == true %}
-                </div>
-                {% endif %}
                 {% endfor %}
+                </div>
             </div>
         </section>
 

@@ -10,14 +10,14 @@
 //     padding-right: 0;
 // }
 .row.is-flex {
-    @media (min-width: $screen-md-min) {
+    // @media (min-width: $screen-md-min) {
         @include display-flex;
-    }
+    // }
 }
 .row.is-flex > [class*='col-'] {
-    @media (min-width: $screen-md-min) {
+    // @media (min-width: $screen-md-min) {
         @include flex-column;
-    }
+    // }
 }
 .row.sm-flex {
     @media (min-width: $screen-sm-min) {
@@ -53,6 +53,9 @@
         h1, h2, p {
             visibility: hidden;
             z-index: 1;
+        }
+        .blurb {
+            min-height: 44px;
         }
         @media (min-width: $screen-md-min) {
             &:before {
@@ -266,25 +269,6 @@ body > .site-footer {
 .about .card .details {
     padding: 10px 20px;
 }
-// .about .is-flex {
-//     display: -webkit-box;
-//     display: -webkit-flex;
-//     display: -ms-flexbox;
-//     display: flex;
-//     -webkit-flex-wrap: wrap;
-//     -ms-flex-wrap: wrap;
-//     flex-wrap: wrap;
-//     margin: 0 -15px;
-// }
-// .about .is-flex [class*='col-'] {
-//     flex: 1 0 400px;
-//     margin-bottom: 20px;
-//     @include flex-column;
-// }
-// .about .is-flex:after {
-//     content: '';
-//     flex-grow: 10000000;
-// }
 
 .contact,
 .site-footer {

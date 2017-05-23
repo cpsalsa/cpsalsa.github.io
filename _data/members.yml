@@ -1,13 +1,13 @@
   - name: Kevin Martinez
     position: President
     image:
-        url: images/members/vice-president.jpg
+        url: images/members/president.jpg
         alt: Picture of Kevin Martinez
 
   - name: Nimisha Patel
     position: Vice President
     image:
-        url: images/members/president.jpg
+        url: images/members/vice-president.jpg
         alt: Picture of Nimisha Patel
 
   - name: Mikaela Manzano

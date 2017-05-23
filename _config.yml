@@ -7,11 +7,13 @@
 
 # Site settings
 title: CPSalsa
-email: your-email@domain.com
+email: siteadmin@cpsalsa.com
 description: > # this means to ignore newlines until "baseurl:"
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
+    We are a student organization associated with California Polytechnic State
+                    University (Cal Poly) in San Luis Obispo dedicated to spreading our love of Salsa
+                    dancing to San Luis Obispo and the rest of the Central Coast. While we are
+                    associated with Cal Poly, our members and officers consist of non-students and
+                    students alike.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cpsalsa.com" # the base hostname & protocol for your site
 

@@ -9,3 +9,14 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18446530_10155370826673000_1390516455103638329_n.jpg?oh=c510aaada9d89987cc1b1b8f8132c749&oe=599E72F0
     alt: Yosemite Hall Dance Showcase
+- id: '1716183941743138'
+  title: 12th Madonna Inn Salsa Night of 2017
+  when: '2017-05-30T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18582408_10155399490073000_1356323819321142831_n.jpg?oh=96b63a75f28d2466b777718a628d5fe9&oe=59B2D893
+    alt: 12th Madonna Inn Salsa Night of 2017

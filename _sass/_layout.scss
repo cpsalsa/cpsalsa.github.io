@@ -310,3 +310,16 @@ body > .site-footer {
     margin: 15px auto;
     background: $brand-secondary;
 }
+
+.form-group.required .control-label:after {
+    content: '*';
+    color: red;
+    padding-left: 5px;
+}
+.asterisk {
+    color: red;
+}
+.indicates-required {
+    font-style: italic;
+    color: darken($text-darker, 40%);
+}

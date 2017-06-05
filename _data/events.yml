@@ -1,11 +1,11 @@
-- id: '101240140458428'
-  title: Yosemite Hall Dance Showcase
-  when: '2017-06-03T21:15:00-0700'
+- id: '444699959220832'
+  title: Blacklight Salsa Night!
+  when: '2017-06-09T19:30:00-0700'
   where:
-    name: Yosemite Hall - Cal Poly
-    latitude: 35.28965502
-    longitude: -120.64942357
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18446530_10155370826673000_1390516455103638329_n.jpg?oh=c510aaada9d89987cc1b1b8f8132c749&oe=599E72F0
-    alt: Yosemite Hall Dance Showcase
+      https://scontent.xx.fbcdn.net/v/t1.0-9/18814027_10155438757688000_5327485849176548702_n.jpg?oh=8960d3a0165381e2d7dfbc0a85e6b6ef&oe=59AE9F6E
+    alt: Blacklight Salsa Night!

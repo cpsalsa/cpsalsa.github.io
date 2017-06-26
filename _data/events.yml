@@ -1,3 +1,14 @@
+- id: '443843089332497'
+  title: Summer Friday Nights Week Two
+  when: '2017-06-30T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/19250650_10155514409213000_8520669327271737365_o.jpg?oh=6c87d18c7509e3dce968074d6548e456&oe=59D15C4E
+    alt: Summer Friday Nights Week Two
 - id: '483822735294387'
   title: 14th Madonna Inn Salsa Night of 2017
   when: '2017-06-27T20:30:00-0700'
@@ -9,3 +20,14 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/19400511_10155505359493000_1075977397388759582_o.jpg?oh=0b0246017b460d1c9b500b0a57338bf0&oe=59E2C962
     alt: 14th Madonna Inn Salsa Night of 2017
+- id: '850021165164114'
+  title: Bachata Basics and Beyond 5-Week Series
+  when: '2017-06-26T20:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/19417210_10155514248763000_5138164381190663391_o.jpg?oh=cf98231b1d79263898e05bca45b0f17f&oe=59DD3EC1
+    alt: Bachata Basics and Beyond 5-Week Series

@@ -9,3 +9,14 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19657015_10155550323543000_6036335432395765436_n.jpg?oh=50405670a8fb262ac5c812e1bf1ca55f&oe=59CB2F06
     alt: Summer Friday Nights Week 3
+- id: '1470573609675136'
+  title: CPSalsa at Bike Night
+  when: '2017-07-06T21:30:00-0700'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/19732136_10155554740918000_1547062020856828560_n.jpg?oh=a02fac9591503c1bc9f2aeadec405acc&oe=59CBC771
+    alt: CPSalsa at Bike Night

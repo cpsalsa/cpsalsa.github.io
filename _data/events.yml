@@ -1,3 +1,14 @@
+- id: '311900202603458'
+  title: Summer Friday Nights Week 4
+  when: '2017-07-14T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/19693578_10155565866988000_261613123937857331_o.jpg?oh=4ed9af5691bb68ec4a94203b6187888d&oe=59FD4823
+    alt: Summer Friday Nights Week 4
 - id: '231631554022492'
   title: 15th Madonna Inn Salsa Night of 2017
   when: '2017-07-11T20:30:00-0700'

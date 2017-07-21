@@ -1,3 +1,14 @@
+- id: '1889588921289381'
+  title: 16th Madonna Inn Salsa Night of 2017
+  when: '2017-07-25T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/20229513_10155616009568000_5863645912735908514_o.jpg?oh=b5afb9127714b34d318f86be5b98ec3d&oe=59F8B0A1
+    alt: 16th Madonna Inn Salsa Night of 2017
 - id: '312937749150841'
   title: Summer Friday Nights Week 5
   when: '2017-07-21T19:30:00-0700'

@@ -66,6 +66,7 @@
                 left: 0;
                 opacity: 0;
                 transition: opacity ease-in-out 0.3s;
+                top: 0;
             }
             &:hover:before {
                 opacity: 1;
@@ -322,4 +323,9 @@ body > .site-footer {
 .indicates-required {
     font-style: italic;
     color: darken($text-darker, 40%);
+}
+
+/* overrides */
+.row:before {
+    display: block;
 }

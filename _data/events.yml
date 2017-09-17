@@ -1,11 +1,9 @@
-- id: '1449254388497914'
-  title: Welcome Back Friday Nights!
-  when: '2017-09-15T19:30:00-0700'
+- id: '1453564178061233'
+  title: CPSalsa At Cal Poly Showcase
+  when: '2017-09-17T10:00:00-0700'
   where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
+    name: 'H16 Parking Lot, Cal Poly San Luis Obispo'
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21753126_10155786271473000_4375681249135074877_o.jpg?oh=9efb9b5b3c9c3f848f0a541add66d9aa&oe=5A16FA2B
-    alt: Welcome Back Friday Nights!
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18738774_10155795227148000_6130223562140613295_o.jpg?oh=cc642639183f6d98b22a62e461d48f62&oe=5A606A2F
+    alt: CPSalsa At Cal Poly Showcase

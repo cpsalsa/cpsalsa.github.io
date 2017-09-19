@@ -9,3 +9,23 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/21272762_10155755092888000_3778747020524876206_o.jpg?oh=ee484068e6d87886222841109c74594f&oe=5A56323F
     alt: 21st Madonna Inn Salsa Night of 2017
+- id: '167850083772251'
+  title: Week 1 Friday Night - SWAG NIGHT
+  when: '2017-09-22T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21741284_10155788674193000_4626651810269065574_o.jpg?oh=872bceb64c73b91ea5e710c0b41b0857&oe=5A4184BF
+    alt: Week 1 Friday Night - SWAG NIGHT
+- id: '131497524155440'
+  title: First General Meeting!
+  when: '2017-09-19T19:00:00-0700'
+  where:
+    name: 'Education building 2 Room 212, Calpoly campus.'
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21641118_10155801012768000_2265098586596148389_o.jpg?oh=5bcb38beb33fbb2bed6b01d3aa1d5be0&oe=5A134B1E
+    alt: First General Meeting!

@@ -17,7 +17,9 @@
     latitude: 35.300661348709
     longitude: -120.66432237625
   image:
-    url: /images/hero-back1.jpg
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21688461_10155807444338000_2245491100028294541_o.jpg?oh=87c98da92a999bf7eb3b2604ab1ed9c5&oe=5A4E3DCA
+    alt: Monday Night Bachata Series - Week 1
 - id: '167850083772251'
   title: Week 1 Friday Night - SWAG NIGHT
   when: '2017-09-22T19:30:00-0700'
@@ -40,12 +42,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-0/q88/p180x540/21752706_10155804193188000_3302130157055402455_o.jpg?oh=cb573deb7c52d2509d1aaf4b64cf31bd&oe=5A582504
     alt: CPSalsa Mobs Dexter Lawn + Wear CPSalsa Shirt Day
-- id: '131497524155440'
-  title: First General Meeting!
-  when: '2017-09-19T19:00:00-0700'
-  where:
-    name: 'Education building 2 Room 212, Calpoly campus.'
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21641118_10155801012768000_2265098586596148389_o.jpg?oh=5bcb38beb33fbb2bed6b01d3aa1d5be0&oe=5A134B1E
-    alt: First General Meeting!

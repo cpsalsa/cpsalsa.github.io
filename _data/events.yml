@@ -1,3 +1,14 @@
+- id: '519442595054847'
+  title: Monday Night Bachata Series - Week 2
+  when: '2017-10-02T20:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21950914_10155827808153000_3798483814881586027_o.jpg?oh=ec8d5861fb67bd78270567e818306ba6&oe=5A45946D
+    alt: Monday Night Bachata Series - Week 2
 - id: '123862794940828'
   title: Week Three Friday Nights
   when: '2017-09-29T19:30:00-0700'
@@ -20,14 +31,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/21272762_10155755092888000_3778747020524876206_o.jpg?oh=ee484068e6d87886222841109c74594f&oe=5A56323F
     alt: 21st Madonna Inn Salsa Night of 2017
-- id: '868216433343407'
-  title: Monday Night Bachata Series - Week 1
-  when: '2017-09-25T20:00:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/21753410_10155812831473000_8744262464385395195_o.jpg?oh=86edcdd2d6771e236c8de22ff204d545&oe=5A55F630
-    alt: Monday Night Bachata Series - Week 1

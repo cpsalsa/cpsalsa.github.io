@@ -1,3 +1,14 @@
+- id: '269354713572284'
+  title: CPSalsa at Bike Night
+  when: '2017-10-05T21:30:00-0700'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/22007512_10155831754403000_3080371004771633825_n.jpg?oh=0c4de4a115e1e79d0d7c4c6214689cfb&oe=5A82590E
+    alt: CPSalsa at Bike Night
 - id: '519442595054847'
   title: Monday Night Bachata Series - Week 2
   when: '2017-10-02T20:00:00-0700'

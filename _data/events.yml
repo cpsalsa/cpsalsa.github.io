@@ -1,3 +1,14 @@
+- id: '1511741292247623'
+  title: Good Luck Night!
+  when: '2017-10-13T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22291324_10155863071623000_2010592970412717381_o.jpg?oh=ae80e8b182bd0c0238b555ad16f623cb&oe=5A4317B2
+    alt: Good Luck Night!
 - id: '271394190028967'
   title: 22nd Madonna Inn Salsa Night of 2017
   when: '2017-10-10T20:30:00-0700'

@@ -1,3 +1,14 @@
+- id: '511389075877273'
+  title: CPsalsa's Halloween Party!
+  when: '2017-10-27T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22382515_10155873833138000_3924483929073238621_o.jpg?oh=5c67227f1f0315b1e3d39d089c86f852&oe=5A830A58
+    alt: CPsalsa's Halloween Party!
 - id: '1980187725526396'
   title: Modern Bachata Workshop with Estefani & Kris
   when: '2017-10-21T13:00:00-0700'
@@ -9,6 +20,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/22365337_10155872565638000_4540609785513115859_n.jpg?oh=b4849ff20b946adcbd61c7a33d3b8c30&oe=5A7443E7
     alt: Modern Bachata Workshop with Estefani & Kris
+- id: '560143784338761'
+  title: CPsalsa's Halloween Decoration Planning Meeting
+  when: '2017-10-16T15:10:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22553070_10155873880668000_5544653718337883377_o.jpg?oh=59aad219007c66d1035e9feafe6e5be1&oe=5A7EC67E
+    alt: CPsalsa's Halloween Decoration Planning Meeting
 - id: '1511741292247623'
   title: Good Luck Night!
   when: '2017-10-13T19:30:00-0700'
@@ -18,5 +40,5 @@
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22291324_10155863071623000_2010592970412717381_o.jpg?oh=ae80e8b182bd0c0238b555ad16f623cb&oe=5A4317B2
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22291324_10155863071623000_2010592970412717381_o.jpg?oh=ce53722a24efee18862e8b5a006c1ff2&oe=5A6AA4B2
     alt: Good Luck Night!

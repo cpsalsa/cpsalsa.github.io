@@ -1,3 +1,14 @@
+- id: '135843767142963'
+  title: 24th Madonna Inn Salsa Night of 2017
+  when: '2017-10-31T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/22549667_10155888987573000_4212485405835504126_n.jpg?oh=ce9232cdbd7785e73bc26ba38ad41bea&oe=5A78656B
+    alt: 24th Madonna Inn Salsa Night of 2017
 - id: '511389075877273'
   title: CPsalsa's Halloween Party!
   when: '2017-10-27T19:30:00-0700'
@@ -42,14 +53,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22520191_10155887227078000_9015158851289687775_o.jpg?oh=d1f9a2f083c250b50c156ca6fbbfd8df&oe=5A3B29FB
     alt: Week Six Friday Nights!
-- id: '959339660870427'
-  title: Fall Quarter Officer Meeting
-  when: '2017-10-17T19:00:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22459201_10155882826813000_6111449284393735398_o.jpg?oh=6f8e6bc7a2da7773c9b78dd1b4c112ac&oe=5A77A6FC
-    alt: Fall Quarter Officer Meeting

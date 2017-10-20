@@ -108,7 +108,7 @@ body > .posts:not(.posts-main) {
             top: 0;
             padding: 20px;
             background: rgba(0, 0, 0, 0.4);
-            transition: background ease-in-out 0.5s;
+            transition: background ease-in-out 0.2s;
 
             @media (max-device-width: $screen-md-max) {
                 background: rgba(111, 23, 136, 0.6);
@@ -125,10 +125,14 @@ body > .posts:not(.posts-main) {
             opacity: 0;
             transition: opacity ease-in-out 0.15s;
         }
+        .post-text {
+            transform: translate3d(0, 345px, 0);
+            transition: transform ease-in-out 0.3s;
+        }
         .post-title {
-            margin-top: 345px;
+            // margin-top: 345px;
             color: $brand-secondary;
-            transition: margin ease-in-out 0.3s;
+            // transition: margin ease-in-out 0.3s;
             a {
                 text-decoration: none;
             }
@@ -136,8 +140,8 @@ body > .posts:not(.posts-main) {
         .details:hover {
             background: rgba(111, 23, 136, 0.6);
         }
-        .details:hover .post-title {
-            margin-top: 30%;
+        .details:hover .post-text {
+            transform: translate3d(0, 200px, 0);
         }
         .details:hover .description {
             opacity: 1;

@@ -9,6 +9,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/22540203_10155891288818000_820327450948730461_n.jpg?oh=1ba18cf4a43cb5684aca62a5b5a0459e&oe=5A81D817
     alt: 24th Madonna Inn Salsa Night of 2017
+- id: '124489668240328'
+  title: 'Rueda de Casino Workshop, Week 1 of 5'
+  when: '2017-10-30T20:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22548692_10155897454863000_1409362924188681727_o.jpg?oh=1fa72241f8f0beca66aadf7727a261c9&oe=5A73568F
+    alt: 'Rueda de Casino Workshop, Week 1 of 5'
 - id: '511389075877273'
   title: CPsalsa's Halloween Party!
   when: '2017-10-27T19:30:00-0700'
@@ -31,25 +42,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/21462440_10155772111163000_2801173384100697971_n.jpg?oh=e18dcab8437e4d575b591ea996496b12&oe=5A738FD7
     alt: 23nd Madonna Inn Salsa Night of 2017
-- id: '1980187725526396'
-  title: Modern Bachata Workshop with Estefani & Kris
-  when: '2017-10-21T13:00:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/22365337_10155872565638000_4540609785513115859_n.jpg?oh=b4849ff20b946adcbd61c7a33d3b8c30&oe=5A7443E7
-    alt: Modern Bachata Workshop with Estefani & Kris
-- id: '1488062527914061'
-  title: Week Six Friday Nights!
-  when: '2017-10-20T19:30:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22520191_10155887227078000_9015158851289687775_o.jpg?oh=6c65c4575af3d216272f05058107a49e&oe=5A62B6FB
-    alt: Week Six Friday Nights!

@@ -29,7 +29,7 @@
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22382515_10155873833138000_3924483929073238621_o.jpg?oh=5c67227f1f0315b1e3d39d089c86f852&oe=5A830A58
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/22382515_10155873833138000_3924483929073238621_o.jpg?oh=93c4af210b39e9b18d2210c3845e8d00&oe=5AAA9758
     alt: CPsalsa's Halloween Party!
 - id: '836406863193411'
   title: Dancing at Dexter Lawn
@@ -42,14 +42,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/22688416_10155907409628000_5827216757517722157_n.jpg?oh=6b1c3baa6f93afb76ba6c57a320ab903&oe=5A6AC2C5
     alt: Dancing at Dexter Lawn
-- id: '166772433873502'
-  title: 23nd Madonna Inn Salsa Night of 2017
-  when: '2017-10-24T20:30:00-0700'
-  where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/21462440_10155772111163000_2801173384100697971_n.jpg?oh=e18dcab8437e4d575b591ea996496b12&oe=5A738FD7
-    alt: 23nd Madonna Inn Salsa Night of 2017

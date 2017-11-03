@@ -1,3 +1,14 @@
+- id: '1947847611897557'
+  title: Fall Quarter Officer Meeting
+  when: '2017-11-07T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23000195_10155931758298000_1061318956299208487_o.jpg?oh=7b580b22eb71edf90cc90bc57c95da35&oe=5A6216B1
+    alt: Fall Quarter Officer Meeting
 - id: '880672182092645'
   title: 'Rueda de Casino Workshop, Week 2 of 4'
   when: '2017-11-06T19:00:00-0800'
@@ -9,3 +20,25 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23116934_10155925875588000_2909719056200829620_o.jpg?oh=04b4cb1fe38075022af85c14a385d78b&oe=5A6DBDF1
     alt: 'Rueda de Casino Workshop, Week 2 of 4'
+- id: '1618529214911446'
+  title: Week Eight Friday Nights!
+  when: '2017-11-03T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23116902_10155931726683000_1673873600188304310_o.jpg?oh=06f79914ba31ff6abaf2574e92511edf&oe=5A651622
+    alt: Week Eight Friday Nights!
+- id: '331555153983678'
+  title: CPSalsa at Bike Night
+  when: '2017-11-02T20:45:00-0700'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/23130670_10155933164118000_2892387740959322248_n.jpg?oh=103ff9ae7ff458f4f2e61697745a6ec6&oe=5AA905C1
+    alt: CPSalsa at Bike Night

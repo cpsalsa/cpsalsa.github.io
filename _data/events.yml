@@ -1,3 +1,14 @@
+- id: '1476883422392953'
+  title: 'Rueda de Casino Workshop, Week 4 of 4 - Closed Lesson'
+  when: '2017-11-27T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23215861_10155947841698000_2946099643041975108_o.jpg?oh=8ee47fd12d4ba76a9773ce4778bbaa14&oe=5A6B3E46
+    alt: 'Rueda de Casino Workshop, Week 4 of 4 - Closed Lesson'
 - id: '341477379597658'
   title: 25th Madonna Inn Salsa Night of 2017
   when: '2017-11-14T20:30:00-0800'
@@ -9,6 +20,28 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/21369424_10155772200973000_5131983142161828839_n.jpg?oh=d311f2f5ba8c979498d21e6e25582e3e&oe=5A693391
     alt: 25th Madonna Inn Salsa Night of 2017
+- id: '1781675962129875'
+  title: 'Rueda de Casino Workshop, Week 3 of 4 - Closed Lesson'
+  when: '2017-11-13T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23215699_10155947556843000_636687583194261358_o.jpg?oh=1954faee01305909c73c27a85dd07f2d&oe=5AAB1EEE
+    alt: 'Rueda de Casino Workshop, Week 3 of 4 - Closed Lesson'
+- id: '513077749068576'
+  title: Dancing at Dexter
+  when: '2017-11-09T23:00:00-0800'
+  where:
+    name: Dexter Lawn
+    latitude: 35.300716430246
+    longitude: -120.66309625212
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/23319492_10155948044568000_5375189950512037884_n.jpg?oh=bd7675f5dd2bb91ec0bfa64877851a08&oe=5A99787C
+    alt: Dancing at Dexter
 - id: '1947847611897557'
   title: Fall Quarter Officer Meeting
   when: '2017-11-07T19:00:00-0800'
@@ -20,14 +53,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23000195_10155931758298000_1061318956299208487_o.jpg?oh=7b580b22eb71edf90cc90bc57c95da35&oe=5A6216B1
     alt: Fall Quarter Officer Meeting
-- id: '880672182092645'
-  title: 'Rueda de Casino Workshop, Week 2 of 4'
-  when: '2017-11-06T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23116934_10155925875588000_2909719056200829620_o.jpg?oh=04b4cb1fe38075022af85c14a385d78b&oe=5A6DBDF1
-    alt: 'Rueda de Casino Workshop, Week 2 of 4'

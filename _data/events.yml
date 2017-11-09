@@ -31,9 +31,20 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23215699_10155947556843000_636687583194261358_o.jpg?oh=1954faee01305909c73c27a85dd07f2d&oe=5AAB1EEE
     alt: 'Rueda de Casino Workshop, Week 3 of 4 - Closed Lesson'
+- id: '363166170810292'
+  title: Veterans Day Friday Night!
+  when: '2017-11-10T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23415637_10155949040438000_2427667000382948944_o.jpg?oh=884f11aee8819396c426788618e343bd&oe=5A9D04F0
+    alt: Veterans Day Friday Night!
 - id: '513077749068576'
   title: Dancing at Dexter
-  when: '2017-11-09T23:00:00-0800'
+  when: '2017-11-09T11:00:00-0800'
   where:
     name: Dexter Lawn
     latitude: 35.300716430246
@@ -42,14 +53,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/23319492_10155948044568000_5375189950512037884_n.jpg?oh=bd7675f5dd2bb91ec0bfa64877851a08&oe=5A99787C
     alt: Dancing at Dexter
-- id: '1947847611897557'
-  title: Fall Quarter Officer Meeting
-  when: '2017-11-07T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23000195_10155931758298000_1061318956299208487_o.jpg?oh=7b580b22eb71edf90cc90bc57c95da35&oe=5A6216B1
-    alt: Fall Quarter Officer Meeting

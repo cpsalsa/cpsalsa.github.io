@@ -1,3 +1,14 @@
+- id: '144664322833792'
+  title: CPSalsa's Last Fall General Meeting!
+  when: '2017-11-28T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23405892_10155956910198000_7381656697910659081_o.jpg?oh=ef09150a6c167931e4df8d52b634e7f0&oe=5AA1DD57
+    alt: CPSalsa's Last Fall General Meeting!
 - id: '1476883422392953'
   title: 'Rueda de Casino Workshop, Week 4 of 4 - Closed Lesson'
   when: '2017-11-27T19:00:00-0800'
@@ -20,25 +31,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23004612_10155934551113000_979896437530516764_o.jpg?oh=8ea14e92f9746785e881d17280d00d3c&oe=5AA4DBBC
     alt: Week Nine Friday Nights!
-- id: '341477379597658'
-  title: 25th Madonna Inn Salsa Night of 2017
-  when: '2017-11-14T20:30:00-0800'
-  where:
-    name: Madonna Inn
-    latitude: 35.267267219681
-    longitude: -120.67482565396
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/21369424_10155772200973000_5131983142161828839_n.jpg?oh=a36c1d1328a2b4af7cf373c5f3620342&oe=5A90C091
-    alt: 25th Madonna Inn Salsa Night of 2017
-- id: '1582515145136178'
-  title: CPSalsa's Fall General Meeting!
-  when: '2017-11-14T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/23511477_10155956867193000_3858991595138471646_o.jpg?oh=ec599374bfce1ef207204d3f0575fa64&oe=5A9F1F5B
-    alt: CPSalsa's Fall General Meeting!

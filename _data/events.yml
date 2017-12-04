@@ -1,0 +1,22 @@
+- id: '134711880483168'
+  title: 26th Madonna Inn Salsa Night of 2017
+  when: '2017-12-12T20:30:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267267219681
+    longitude: -120.67482565396
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/21427367_10155772264498000_767818392924457487_o.jpg?oh=be4e6fdc690dc1286eee68dd893260f1&oe=5A89CC93
+    alt: 26th Madonna Inn Salsa Night of 2017
+- id: '1388026498009843'
+  title: CPSalsa at Bike Night
+  when: '2017-12-07T20:30:00-0800'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/24129933_10156016473318000_263508050951871970_n.jpg?oh=410ead95ccb8f691123e73fb985d3bb2&oe=5A945882
+    alt: CPSalsa at Bike Night

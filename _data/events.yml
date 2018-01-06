@@ -1,3 +1,25 @@
+- id: '1812722962094809'
+  title: New Year Black & Gold - Week One Friday Nights!
+  when: '2018-01-12T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26172977_10156119787293000_4232458990450612122_o.jpg?oh=9f8fabaf05b8253dadba08754d9bfc2e&oe=5AEC640E
+    alt: New Year Black & Gold - Week One Friday Nights!
+- id: '1851657415125824'
+  title: First Madonna Inn Salsa Night of 2018
+  when: '2018-01-09T20:30:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267349945
+    longitude: -120.67453438427
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26232085_10156119944268000_2194434313502762777_o.jpg?oh=d7a045259e187cb2e789816b333aa3b5&oe=5ABC69D5
+    alt: First Madonna Inn Salsa Night of 2018
 - id: '151796742139434'
   title: First Winter Quarter Officer Meeting
   when: '2018-01-09T19:00:00-0800'

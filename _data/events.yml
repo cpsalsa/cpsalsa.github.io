@@ -1,3 +1,36 @@
+- id: '138860063459062'
+  title: 2nd Madonna Inn Salsa Night of 2018
+  when: '2018-01-23T20:30:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267349945
+    longitude: -120.67453438427
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26171685_10156120093718000_3775532345560570736_o.jpg?oh=baa1f01e246f112b0aa49af679e38c63&oe=5AF68AE2
+    alt: 2nd Madonna Inn Salsa Night of 2018
+- id: '160971308008778'
+  title: CPSalsa's January General Meeting!
+  when: '2018-01-23T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26221198_10156120041148000_6402211776350920782_o.jpg?oh=f611efe8e2ed913eac59ef40949f90cd&oe=5AF705BA
+    alt: CPSalsa's January General Meeting!
+- id: '202319470325836'
+  title: 2nd Winter Quarter Officer Meeting
+  when: '2018-01-16T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232042_10156131880198000_8502405711524878673_o.jpg?oh=057f806ffdd7be4ab498e54d6720dad9&oe=5AF6F315
+    alt: 2nd Winter Quarter Officer Meeting
 - id: '1812722962094809'
   title: New Year Black & Gold - Week One Friday Nights!
   when: '2018-01-12T19:30:00-0800'
@@ -9,25 +42,12 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26678372_10156131647558000_7156821869148478852_o.jpg?oh=25fc746bc4781e6d37db5b35ec343730&oe=5AFA8CC2
     alt: New Year Black & Gold - Week One Friday Nights!
-- id: '1851657415125824'
-  title: First Madonna Inn Salsa Night of 2018
-  when: '2018-01-09T20:30:00-0800'
+- id: '1840607412895858'
+  title: Dancing at Dexter
+  when: '2018-01-11T11:00:00-0800'
   where:
-    name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
+    name: Dexter Lawn at Calpoly
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26232085_10156119944268000_2194434313502762777_o.jpg?oh=86e901ed8306c2ca5c3d392de18b5c91&oe=5AE3F6D5
-    alt: First Madonna Inn Salsa Night of 2018
-- id: '151796742139434'
-  title: First Winter Quarter Officer Meeting
-  when: '2018-01-09T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26677772_10156131873928000_4048336013180492021_o.jpg?oh=2fa03eadc5d63e40864f84a75d5ac1e5&oe=5AE93DCB
-    alt: First Winter Quarter Officer Meeting
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/23472086_10155950217833000_2125250070906836205_n.jpg?oh=d5517de6d212d4173b93c857008a75db&oe=5AEF07F0
+    alt: Dancing at Dexter

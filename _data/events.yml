@@ -20,6 +20,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26221198_10156120041148000_6402211776350920782_o.jpg?oh=f611efe8e2ed913eac59ef40949f90cd&oe=5AF705BA
     alt: CPSalsa's January General Meeting!
+- id: '180605949192121'
+  title: Monday Night Dance Series - Week 2
+  when: '2018-01-22T20:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26198008_10156120084378000_8988107692047300648_o.jpg?oh=5a6caca987305cf3f75ed5cbb6f572cc&oe=5AB174E1
+    alt: Monday Night Dance Series - Week 2
 - id: '1914518758787731'
   title: Week Two Friday Nights!
   when: '2018-01-19T19:30:00-0800'
@@ -42,14 +53,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232042_10156131880198000_8502405711524878673_o.jpg?oh=057f806ffdd7be4ab498e54d6720dad9&oe=5AF6F315
     alt: 2nd Winter Quarter Officer Meeting
-- id: '1957702697825895'
-  title: Monday Night Dance Series - Week 1
-  when: '2018-01-15T20:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26171871_10156120080163000_6242292764412833984_o.jpg?oh=262b7d68dbfe345b4247bbb2a613ab06&oe=5AF9EEB6
-    alt: Monday Night Dance Series - Week 1

@@ -42,25 +42,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26198008_10156120084378000_8988107692047300648_o.jpg?oh=b6222b842e2602f760395c75c2fc7fe7&oe=5AD901E1
     alt: Monday Night Dance Series - Week 2
-- id: '1246515178826591'
-  title: CPSalsa at Around the World
-  when: '2018-01-20T19:30:00-0800'
-  where:
-    name: Poly Canyon Village Market
-    latitude: 35.2535
-    longitude: -120.646
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26758089_10156163369443000_4051917933337920187_o.jpg?oh=586ea42f7069abae71e32fa5feb891a9&oe=5AE14CB1
-    alt: CPSalsa at Around the World
-- id: '1914518758787731'
-  title: Week Two Friday Nights!
-  when: '2018-01-19T19:30:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173184_10156119793693000_6979946857891824690_o.jpg?oh=15c21f75cacdfa3d1a2b4c65b7542e55&oe=5AEF8763
-    alt: Week Two Friday Nights!

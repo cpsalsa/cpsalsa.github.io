@@ -1,3 +1,14 @@
+- id: '137186250295664'
+  title: Peter and Jenny Kizomba Workshop
+  when: '2018-02-10T11:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232812_10156137564498000_4348648523564573747_o.jpg?oh=6a822e9a20209a191faa2ebe69269926&oe=5AEFA67A
+    alt: Peter and Jenny Kizomba Workshop
 - id: '151211112193667'
   title: 3rd Winter Quarter Officer Meeting
   when: '2018-02-06T19:00:00-0800'
@@ -9,6 +20,28 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173489_10156120130193000_7302423283099603755_o.jpg?oh=8aa49ca42c8f82a839dc687b4fc469d6&oe=5AEDCDEE
     alt: 3rd Winter Quarter Officer Meeting
+- id: '1788013784838413'
+  title: February's CPSalsa at Bike Night
+  when: '2018-02-01T20:45:00-0800'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26165825_10156120112083000_1111173146577594582_n.jpg?oh=a27cbea24c58925fffd320f9efd67b13&oe=5AF07657
+    alt: February's CPSalsa at Bike Night
+- id: '1817850251845725'
+  title: Wear a Wig - Week Three Friday Nights!
+  when: '2018-01-26T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26758508_10156156807233000_1613708677098436848_o.jpg?oh=452d53c7f285f042bc01b30279941432&oe=5AED4F2E
+    alt: Wear a Wig - Week Three Friday Nights!
 - id: '138860063459062'
   title: 2nd Madonna Inn Salsa Night of 2018
   when: '2018-01-23T20:30:00-0800'

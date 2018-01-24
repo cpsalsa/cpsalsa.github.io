@@ -31,6 +31,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26165825_10156120112083000_1111173146577594582_n.jpg?oh=a27cbea24c58925fffd320f9efd67b13&oe=5AF07657
     alt: February's CPSalsa at Bike Night
+- id: '160914064532877'
+  title: Monday Night Dance Series - Week 3
+  when: '2018-01-29T20:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173913_10156120087078000_4536137957756646812_o.jpg?oh=cca8f3059da4277df30f6e7e82353f52&oe=5AE66641
+    alt: Monday Night Dance Series - Week 3
 - id: '1817850251845725'
   title: Wear a Wig - Week Three Friday Nights!
   when: '2018-01-26T19:30:00-0800'
@@ -64,14 +75,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26221198_10156120041148000_6402211776350920782_o.jpg?oh=f611efe8e2ed913eac59ef40949f90cd&oe=5AF705BA
     alt: CPSalsa's January General Meeting!
-- id: '180605949192121'
-  title: Monday Night Dance Series - Week 2
-  when: '2018-01-22T20:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26198008_10156120084378000_8988107692047300648_o.jpg?oh=b6222b842e2602f760395c75c2fc7fe7&oe=5AD901E1
-    alt: Monday Night Dance Series - Week 2

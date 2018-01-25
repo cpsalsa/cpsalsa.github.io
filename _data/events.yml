@@ -1,3 +1,14 @@
+- id: '188069618600404'
+  title: CPSalsa's Febuary General Meeting!
+  when: '2018-02-13T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173742_10156120159988000_6491660981567287312_o.jpg?oh=bf3d336679fe80f73a84746c5fd94c44&oe=5ADE06D8
+    alt: CPSalsa's Febuary General Meeting!
 - id: '137186250295664'
   title: Peter and Jenny Kizomba Workshop
   when: '2018-02-10T11:00:00-0800'
@@ -53,25 +64,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26758508_10156156807233000_1613708677098436848_o.jpg?oh=452d53c7f285f042bc01b30279941432&oe=5AED4F2E
     alt: Wear a Wig - Week Three Friday Nights!
-- id: '138860063459062'
-  title: 2nd Madonna Inn Salsa Night of 2018
-  when: '2018-01-23T20:30:00-0800'
-  where:
-    name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26171685_10156120093718000_3775532345560570736_o.jpg?oh=baa1f01e246f112b0aa49af679e38c63&oe=5AF68AE2
-    alt: 2nd Madonna Inn Salsa Night of 2018
-- id: '160971308008778'
-  title: CPSalsa's January General Meeting!
-  when: '2018-01-23T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26221198_10156120041148000_6402211776350920782_o.jpg?oh=f611efe8e2ed913eac59ef40949f90cd&oe=5AF705BA
-    alt: CPSalsa's January General Meeting!

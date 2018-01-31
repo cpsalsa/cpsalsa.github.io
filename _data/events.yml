@@ -18,7 +18,7 @@
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232812_10156137564498000_4348648523564573747_o.jpg?oh=6a822e9a20209a191faa2ebe69269926&oe=5AEFA67A
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232812_10156137564498000_4348648523564573747_o.jpg?oh=caf2530c96c9221abe539c5d6b28856c&oe=5B17337A
     alt: Peter and Jenny Kizomba Workshop
 - id: '151211112193667'
   title: 3rd Winter Quarter Officer Meeting
@@ -31,6 +31,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173489_10156120130193000_7302423283099603755_o.jpg?oh=8aa49ca42c8f82a839dc687b4fc469d6&oe=5AEDCDEE
     alt: 3rd Winter Quarter Officer Meeting
+- id: '1781114245233211'
+  title: Monday Night Dance Series - Week 4
+  when: '2018-02-05T20:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232984_10156120125218000_3095634612429765356_o.jpg?oh=e0b2fdabe14a777f2bcc6620a40673e7&oe=5AD8CAE5
+    alt: Monday Night Dance Series - Week 4
 - id: '404375706670439'
   title: Week Four Friday Nights!
   when: '2018-02-02T19:30:00-0800'
@@ -51,7 +62,7 @@
     longitude: -120.65855
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26165825_10156120112083000_1111173146577594582_n.jpg?oh=a27cbea24c58925fffd320f9efd67b13&oe=5AF07657
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26165825_10156120112083000_1111173146577594582_n.jpg?oh=18faacc94ae6c5dd735ca10485d61b77&oe=5B180357
     alt: February's CPSalsa at Bike Night
 - id: '1738262056223989'
   title: 3rd Madonna Inn Salsa Night of 2018
@@ -64,14 +75,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26232293_10156120165193000_2756414985389496934_o.jpg?oh=76af3519133120a9a9a7c8308eab415d&oe=5B206F7F
     alt: 3rd Madonna Inn Salsa Night of 2018
-- id: '160914064532877'
-  title: Monday Night Dance Series - Week 3
-  when: '2018-01-29T20:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173913_10156120087078000_4536137957756646812_o.jpg?oh=cca8f3059da4277df30f6e7e82353f52&oe=5AE66641
-    alt: Monday Night Dance Series - Week 3

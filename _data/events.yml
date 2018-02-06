@@ -9,6 +9,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26171935_10156120191618000_1156371452699041357_o.jpg?oh=bd8cfb15067e815d32cab9fa2064a359&oe=5AD8B5AE
     alt: 4th Madonna Inn Salsa Night of 2018
+- id: '404117763344594'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-02-13T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/q82/s720x720/27625315_10156219431558000_9092059518660557598_o.jpg?oh=1002db411d055cccc3e1ed8a3de6784a&oe=5ADE250C
+    alt: Sangre Nueva's Technique Classes
 - id: '188069618600404'
   title: CPSalsa's Febuary General Meeting!
   when: '2018-02-13T19:00:00-0800'
@@ -31,6 +42,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232812_10156137564498000_4348648523564573747_o.jpg?oh=caf2530c96c9221abe539c5d6b28856c&oe=5B17337A
     alt: Peter and Jenny Kizomba Workshop
+- id: '155477638428877'
+  title: Pizza Day - Week Five Friday Nights!
+  when: '2018-02-09T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26240681_10156119809798000_2748562661898508057_o.jpg?oh=31739a1d934c2e878a21a3b73796f0d2&oe=5ADA8BB1
+    alt: Pizza Day - Week Five Friday Nights!
 - id: '151211112193667'
   title: 3rd Winter Quarter Officer Meeting
   when: '2018-02-06T19:00:00-0800'

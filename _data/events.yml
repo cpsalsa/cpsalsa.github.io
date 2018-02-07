@@ -31,6 +31,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173742_10156120159988000_6491660981567287312_o.jpg?oh=bf3d336679fe80f73a84746c5fd94c44&oe=5ADE06D8
     alt: CPSalsa's Febuary General Meeting!
+- id: '503357463398284'
+  title: 2nd Monday Night Dance Series - Week 1
+  when: '2018-02-12T20:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173147_10156120151338000_834378186015603957_o.jpg?oh=284c6e462a952e723f57d821ab030004&oe=5B269481
+    alt: 2nd Monday Night Dance Series - Week 1
 - id: '137186250295664'
   title: Peter and Jenny Kizomba Workshop
   when: '2018-02-10T11:00:00-0800'
@@ -64,14 +75,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173489_10156120130193000_7302423283099603755_o.jpg?oh=6189fceb1ae54b8b6ca7655126da9e00&oe=5B155AEE
     alt: 3rd Winter Quarter Officer Meeting
-- id: '1781114245233211'
-  title: Monday Night Dance Series - Week 4
-  when: '2018-02-05T20:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26232984_10156120125218000_3095634612429765356_o.jpg?oh=e0b2fdabe14a777f2bcc6620a40673e7&oe=5AD8CAE5
-    alt: Monday Night Dance Series - Week 4

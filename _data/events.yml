@@ -1,3 +1,14 @@
+- id: '132224424164971'
+  title: Dancing at Dexter
+  when: '2018-02-15T11:00:00-0800'
+  where:
+    name: Dexter Lawn
+    latitude: 35.300861107673
+    longitude: -120.66294189097
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/23376093_10155950225243000_4405322226862409421_n.jpg?oh=61d7b9296411d53b10e4041d157da589&oe=5AE13632
+    alt: Dancing at Dexter
 - id: '1636946766370796'
   title: 4th Madonna Inn Salsa Night of 2018
   when: '2018-02-13T20:30:00-0800'
@@ -64,14 +75,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26240681_10156119809798000_2748562661898508057_o.jpg?oh=31739a1d934c2e878a21a3b73796f0d2&oe=5ADA8BB1
     alt: Pizza Day - Week Five Friday Nights!
-- id: '151211112193667'
-  title: 3rd Winter Quarter Officer Meeting
-  when: '2018-02-06T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173489_10156120130193000_7302423283099603755_o.jpg?oh=6189fceb1ae54b8b6ca7655126da9e00&oe=5B155AEE
-    alt: 3rd Winter Quarter Officer Meeting

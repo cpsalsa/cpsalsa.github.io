@@ -1,3 +1,14 @@
+- id: '1782763462032702'
+  title: CPSalsa's March General Meeting!
+  when: '2018-03-13T19:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173398_10156120217333000_348410256571694550_o.jpg?oh=0c5d71010903481abab1494804f87ea0&oe=5B08E72A
+    alt: CPSalsa's March General Meeting!
 - id: '659122574211955'
   title: 2nd Monday Night Dance Series - Week 2
   when: '2018-02-26T20:00:00-0800'
@@ -9,6 +20,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173735_10156120176353000_1389198694949702117_o.jpg?oh=8f83179f8cddbd2b6a3dfa3d40fb2039&oe=5B0C0D2C
     alt: 2nd Monday Night Dance Series - Week 2
+- id: '1530652207011880'
+  title: 4th Winter Quarter Officer Meeting
+  when: '2018-02-20T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173365_10156120179258000_7386321219603228584_o.jpg?oh=41617747bcf68ce17c2962a4e69724c1&oe=5B1D4829
+    alt: 4th Winter Quarter Officer Meeting
 - id: '503357463398284'
   title: 2nd Monday Night Dance Series - Week 1
   when: '2018-02-19T20:00:00-0800'
@@ -42,36 +64,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/23376093_10155950225243000_4405322226862409421_n.jpg?oh=cedc0bce54e5af1c7b0ebd7ea7cb53ea&oe=5B08C332
     alt: Dancing at Dexter
-- id: '1636946766370796'
-  title: 4th Madonna Inn Salsa Night of 2018
-  when: '2018-02-13T20:30:00-0800'
-  where:
-    name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26171935_10156120191618000_1156371452699041357_o.jpg?oh=bd8cfb15067e815d32cab9fa2064a359&oe=5AD8B5AE
-    alt: 4th Madonna Inn Salsa Night of 2018
-- id: '404117763344594'
-  title: Sangre Nueva's Technique Classes
-  when: '2018-02-13T19:30:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/q82/s720x720/27625315_10156219431558000_9092059518660557598_o.jpg?oh=bcb15ccad39ddca1fdda1c26aecf6ed5&oe=5B05B20C
-    alt: Sangre Nueva's Technique Classes
-- id: '188069618600404'
-  title: CPSalsa's Febuary General Meeting!
-  when: '2018-02-13T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173742_10156120159988000_6491660981567287312_o.jpg?oh=8b18e7ddc61c6beb5a3d080b7c984dba&oe=5B0593D8
-    alt: CPSalsa's Febuary General Meeting!

@@ -9,8 +9,19 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173398_10156120217333000_348410256571694550_o.jpg?oh=0c5d71010903481abab1494804f87ea0&oe=5B08E72A
     alt: CPSalsa's March General Meeting!
+- id: '167048250572332'
+  title: March's CPSalsa at Bike Night
+  when: '2018-03-01T20:45:00-0800'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26166566_10156120196103000_1932712765678080573_n.jpg?oh=4f8804781e762f7a2842d877283dd8e1&oe=5B0090BC
+    alt: March's CPSalsa at Bike Night
 - id: '659122574211955'
-  title: 2nd Monday Night Dance Series - Week 2
+  title: Canceled - 2nd Monday Night Dance Series - Week 2
   when: '2018-02-26T20:00:00-0800'
   where:
     name: Cal Poly Bld 5 Rm 225
@@ -19,7 +30,18 @@
   image:
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173735_10156120176353000_1389198694949702117_o.jpg?oh=8f83179f8cddbd2b6a3dfa3d40fb2039&oe=5B0C0D2C
-    alt: 2nd Monday Night Dance Series - Week 2
+    alt: Canceled - 2nd Monday Night Dance Series - Week 2
+- id: '1574790082614709'
+  title: Week Seven Friday Nights!
+  when: '2018-02-23T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26172490_10156119820313000_423692787433841196_o.jpg?oh=e266f48ab439f473a1a08461920d3fac&oe=5B155213
+    alt: Week Seven Friday Nights!
 - id: '1530652207011880'
   title: 4th Winter Quarter Officer Meeting
   when: '2018-02-20T19:00:00-0800'
@@ -32,7 +54,7 @@
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173365_10156120179258000_7386321219603228584_o.jpg?oh=41617747bcf68ce17c2962a4e69724c1&oe=5B1D4829
     alt: 4th Winter Quarter Officer Meeting
 - id: '503357463398284'
-  title: 2nd Monday Night Dance Series - Week 1
+  title: Canceled - 2nd Monday Night Dance Series - Week 1
   when: '2018-02-19T20:00:00-0800'
   where:
     name: Cal Poly Bld 5 Rm 225
@@ -41,4 +63,4 @@
   image:
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173147_10156120151338000_834378186015603957_o.jpg?oh=7703ab1ca384e55eb5159fc9d08b719f&oe=5B4E2181
-    alt: 2nd Monday Night Dance Series - Week 1
+    alt: Canceled - 2nd Monday Night Dance Series - Week 1

@@ -9,6 +9,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173398_10156120217333000_348410256571694550_o.jpg?oh=0c5d71010903481abab1494804f87ea0&oe=5B08E72A
     alt: CPSalsa's March General Meeting!
+- id: '1960912117500410'
+  title: 5th Winter Quarter Officer Meeting
+  when: '2018-03-06T19:00:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26171843_10156120203803000_8806626573080022196_o.jpg?oh=e0911e12284f14bf2afc0edf2bf90640&oe=5B02B697
+    alt: 5th Winter Quarter Officer Meeting
 - id: '167048250572332'
   title: March's CPSalsa at Bike Night
   when: '2018-03-01T20:45:00-0800'
@@ -20,6 +31,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/26166566_10156120196103000_1932712765678080573_n.jpg?oh=4f8804781e762f7a2842d877283dd8e1&oe=5B0090BC
     alt: March's CPSalsa at Bike Night
+- id: '1818950238176114'
+  title: 5th Madonna Inn Salsa Night of 2018
+  when: '2018-02-27T20:30:00-0800'
+  where:
+    name: Madonna Inn
+    latitude: 35.267349945
+    longitude: -120.67453438427
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-0/p180x540/26173070_10156120221903000_1611597724811837925_o.jpg?oh=b04cddfad6794d8266ea3c7eb983023c&oe=5B0504B1
+    alt: 5th Madonna Inn Salsa Night of 2018
 - id: '659122574211955'
   title: Canceled - 2nd Monday Night Dance Series - Week 2
   when: '2018-02-26T20:00:00-0800'
@@ -42,14 +64,3 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26172490_10156119820313000_423692787433841196_o.jpg?oh=e266f48ab439f473a1a08461920d3fac&oe=5B155213
     alt: Week Seven Friday Nights!
-- id: '1530652207011880'
-  title: 4th Winter Quarter Officer Meeting
-  when: '2018-02-20T19:00:00-0800'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173365_10156120179258000_7386321219603228584_o.jpg?oh=41617747bcf68ce17c2962a4e69724c1&oe=5B1D4829
-    alt: 4th Winter Quarter Officer Meeting

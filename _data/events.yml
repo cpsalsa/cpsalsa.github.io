@@ -20,6 +20,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26171843_10156120203803000_8806626573080022196_o.jpg?oh=e0911e12284f14bf2afc0edf2bf90640&oe=5B02B697
     alt: 5th Winter Quarter Officer Meeting
+- id: '166883124042082'
+  title: Week Eight Friday Nights!
+  when: '2018-03-02T19:30:00-0800'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26198539_10156119826128000_1213152527737647172_o.jpg?oh=be1fc3d45283f896615a20b333383d37&oe=5B096F8E
+    alt: Week Eight Friday Nights!
 - id: '167048250572332'
   title: March's CPSalsa at Bike Night
   when: '2018-03-01T20:45:00-0800'

@@ -1,3 +1,14 @@
+- id: '526904001016531'
+  title: Chips & Salsa - Week Ten Friday Nights!
+  when: '2018-03-16T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26172455_10156119833933000_3919760407776439535_o.jpg?oh=f0af40c813fe3d9a95a9d91bd89b6ad7&oe=5B4E2237
+    alt: Chips & Salsa - Week Ten Friday Nights!
 - id: '532364440478600'
   title: 6th Madonna Inn Salsa Night of 2018
   when: '2018-03-13T20:30:00-0700'
@@ -18,5 +29,5 @@
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173398_10156120217333000_348410256571694550_o.jpg?oh=0c5d71010903481abab1494804f87ea0&oe=5B08E72A
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26173398_10156120217333000_348410256571694550_o.jpg?oh=4bd664043ffd994896042490148d3812&oe=5B30742A
     alt: CPSalsa's March General Meeting!

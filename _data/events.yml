@@ -1,3 +1,222 @@
+- id: '687069754738537'
+  title: SLOSX Tickets On Sale!
+  when: '2012-03-30T21:00:00-0700'
+  image:
+    url: /images/hero-back1.jpg
+- id: '299213026861921'
+  title: SLO Salsa Exchange 2013
+  when: '2013-03-22T00:00:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: /images/hero-back1.jpg
+- id: '655420961176426'
+  title: SLOSX 2014  - SAVE THE DATE!!!
+  when: '2014-03-21T00:00:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/935180_568947303201615_1483939579_n.jpg?_nc_cat=0&oh=2f6b26c6b18c43d333768ca433ca7962&oe=5B32AE9D
+    alt: SLOSX 2014  - SAVE THE DATE!!!
+- id: '635386559863816'
+  title: Park Day SLOSX 2014 - Hanging Out In The Back Lot
+  when: '2014-03-22T12:30:00-0700'
+  where:
+    name: Cuesta Canyon County Park
+    latitude: 35.29369
+    longitude: -120.64378
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/1966156_10151989429348862_1400461834_o.jpg?_nc_cat=0&oh=5e034c259f3715c4b2c5ec6a0099b92d&oe=5B2BDAD3
+    alt: Park Day SLOSX 2014 - Hanging Out In The Back Lot
+- id: '448610035271853'
+  title: Sunday Funday - SLOSX 2014
+  when: '2014-03-23T00:00:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/1912098_10151989402848862_306385013_o.jpg?_nc_cat=0&oh=eb073703b8330f10dcaf8d8c0ebb572c&oe=5B6CDF77
+    alt: Sunday Funday - SLOSX 2014
+- id: '335750019957604'
+  title: SLOSX 2015 - SLO Salsa Exchange - The Legacy of Mambo
+  when: '2015-03-20T21:30:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/10676187_769019116527765_3546450932089611992_n.png?oh=d08521800d4c9db0ab513b0013a25f23&oe=5B40C781
+    alt: SLOSX 2015 - SLO Salsa Exchange - The Legacy of Mambo
+- id: '592052540955061'
+  title: SLO Salsa Exchange - SLOSX 2016
+  when: '2016-03-18T21:30:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/12657183_10208540908378007_1447057932296711292_o.jpg?_nc_cat=0&oh=bcf708959e907beb15fca940e20881b9&oe=5B3BDB41
+    alt: SLO Salsa Exchange - SLOSX 2016
+- id: '869974769774318'
+  title: Sunday Afternoon and Night Dancing for SLOSX 2016 - Open to Everyone
+  when: '2016-03-20T14:00:00-0700'
+  where:
+    name: See the event description.
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/12828288_961617940601214_7417218045369306868_o.jpg?_nc_cat=0&oh=31ec985f309d14979ff911e18ad618d4&oe=5B70C2D7
+    alt: Sunday Afternoon and Night Dancing for SLOSX 2016 - Open to Everyone
+- id: '1608954192730697'
+  title: Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series
+  when: '2016-09-02T19:30:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14040159_1070866406343033_5426531455569136495_n.jpg?_nc_cat=0&oh=a25a584dbde9cc82af009cf82f87bfbc&oe=5B71EEC8
+    alt: Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series
+- id: '355467001508838'
+  title: 'Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series, week #2'
+  when: '2016-09-09T19:30:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/14199143_1081967231899617_7177725029308402133_n.jpg?_nc_cat=0&oh=c50f935e83b037d30d236672b7a33c7b&oe=5B3520AE
+    alt: >-
+      Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series, week
+      #2
+- id: '1137879879590903'
+  title: ' Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series, week #3'
+  when: '2016-09-16T19:30:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/14379978_1089112867851720_5795665505505917276_o.jpg?_nc_cat=0&oh=c09c529e80c0c83c7d1132c8a3cf0e08&oe=5B2EF582
+    alt: ' Friday Night Mambo On2 Lessons and Social Dancing - a 3 week series, week #3'
+- id: '1707023526225244'
+  title: Karel Flores and Marco Ferrigno Salsa Workshop (San Luis Obispo)
+  when: '2016-09-22T20:00:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/14045911_1066499526779721_2928210752539613928_n.jpg?_nc_cat=0&oh=1080ce0561bd07098e0d22690152a293&oe=5B6ADC0D
+    alt: Karel Flores and Marco Ferrigno Salsa Workshop (San Luis Obispo)
+- id: '1140193819431255'
+  title: SLO Salsa Exchange - SLOSX 2017
+  when: '2017-03-24T21:30:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/16177871_1217555635007442_5589375534010248008_o.jpg?_nc_cat=0&oh=bbe3367983c422e5ecf49e72f4d1b6a9&oe=5B6FDD26
+    alt: SLO Salsa Exchange - SLOSX 2017
+- id: '211078226039110'
+  title: SLOSX Park Day and Games
+  when: '2017-03-25T13:00:00-0700'
+  where:
+    name: Cuesta Canyon County Park
+    latitude: 35.29369
+    longitude: -120.64378
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/17240587_1265663763529962_1067329380407532408_o.jpg?_nc_cat=0&oh=480890ca307624cd276ff91a6751c626&oe=5B71FF83
+    alt: SLOSX Park Day and Games
+- id: '203959200087292'
+  title: SLOSX Beach Party
+  when: '2017-03-26T13:00:00-0700'
+  where:
+    name: 'Avila Beach Pier, Avila Beach, CA 93424, United States'
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/17311327_1265658100197195_8852348844521613437_o.jpg?_nc_cat=0&oh=b8bf2d89ce90d4d54c09d58895041180&oe=5B72A243
+    alt: SLOSX Beach Party
+- id: '605999256266255'
+  title: SLOSX Sunday Social
+  when: '2017-03-26T22:00:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/17192422_1265648603531478_416015370443964389_o.jpg?_nc_cat=0&oh=aecf60f20769866a3932658908246a2a&oe=5B2BCB30
+    alt: SLOSX Sunday Social
+- id: '507272932999222'
+  title: SLO Salsa Exchange - SLOSX 2018
+  when: '2018-03-23T21:30:00-0700'
+  where:
+    name: SLO Salsa Exchange
+    latitude: 35.2961502
+    longitude: -120.6530838
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/26197957_1554865151276487_4486960752950777800_o.jpg?_nc_cat=0&oh=e14384b65eb17fe7c6a05fae0e21ab1b&oe=5B3B7375
+    alt: SLO Salsa Exchange - SLOSX 2018
+- id: '213217469414506'
+  title: SLOSX Flash Mob 2018
+  when: '2018-03-24T15:30:00-0700'
+  where:
+    name: See description.
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/29386815_1630361010393567_2264457413019041792_o.jpg?_nc_cat=0&oh=d1dbe378c514b207cac0287d812d5f44&oe=5B2A0B3D
+    alt: SLOSX Flash Mob 2018
+- id: '1981736622153168'
+  title: SLOSX Bachata By the Beach
+  when: '2018-03-25T13:00:00-0700'
+  where:
+    name: Avila Beach
+    latitude: 35.1791
+    longitude: -120.7338
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/q86/s720x720/29216682_1625461757550159_1598440609704574976_o.jpg?_nc_cat=0&oh=f7e70251c1ea1e0ac6c8f80dbbbd57ae&oe=5B37669A
+    alt: SLOSX Bachata By the Beach
+- id: '226666314575481'
+  title: SLOSX Sunday Night Social
+  when: '2018-03-25T22:00:00-0700'
+  where:
+    name: Studio @-Ryan's American Dance
+    latitude: 35.2478
+    longitude: -120.66858
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/29197332_1625592917537043_2543449138423398400_n.jpg?_nc_cat=0&oh=6ca34f9819721c324090cf6310017ab8&oe=5B732ECD
+    alt: SLOSX Sunday Night Social
+- id: '1781529581898040'
+  title: Welcome Back! - Week One Friday Nights!
+  when: '2018-04-06T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29355252_10156382272383000_958793002040305720_o.jpg?_nc_cat=0&oh=3419f6cd4527aed6fed8bda4469436c7&oe=5B41494F
+    alt: Welcome Back! - Week One Friday Nights!
 - id: '425831291202763'
   title: Dancing in the Canyon!
   when: '2018-04-07T18:30:00-0700'

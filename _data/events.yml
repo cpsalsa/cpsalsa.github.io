@@ -217,6 +217,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/q82/s720x720/29662465_10156384424033000_2378676695804397023_o.jpg?_nc_cat=0&oh=7f2f21fb58864a5d588c3b96b36535e3&oe=5B3C4A58
     alt: 1st Spring Quarter Officer Meeting
+- id: '353510615136294'
+  title: CPSalsa at Bike Night
+  when: '2018-04-05T20:45:00-0700'
+  where:
+    name: Bank of America
+    latitude: 35.28204
+    longitude: -120.65855
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/29694599_10156387842663000_7144280906524621049_n.jpg?_nc_cat=0&oh=9bac59a7a31964678be175f3924a46c7&oe=5B274A82
+    alt: CPSalsa at Bike Night
 - id: '1781529581898040'
   title: Welcome Back! - Week One Friday Nights!
   when: '2018-04-06T19:30:00-0700'

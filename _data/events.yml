@@ -215,7 +215,7 @@
     longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/q82/s720x720/29662465_10156384424033000_2378676695804397023_o.jpg?_nc_cat=0&oh=7f2f21fb58864a5d588c3b96b36535e3&oe=5B3C4A58
+      https://scontent.xx.fbcdn.net/v/t31.0-8/q82/s720x720/29662465_10156384424033000_2378676695804397023_o.jpg?_nc_cat=0&oh=2878ea2de347e9f2c3dee59e2bb2e77f&oe=5B63D758
     alt: 1st Spring Quarter Officer Meeting
 - id: '353510615136294'
   title: CPSalsa at Bike Night
@@ -259,6 +259,28 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29873045_10156389781268000_3109642977433450382_o.jpg?_nc_cat=0&oh=96e8d6b0c0989e6b87ebecbfd9b1b2dd&oe=5B362246
     alt: April General Meeting and Officer Elections!
+- id: '398965703882461'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-04-10T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes
+- id: '398965720549126'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-04-10T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes
 - id: '412124149231531'
   title: Week Two Friday Nights!
   when: '2018-04-13T19:30:00-0700'
@@ -281,3 +303,47 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29665177_10156390010328000_3249034407788440117_o.jpg?_nc_cat=0&oh=b2c9492e0c334c628d4736d71b40071c&oe=5B35255B
     alt: Week Three Friday Nights!
+- id: '398965723882459'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-04-24T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes
+- id: '398965717215793'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-05-08T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes
+- id: '398965713882460'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-05-22T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes
+- id: '398965710549127'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-05-29T19:30:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
+    alt: Sangre Nueva's Technique Classes

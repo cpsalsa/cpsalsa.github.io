@@ -97,6 +97,15 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ce395dc2c7600d1212316d3c5d35d094&oe=5B31A8DB
     alt: Sangre Nueva's Technique Classes
+- id: '601095083559996'
+  title: National Dance Week!
+  when: '2018-04-26T19:40:00-0700'
+  where:
+    name: Morro and Higuera
+  image:
+    url: >-
+      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/30530602_10156415102723000_608861302684647424_o.jpg?_nc_cat=0&oh=3a93b5b6162ed5b88c0c621e7d50336c&oe=5B70B6BD
+    alt: National Dance Week!
 - id: '398965717215793'
   title: Sangre Nueva's Technique Classes
   when: '2018-05-08T19:30:00-0700'

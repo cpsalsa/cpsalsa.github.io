@@ -9,28 +9,6 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29663049_10156391207748000_6649817719751302044_o.jpg?_nc_cat=0&oh=600e01aa29566c4982f68c2c4524a9ed&oe=5B3012E3
     alt: Spring Monday Rueda Dance Series
-- id: '1651013824984391'
-  title: April General Meeting and Officer Elections!
-  when: '2018-04-10T19:00:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/30443397_10156414757233000_2774643117683376128_o.jpg?_nc_cat=0&oh=cc3c485d0a2f4f4e7d556338fbc495e6&oe=5B5C2D2D
-    alt: April General Meeting and Officer Elections!
-- id: '398965720549126'
-  title: Sangre Nueva's Technique Classes
-  when: '2018-04-10T19:30:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
-  image:
-    url: >-
-      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ea45df483aac5e5cd43dc441ca97d6e9&oe=5B5935DB
-    alt: Sangre Nueva's Technique Classes
 - id: '398965703882461'
   title: Sangre Nueva's Technique Classes
   when: '2018-04-10T19:30:00-0700'
@@ -42,17 +20,17 @@
     url: >-
       https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ea45df483aac5e5cd43dc441ca97d6e9&oe=5B5935DB
     alt: Sangre Nueva's Technique Classes
-- id: '448676885564538'
-  title: 6th Madonna Inn Salsa Night of 2018
-  when: '2018-04-10T20:30:00-0700'
+- id: '398965720549126'
+  title: Sangre Nueva's Technique Classes
+  when: '2018-04-10T19:30:00-0700'
   where:
-    name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
+    name: Cal Poly Bld 5 Rm 225
+    latitude: 35.300661348709
+    longitude: -120.66432237625
   image:
     url: >-
-      https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/30124121_10156402129863000_1465310547812548608_o.jpg?_nc_cat=0&oh=1c7d465ebecfbfb23c3c703dcb9328c2&oe=5B598E04
-    alt: 6th Madonna Inn Salsa Night of 2018
+      https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/29662303_10156391110028000_8077402989836200959_o.jpg?_nc_cat=0&oh=ea45df483aac5e5cd43dc441ca97d6e9&oe=5B5935DB
+    alt: Sangre Nueva's Technique Classes
 - id: '412124149231531'
   title: Week Two Friday Nights!
   when: '2018-04-13T19:30:00-0700'

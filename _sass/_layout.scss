@@ -30,6 +30,10 @@
     }
 }
 
+.btn {
+    transition: 0.15s ease-in-out background;
+}
+
 .hero {
     width: 100%;
     min-height: 100vh;
@@ -285,6 +289,17 @@ body > .site-footer {
     position: relative;
     margin: auto;
     float: none;
+}
+.contact a.btn {
+    text-decoration: none;
+}
+.contact a.btn-secondary {
+    background: $brand-secondary;
+    color: $secondary-button-color;
+
+    &:hover {
+        background: darken($brand-secondary, 20%);
+    }
 }
 
 .site-footer {

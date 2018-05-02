@@ -292,9 +292,9 @@ article.post {
     margin-top: 20px;
 
     a {
-        display: block;
+        display: inline-block;
         padding: 20px;
-        width: 200px;
+        // width: 200px;
         text-align: center;
         border: 3px solid $text-color;
         color: $text-color;

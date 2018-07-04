@@ -1,20 +1,14 @@
-  - name: Kevin Martinez
+  - name: Mikaela Manzano
     position: President
     image:
         url: images/members/president.jpg
-        alt: Picture of Kevin Martinez
+        alt: Picture of Mikaela Manzano
 
-  - name: Nimisha Patel
+  - name: Polina Volnuhina
     position: Vice President
     image:
         url: images/members/vice-president.jpg
-        alt: Picture of Nimisha Patel
-
-  - name: Mikaela Manzano
-    position: Secretary
-    image:
-        url: images/members/secretary.jpg
-        alt: Picture of Mikaela Manzano
+        alt: Picture of Polina Volnuhina
 
   - name: Ricky Tan
     position: Treasurer
@@ -22,32 +16,38 @@
         url: images/members/treasurer.jpg
         alt: Picture of Ricky Tan
 
-  - name: Ivan Ramirez
+  - name: Ed Pecson
     position: Friday Nights
     image:
         url: images/members/friday-nights.jpg
-        alt: Picture of Ivan Ramirez
+        alt: Picture of Ed Pecson
 
-  - name: Ed Pecson
+  - name: Brayden Schmidt
     position: Instruction
     image:
         url: images/members/instruction.jpg
-        alt: Picture of Ed Pecson
+        alt: Picture of Brayden Schmidt
 
-  - name: Sydney Jones
+  - name: Nimisha Patel
     position: Advertising
     image:
-        url: images/members/graphics.jpg
-        alt: Picture of Sydney Jones
+        url: images/members/advertising.jpg
+        alt: Picture of Nimisha Patel
 
-  - name: Katia Panighetti
+  - name: Patrick Lim
     position: Social Media
     image:
-        url: images/members/social-media-1.jpg
-        alt: Picture of Katia Panighetti
+        url: images/members/social-media.jpg
+        alt: Picture of Patrick Lim
 
-  - name: Maya Blair
-    position: Outreach
+  - name: Tyler Anderson
+    position: Outreach Community
     image:
-        url: images/members/outreach.jpg
-        alt: Picture of Maya Blair
+        url: images/members/outreach-community.jpg
+        alt: Picture of Tyler Anderson
+
+  - name: Nicolle Cooper
+    position: Outreach Student
+    image:
+        url: images/members/outreach-student.jpg
+        alt: Picture of Nicolle Cooper

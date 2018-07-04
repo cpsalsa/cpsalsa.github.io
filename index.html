@@ -117,7 +117,10 @@ layout: home
                             <div class="details">
                                 <h3 class="title">{{ event.title }}</h3>
                                 <span class="when">{{ event.when | date: "%B %-d, %I:%M%p" }}</span>
-                                <span class="where">{{ event.where.name }}</span>
+                                <span class="where">
+                                    <a href="{{ event.where.url }}">{{ event.where.name }}</a>
+                                </span>
+                                <p>{{ event.details | markdownify }}</p>
                             </div>
                         </div>
                     </div>

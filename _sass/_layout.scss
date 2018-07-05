@@ -169,6 +169,9 @@ body > .site-footer {
 .fridays h4 {
     color: $secondary-header-color;
 }
+.fridays a:hover {
+    color: lighten($link-color, 30%);
+}
 .fridays .power-image {
     position: absolute;
     top: 10px;
@@ -214,7 +217,11 @@ body > .site-footer {
     }
 }
 .fb-events a {
-    color: #abf1c5;
+    color: #9af9bd;
+
+    &:hover {
+        color: #abf1c5;
+    }
 }
 .fb-events .card {
     padding: 0;

@@ -1,0 +1,50 @@
+
+.fridays {
+    position: relative;
+    overflow: hidden;
+    @include gradient-image('../images/fridays-1.jpg', right, fixed, $fridays-gradient-start, $fridays-gradient-end);
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
+}
+.fridays h4 {
+    color: $secondary-header-color;
+}
+.fridays a:hover {
+    color: lighten($link-color, 30%);
+}
+.fridays .power-image {
+    position: absolute;
+    top: 10px;
+    right: 0;
+
+    @media (max-width: $screen-md-min) {
+        display: none;
+    }
+}
+.fridays .content {
+    height: 100%;
+    @include default-padding;
+}
+.fridays .friday-slideshow {
+    height: 100%;
+    min-height: 800px;
+}
+.fridays ul {
+    list-style: none;
+}
+.fridays .unslider {
+    height: 100%;
+    overflow: hidden;
+}
+.fridays .unslider img {
+    position: relative;
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+    object-position: center;
+}
+.fridays .unslider-nav {
+    display: none;
+}

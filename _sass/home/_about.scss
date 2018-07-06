@@ -1,0 +1,41 @@
+.about {
+    @include gradient-image('../images/fridays-5.jpg', right, fixed, $about-gradient-start, $about-gradient-end);
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
+
+    @include default-padding;
+}
+.about p {
+    text-align: left;
+}
+.about .card {
+    // background: #352635;
+    background: $about-card-background;
+    text-align: center;
+    transition: 0.2s transform cubic-bezier(.39,.71,.56,.98);
+
+    @include card;
+
+    &:hover {
+        transform: perspective(500px) translate3d(0, 0, 10px);
+    }
+}
+.about .card h4 {
+    color: $brand-secondary;
+}
+.about .card img {
+    display: block;
+    width: 100%;
+    height: 400px;
+    @media (max-device-width: $screen-sm-min) {
+        height: 300px;
+    }
+
+    object-fit: cover;
+    object-position: top;
+}
+.about .card .details {
+    padding: 10px 20px;
+}

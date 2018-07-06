@@ -1,0 +1,48 @@
+.events .content {
+    height: 100%;
+    @include default-padding;
+}
+.events {
+    @include default-padding;
+    @include gradient-image('../images/fridays-2.jpg', right, fixed, $events-gradient-start, $events-gradient-end);
+
+    @media (max-device-width: $screen-xs-min) {
+        background-attachment: scroll;
+    }
+}
+.fb-events a {
+    color: #9af9bd;
+
+    &:hover {
+        color: #abf1c5;
+    }
+}
+.fb-events .card {
+    background: $event-card-background;
+    padding: 0;
+
+    @include card;
+}
+.fb-events .card .event-image {
+    overflow: hidden;
+    position: relative;
+    padding-top: 52.63%;
+}
+.fb-events .card img {
+    // @media (min-width: $screen-lg-min) {
+    //     padding-top: 52.63%;
+    // }
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.fb-events .card .details {
+    padding: 10px 20px;
+}
+.fb-events .when,
+.fb-events .where {
+    display: block;
+}
+.fb-events .where {
+    color: $text-darker;
+}

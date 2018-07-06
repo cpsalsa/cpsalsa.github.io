@@ -1,0 +1,115 @@
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    color: #fff;
+
+    .row {
+        height: 50vh;
+    }
+    [class*='col-'] {
+        height: 50vh;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center !important;
+        background-attachment: local;
+
+        @media (max-width: $screen-md-min) {
+            display: none;
+        }
+        h1, h2, p {
+            visibility: hidden;
+            z-index: 1;
+        }
+        .blurb {
+            min-height: 44px;
+        }
+        @media (min-width: $screen-md-min) {
+            &:before {
+                content: '';
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                opacity: 0;
+                transition: opacity ease-in-out 0.3s;
+                top: 0;
+            }
+            &:hover:before {
+                opacity: 1;
+            }
+        }
+    }
+    .title {
+        @include gradient-image('../images/hero-back1.jpg', right, local, $title-gradient-start, $title-gradient-end);
+
+        @media (max-width: $screen-md-min) {
+            display: flex;
+            height: 100vh;
+        }
+        h1, p {
+            display: none;
+
+            @media (max-width: $screen-md-min) {
+                display: block;
+            }
+        }
+        h1 {
+            color: $brand-primary;
+        }
+    }
+    .about {
+        background-position: center left;
+        p {
+            text-align: center;
+        }
+    }
+    .about:before {
+        @include hero-card-hover('../images/fridays-5.jpg', right, $about-gradient-start, $about-gradient-end);
+    }
+    .contact {
+        @include gradient-image('../images/fridays-4.jpg', left, local, $contact-gradient-start, $contact-gradient-end);
+    }
+    .contact:before {
+        @include hero-card-hover('../images/fridays-4.jpg', left, $contact-gradient-start, $contact-gradient-end);
+    }
+    .events:before {
+        @include hero-card-hover('../images/fridays-2.jpg', right, $events-gradient-start, $events-gradient-end);
+    }
+    .fridays:before {
+        @include hero-card-hover('../images/fridays-1.jpg', right, $fridays-gradient-start, $fridays-gradient-end);
+    }
+    .posts {
+        @include gradient-image('../images/fridays-3.jpg', left, local, $posts-gradient-start, $posts-gradient-end);
+    }
+    .posts:before {
+        @include hero-card-hover('../images/fridays-3.jpg', left, $posts-gradient-start, $posts-gradient-end);
+    }
+    h2 {
+        border-bottom: 1px solid $text-color;
+        a {
+            text-decoration: none;
+            color: $text-color;
+        }
+        a:hover {
+            color: $brand-secondary;
+        }
+    }
+}
+.hero-content {
+    left: 0;
+    width: 100%;
+    text-align: left;
+
+    @include default-padding;
+}
+.hero-title {
+    visibility: hidden;
+}
+.hero-slogan {
+    font-style: italic;
+}
+.hero-content h1 {
+    color: $brand-primary;
+}

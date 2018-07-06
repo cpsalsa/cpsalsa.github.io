@@ -1,0 +1,26 @@
+.contact,
+.site-footer {
+    @include default-padding;
+}
+.contact h1 {
+    color: $brand-primary;
+}
+.contact .messenger-contact {
+    margin-left: 0;
+}
+.center {
+    position: relative;
+    margin: auto;
+    float: none;
+}
+.contact a.btn {
+    text-decoration: none;
+}
+.contact a.btn-secondary {
+    background: $brand-secondary;
+    color: $secondary-button-color;
+
+    &:hover {
+        background: darken($brand-secondary, 20%);
+    }
+}

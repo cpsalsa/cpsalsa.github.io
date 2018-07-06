@@ -111,9 +111,11 @@ layout: home
                 {% endif %}
                     <div class="col-sm-6">
                         <div class="card wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
-                            <a href="https://www.facebook.com/events/{{ event.id }}">
-                                <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ event.image.url }}" alt="{{ event.image.alt }}">
-                            </a>
+                            <div class="event-image">
+                                <a href="https://www.facebook.com/events/{{ event.id }}">
+                                    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ event.image.url }}" alt="{{ event.image.alt }}">
+                                </a>
+                            </div>
                             <div class="details">
                                 <h3 class="title">{{ event.title }}</h3>
                                 <span class="when">{{ event.when | date: "%B %-d, %I:%M%p" }}</span>

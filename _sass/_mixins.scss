@@ -36,22 +36,22 @@
     height: 100%;
 }
 
-@mixin gradient-image($image, $justify, $attach, $r, $g, $b, $a1, $a2) {
+@mixin gradient-image($image, $justify, $attach, $color1, $color2) {
     background:
         linear-gradient(
-            rgba($r, $g, $b, $a1),
-            rgba($r, $g, $b, $a2)
+            $color1,
+            $color2
         ),
         url($image) no-repeat center $justify $attach;
     background-size: cover;
 
 }
 
-@mixin hero-card-hover($image, $justify) {
+@mixin hero-card-hover($image, $justify, $color1, $color2) {
     background:
         linear-gradient(
-            rgba(53, 53, 53, 0.9),
-            rgba(53, 53, 53, 0.9)
+            darken(desaturate($color1, 50%), 15%),
+            darken(desaturate($color2, 50%), 15%)
         ),
         url($image) no-repeat center $justify local;
     background-size: cover;

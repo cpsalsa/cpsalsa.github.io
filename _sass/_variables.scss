@@ -16,6 +16,21 @@ $link-color: 	   			darken($brand-secondary, 10%);
 $secondary-header-color:	lighten($brand-primary, 30%);
 $fridays-header-color:		#860474;
 
+// background gradients
+$about-gradient-start:      rgba(0, 146, 255, 0.95);
+$about-gradient-end:        rgba(0, 146, 255, 0.9);
+$contact-gradient-start:    rgba(179, 8, 151, 0.95);
+$contact-gradient-end:      rgba(179, 8, 151, 0.9);
+$events-gradient-start:     rgba(227, 117, 33, 0.95);
+$events-gradient-end:       rgba(227, 117, 33, 0.9);
+$fridays-gradient-start:    rgba(65, 177, 167, 0.95);
+$fridays-gradient-end:      rgba(65, 177, 167, 0.9);
+$posts-gradient-start:      rgba(111, 23, 136, 0.95);
+$posts-gradient-end:        rgba(111, 23, 136, 0.9);
+$title-gradient-start:      rgba(46, 27, 175, 0.95);
+$title-gradient-end:        rgba(46, 27, 175, 0.9);
+
+
 $title-background:			#2e1baf;
 $friday-background:			#41b1a7;
 $event-background:			#e37521;

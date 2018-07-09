@@ -50,8 +50,8 @@
 @mixin hero-card-hover($image, $justify, $color1, $color2) {
     background:
         linear-gradient(
-            darken(desaturate($color1, 50%), 15%),
-            darken(desaturate($color2, 50%), 15%)
+            darken(desaturate($color1, 20%), 10%),
+            darken(desaturate($color2, 20%), 10%)
         ),
         url($image) no-repeat center $justify local;
     background-size: cover;

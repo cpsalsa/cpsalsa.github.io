@@ -14,13 +14,8 @@
     // background: #352635;
     background: $about-card-background;
     text-align: center;
-    transition: 0.2s transform cubic-bezier(.39,.71,.56,.98);
 
     @include card;
-
-    &:hover {
-        transform: perspective(500px) translate3d(0, 0, 10px);
-    }
 }
 .about .card h4 {
     color: $brand-secondary;

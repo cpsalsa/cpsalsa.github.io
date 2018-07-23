@@ -182,7 +182,7 @@ layout: home
                         </div>
                     </div>
                     <div class="col-md-8 post-list no-gutter">
-                        {% for post in site.posts | limit: 4 %}
+                        {% for post in site.posts limit: 4 %}
                         {% capture modulo %}{{ forloop.index0 | modulo: 1 }}{% endcapture %}
                         {% if modulo == '0' %}
                         <div class="row">

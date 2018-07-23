@@ -15,7 +15,7 @@ tags:
 For all the leads out there struggling with the &#8216;I need more moves&#8217; conundrum, I give you this sage bit of advice from Oliver Pineda:
 
 <div class="youtube">
-    <div class="col-sm-12 embed-responsive embed-responsive-4by3">
+    <div class="col-md-10 col-md-offset-1 embed-responsive embed-responsive-4by3">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/zR_VC_myTkE" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>

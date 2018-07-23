@@ -4,7 +4,7 @@ author: khang
 date: 2018-07-23T12:00:00+08:00
 layout: post
 permalink: /archives/music-history-son
-image: /images/uploads/2018/07/Conjunto_de_Arsenio_Rodríguez.jpg
+image: /images/uploads/2018/07/arsenio-rodriguez.jpg
 categories:
     - History
     - Music
@@ -14,7 +14,7 @@ galleries:
           caption: Sexteto Habanero 1920
         - image: /images/uploads/2018/07/Occidente.jpg
           caption: Sexteto Occidente New York 1926
-        - image: /images/uploads/2018/07/Conjunto_de_Arsenio_Rodríguez.jpg
+        - image: /images/uploads/2018/07/arsenio-rodriguez.jpg
           caption: Conjunto de Arsenio Rodríguez 1949
 
 tags:

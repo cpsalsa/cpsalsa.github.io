@@ -1,21 +1,3 @@
-- id: '1700637776724591'
-  title: 14th Madonna Inn Salsa Night of 2018
-  when: '2018-07-24T20:30:00-0700'
-  where:
-    name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
-    url: >-
-      https://goo.gl/maps/5RAmCPe4hk52
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37368048_10156674120898000_1545212483004792832_o.jpg?_nc_cat=0&oh=a12c263c358e0c456980006b5836913b&oe=5BD3040A
-    alt: 14th Madonna Inn Salsa Night of 2018
-  details: |
-    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Still, while it's FREE, we'd very much appreciate donations as they help support the team. (studio space, choreographer time, costumes for performing, etc)
-
-    Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-
 - id: '238420760079095'
   title: 'Friday Nights - Summer Edition: Week 5'
   when: '2018-07-27T19:30:00-0700'
@@ -33,3 +15,49 @@
     We're halfway through the quarter and CPSalsa is still here for you! If you're a student, come join us to rest your brain from midterms! If you're a SLOcal, wind down from your week with us! We'll see you out on the floor!
 
     Then come hang with us after dancing at SLODoCo and Chilie Peppers!
+
+- id: '1686291074823137'
+  title: 15th Madonna Inn Salsa Night of 2018
+  when: '2018-07-31T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    latitude: 35.267349945
+    longitude: -120.67453438427
+    url: >-
+      https://goo.gl/maps/5RAmCPe4hk52
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37574412_10156678730803000_6422481931643912192_o.jpg?_nc_cat=0&oh=3b6be910a84f49c8f52d13c9818e335d&oe=5BD7A220
+    alt: 15th Madonna Inn Salsa Night of 2018
+  details: |
+    It's the fifth Tuesday of the month, which means we get an extra night of Madonna Inn! If you didn't know already, this is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Still, while it's FREE, we'd very much appreciate donations as they help support the team. (studio space, choreographer time, costumes for performing, etc)
+
+    Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+
+- id: '2089192448064628'
+  title: Bachata Wednesday! Welcome Summer Dance Party VIII
+  when: '2018-07-25T20:00:00-0700'
+  where:
+    name: SLO Veterans Hall
+  latitude: 35.2887009
+  longitude: -120.6548735
+  url: >-
+    https://goo.gl/maps/JujpDRCNxJn
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37679993_1766708286739294_6544636256150618112_o.jpg?_nc_cat=0&oh=8ffc4f64e2d44d97be2ea5e81dcb9f69&oe=5BC5DE28
+  alt: Bachata Wednesday! Welcome Summer Dance Party VIII
+  details: |
+    Bachata Wednesday! Welcome Summer Dance Party warm long days make for perfect nights to dance!
+    Bachata Lesson with Liliana at 8pm.
+    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. with Super Dj Michelangelo.
+
+    When: Wednesday 8pm
+
+    Where: SLO Vets Hall 801 Grad Ave.
+
+    How Much $7.00
+
+    Bachata Dance Class with Liliana Graham.
+
+    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. With Super Dj Michelangelo 9:00 to 11:00

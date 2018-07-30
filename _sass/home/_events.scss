@@ -4,11 +4,16 @@
 }
 .events {
     @include default-padding;
-    @include gradient-image('../images/fridays-2.jpg', right, fixed, $events-gradient-start, $events-gradient-end);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
     }
+}
+.no-webp .events {
+    @include gradient-image('../images/fridays-2.jpg', right, fixed, $events-gradient-start, $events-gradient-end);
+}
+.webp .events {
+    @include gradient-image('../images/fridays-2.webp', right, fixed, $events-gradient-start, $events-gradient-end);
 }
 .fb-events a {
     color: #9af9bd;

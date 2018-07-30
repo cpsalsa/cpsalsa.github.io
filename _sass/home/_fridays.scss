@@ -2,11 +2,16 @@
 .fridays {
     position: relative;
     overflow: hidden;
-    @include gradient-image('../images/fridays-1.jpg', right, fixed, $fridays-gradient-start, $fridays-gradient-end);
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
     }
+}
+.no-webp .fridays {
+    @include gradient-image('../images/fridays-1.jpg', right, fixed, $fridays-gradient-start, $fridays-gradient-end);
+}
+.webp .fridays {
+    @include gradient-image('../images/fridays-1.webp', right, fixed, $fridays-gradient-start, $fridays-gradient-end);
 }
 .fridays h4 {
     color: $secondary-header-color;
@@ -33,18 +38,4 @@
 }
 .fridays ul {
     list-style: none;
-}
-.fridays .unslider {
-    height: 100%;
-    overflow: hidden;
-}
-.fridays .unslider img {
-    position: relative;
-    width: 100%;
-    height: 900px;
-    object-fit: cover;
-    object-position: center;
-}
-.fridays .unslider-nav {
-    display: none;
 }

@@ -1,11 +1,15 @@
 .about {
-    @include gradient-image('../images/fridays-5.jpg', right, fixed, $about-gradient-start, $about-gradient-end);
-
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
     }
 
     @include default-padding;
+}
+.no-webp .about {
+    @include gradient-image('../images/fridays-5.jpg', right, fixed, $about-gradient-start, $about-gradient-end);
+}
+.webp .about {
+    @include gradient-image('../images/fridays-5.webp', right, fixed, $about-gradient-start, $about-gradient-end);
 }
 .about p {
     text-align: left;

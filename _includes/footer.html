@@ -21,7 +21,7 @@
 
 <script src="{{ "/js/jquery-3.1.1.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/lightbox.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/unslider-min.js" | prepend: site.baseurl }}"></script>
+<!-- <script src="{{ "/js/modernizr-custom.js" | prepend: site.baseurl }}"></script> -->
 <script src="{{ "/js/wow.js" | prepend: site.baseurl }}"></script>
 
 <script type="text/javascript">
@@ -38,8 +38,6 @@
                 }
             }
         });
-
-        (new WOW()).init();
     });
 
 
@@ -58,15 +56,9 @@
 
             img.onload = onload.bind(this, img);
         }
-
-        jQuery('.slider').unslider({
-            animation: 'fade',
-            autoplay: true,
-            arrows: false,
-            delay: 10000,
-            speed: 2000
-        });
     }
 
+
+    (new WOW()).init();
     window.onload = init;
 </script>

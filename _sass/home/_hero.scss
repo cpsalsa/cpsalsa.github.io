@@ -1,3 +1,56 @@
+.no-webp .hero {
+    .title {
+        @include gradient-image('../images/hero-back1.jpg', right, local, $title-gradient-start, $title-gradient-end);
+    }
+    .about:before {
+        @include hero-card-hover('../images/fridays-5.jpg', right, $about-gradient-start, $about-gradient-end);
+    }
+    .contact {
+        @include gradient-image('../images/fridays-4.jpg', left, local, $contact-gradient-start, $contact-gradient-end);
+    }
+    .contact:before {
+        @include hero-card-hover('../images/fridays-4.jpg', left, $contact-gradient-start, $contact-gradient-end);
+    }
+    .events:before {
+        @include hero-card-hover('../images/fridays-2.jpg', right, $events-gradient-start, $events-gradient-end);
+    }
+    .fridays:before {
+        @include hero-card-hover('../images/fridays-1.jpg', right, $fridays-gradient-start, $fridays-gradient-end);
+    }
+    .posts {
+        @include gradient-image('../images/fridays-3.jpg', left, local, $posts-gradient-start, $posts-gradient-end);
+    }
+    .posts:before {
+        @include hero-card-hover('../images/fridays-3.jpg', left, $posts-gradient-start, $posts-gradient-end);
+    }
+}
+.webp .hero {
+    .title {
+        @include gradient-image('../images/hero-back1.webp', right, local, $title-gradient-start, $title-gradient-end);
+    }
+    .about:before {
+        @include hero-card-hover('../images/fridays-5.webp', right, $about-gradient-start, $about-gradient-end);
+    }
+    .contact {
+        @include gradient-image('../images/fridays-4.webp', left, local, $contact-gradient-start, $contact-gradient-end);
+    }
+    .contact:before {
+        @include hero-card-hover('../images/fridays-4.webp', left, $contact-gradient-start, $contact-gradient-end);
+    }
+    .events:before {
+        @include hero-card-hover('../images/fridays-2.webp', right, $events-gradient-start, $events-gradient-end);
+    }
+    .fridays:before {
+        @include hero-card-hover('../images/fridays-1.webp', right, $fridays-gradient-start, $fridays-gradient-end);
+    }
+    .posts {
+        @include gradient-image('../images/fridays-3.webp', left, local, $posts-gradient-start, $posts-gradient-end);
+    }
+    .posts:before {
+        @include hero-card-hover('../images/fridays-3.webp', left, $posts-gradient-start, $posts-gradient-end);
+    }
+}
+
 .hero {
     width: 100%;
     min-height: 100vh;
@@ -42,8 +95,6 @@
         }
     }
     .title {
-        @include gradient-image('../images/hero-back1.jpg', right, local, $title-gradient-start, $title-gradient-end);
-
         @media (max-width: $screen-md-min) {
             display: flex;
             height: 100vh;
@@ -64,27 +115,6 @@
         p {
             text-align: center;
         }
-    }
-    .about:before {
-        @include hero-card-hover('../images/fridays-5.jpg', right, $about-gradient-start, $about-gradient-end);
-    }
-    .contact {
-        @include gradient-image('../images/fridays-4.jpg', left, local, $contact-gradient-start, $contact-gradient-end);
-    }
-    .contact:before {
-        @include hero-card-hover('../images/fridays-4.jpg', left, $contact-gradient-start, $contact-gradient-end);
-    }
-    .events:before {
-        @include hero-card-hover('../images/fridays-2.jpg', right, $events-gradient-start, $events-gradient-end);
-    }
-    .fridays:before {
-        @include hero-card-hover('../images/fridays-1.jpg', right, $fridays-gradient-start, $fridays-gradient-end);
-    }
-    .posts {
-        @include gradient-image('../images/fridays-3.jpg', left, local, $posts-gradient-start, $posts-gradient-end);
-    }
-    .posts:before {
-        @include hero-card-hover('../images/fridays-3.jpg', left, $posts-gradient-start, $posts-gradient-end);
     }
     h2 {
         border-bottom: 1px solid $text-color;

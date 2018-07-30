@@ -1,6 +1,6 @@
-- id: '238420760079095'
+- id: '1883854275013603'
   title: 'Friday Nights - Summer Edition: Week 5'
-  when: '2018-07-27T19:30:00-0700'
+  when: '2018-08-03T19:30:00-0700'
   where:
     name: Cal Poly Bld 5 Rm 225
     latitude: 35.300661348709
@@ -9,10 +9,10 @@
       https://goo.gl/maps/gQ3dd6JhCi62
   image:
     url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36831820_10156650735243000_1374356549371166720_n.jpg?_nc_cat=0&oh=984fdcb6f0e4c7deb94ff3d4c3915a95&oe=5BC9B9E1
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36843227_10156650751658000_212637959604666368_n.jpg?_nc_cat=0&oh=494c1d515285f0b0c95118964025ee7f&oe=5BCA4DC6
     alt: 'Friday Nights - Summer Edition: Week 5'
   details: |
-    We're halfway through the quarter and CPSalsa is still here for you! If you're a student, come join us to rest your brain from midterms! If you're a SLOcal, wind down from your week with us! We'll see you out on the floor!
+    We're over the hump of summer quarter in Week 6! Come join us to start the second half of the quarter right!
 
     Then come hang with us after dancing at SLODoCo and Chilie Peppers!
 
@@ -34,30 +34,46 @@
 
     Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
 
-- id: '2089192448064628'
-  title: Bachata Wednesday! Welcome Summer Dance Party VIII
-  when: '2018-07-25T20:00:00-0700'
+- id: '1686291074823137'
+  title: Salsa and Waltz with Liliana
+  when: '2018-07-30T19:00:00-0700'
   where:
-    name: SLO Veterans Hall
-  latitude: 35.2887009
-  longitude: -120.6548735
-  url: >-
-    https://goo.gl/maps/JujpDRCNxJn
+    name: Pismo Beach Vets Hall
+    latitude: 35.1432974
+    longitude: -120.6409137
+    url: >-
+      https://goo.gl/maps/bmVt8S6Qw362
   image:
     url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37679993_1766708286739294_6544636256150618112_o.jpg?_nc_cat=0&oh=8ffc4f64e2d44d97be2ea5e81dcb9f69&oe=5BC5DE28
-  alt: Bachata Wednesday! Welcome Summer Dance Party VIII
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37904281_1771978602878929_3359372588269699072_n.jpg?_nc_cat=0&oh=3f154b065eca2f90ec357b8160934599&oe=5BD79310
+    alt: Salsa and Waltz with Liliana
   details: |
-    Bachata Wednesday! Welcome Summer Dance Party warm long days make for perfect nights to dance!
-    Bachata Lesson with Liliana at 8pm.
-    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. with Super Dj Michelangelo.
+    Liliana Studios offers group dance lessons Salsa at 8 pm beginning level and intermediate so no experience needed or partner we rotate!only $5 per class! please invite your friends, share on your wall.. we are always having fun dancing the night away Come early for Waltz starting at 7:00.
 
-    When: Wednesday 8pm
-
-    Where: SLO Vets Hall 801 Grad Ave.
-
-    How Much $7.00
-
-    Bachata Dance Class with Liliana Graham.
-
-    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. With Super Dj Michelangelo 9:00 to 11:00
+# - id: '2089192448064628'
+#   title: Bachata Wednesday! Welcome Summer Dance Party VIII
+#   when: '2018-07-25T20:00:00-0700'
+#   where:
+#     name: SLO Veterans Hall
+#   latitude: 35.2887009
+#   longitude: -120.6548735
+#   url: >-
+#     https://goo.gl/maps/JujpDRCNxJn
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37679993_1766708286739294_6544636256150618112_o.jpg?_nc_cat=0&oh=8ffc4f64e2d44d97be2ea5e81dcb9f69&oe=5BC5DE28
+#   alt: Bachata Wednesday! Welcome Summer Dance Party VIII
+#   details: |
+#     Bachata Wednesday! Welcome Summer Dance Party warm long days make for perfect nights to dance!
+#     Bachata Lesson with Liliana at 8pm.
+#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. with Super Dj Michelangelo.
+#
+#     When: Wednesday 8pm
+#
+#     Where: SLO Vets Hall 801 Grad Ave.
+#
+#     How Much $7.00
+#
+#     Bachata Dance Class with Liliana Graham.
+#
+#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. With Super Dj Michelangelo 9:00 to 11:00

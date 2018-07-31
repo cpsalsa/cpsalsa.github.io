@@ -3,10 +3,10 @@
   when: '2018-08-03T19:30:00-0700'
   where:
     name: Cal Poly Bld 5 Rm 225
-    latitude: 35.300661348709
-    longitude: -120.66432237625
     url: >-
       https://goo.gl/maps/gQ3dd6JhCi62
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.2059826571654!2d-120.66657488475153!3d35.300862980284805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1b367cc2a9f%3A0xbbab4b9e97b5a9ad!2sArchitecture+and+Environmental+Design%2C+San+Luis+Obispo%2C+CA+93405!5e0!3m2!1sen!2sus!4v1533064160671
   image:
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36843227_10156650751658000_212637959604666368_n.jpg?_nc_cat=0&oh=494c1d515285f0b0c95118964025ee7f&oe=5BCA4DC6
@@ -21,13 +21,11 @@
   when: '2018-07-31T20:30:00-0700'
   where:
     name: Madonna Inn
-    latitude: 35.267349945
-    longitude: -120.67453438427
-    url: >-
-      https://goo.gl/maps/5RAmCPe4hk52
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.5514556853955!2d-120.67684858475243!3d35.26741318029286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf0e660039bc7%3A0x6f2837fd2edba5ec!2sMadonna+Inn!5e0!3m2!1sen!2sus!4v1533063892147
   image:
     url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37574412_10156678730803000_6422481931643912192_o.jpg?_nc_cat=0&oh=3b6be910a84f49c8f52d13c9818e335d&oe=5BD7A220
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38072113_10156708638268000_2791506525087072256_o.jpg?_nc_cat=0&oh=b6ef9c9f8d35d133e842b86a08ac8192&oe=5C09FEB4
     alt: 15th Madonna Inn Salsa Night of 2018
   details: |
     It's the fifth Tuesday of the month, which means we get an extra night of Madonna Inn! If you didn't know already, this is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Still, while it's FREE, we'd very much appreciate donations as they help support the team. (studio space, choreographer time, costumes for performing, etc)
@@ -56,10 +54,8 @@
   when: '2018-08-01T20:00:00-0700'
   where:
     name: SLO Veterans Hall
-  latitude: 35.2887009
-  longitude: -120.6548735
-  url: >-
-    https://goo.gl/maps/JujpDRCNxJn
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.695315130482!2d-120.65487348475183!3d35.28870088028759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1083bc65e83%3A0xbfee2a1cb305fbe2!2sVeterans+Memorial+Building!5e0!3m2!1sen!2sus!4v1533064313046
   image:
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37805620_1771980466212076_4377644780792840192_o.jpg?_nc_cat=0&oh=9a759373505ed28d4af23c58c752d5cf&oe=5BD04339
@@ -77,10 +73,8 @@
   when: '2018-08-12T19:00:00-0700'
   where:
     name: Bang the Drum Brewery
-    latitude: 35.2614867
-    longitude: -120.6480011
-    url: >-
-      https://goo.gl/maps/KVD9CkajWyA2
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.7899022577512!2d-120.64800108475258!3d35.2614822802943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1377f52bd15%3A0xec2c20c934b3366f!2sBang+The+Drum+Brewery!5e0!3m2!1sen!2sus!4v1533064349308
   image:
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85

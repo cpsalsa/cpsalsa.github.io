@@ -15,12 +15,15 @@
 .webp .events {
     @include gradient-image('../images/fridays-2.webp', right, fixed, $events-gradient-start, $events-gradient-end);
 }
-.fb-events a {
+.fb-events .title,
+.fb-events .where {
     color: #9af9bd;
-
-    &:hover {
-        color: #abf1c5;
-    }
+}
+.fb-events .embed {
+    border-radius: 20px;
+    height: 350px;
+    overflow: hidden;
+    transform: translateZ(0);
 }
 .fb-events .card {
     background: $event-card-background;
@@ -47,7 +50,4 @@
 .fb-events .when,
 .fb-events .where {
     display: block;
-}
-.fb-events .where {
-    color: $text-darker;
 }

@@ -34,24 +34,24 @@
 
     Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
 
-- id: '1686291074823137'
-  title: Salsa and Waltz with Liliana
-  when: '2018-07-30T19:00:00-0700'
-  where:
-    name: Pismo Beach Vets Hall
-    latitude: 35.1432974
-    longitude: -120.6409137
-    url: >-
-      https://goo.gl/maps/bmVt8S6Qw362
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37904281_1771978602878929_3359372588269699072_n.jpg?_nc_cat=0&oh=3f154b065eca2f90ec357b8160934599&oe=5BD79310
-    alt: Salsa and Waltz with Liliana
-  details: |
-    Liliana Studios offers group dance lessons teaching Salsa at 8pm, split into beginning and intermediate levels. No experience or partner needed. Only $5 per class!
-    Come early for Waltz starting at 7pm.
+# - id: '1686291074823137'
+#   title: Salsa and Waltz with Liliana
+#   when: '2018-07-30T19:00:00-0700'
+#   where:
+#     name: Pismo Beach Vets Hall
+#     latitude: 35.1432974
+#     longitude: -120.6409137
+#     url: >-
+#       https://goo.gl/maps/bmVt8S6Qw362
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37904281_1771978602878929_3359372588269699072_n.jpg?_nc_cat=0&oh=3f154b065eca2f90ec357b8160934599&oe=5BD79310
+#     alt: Salsa and Waltz with Liliana
+#   details: |
+#     Liliana Studios offers group dance lessons teaching Salsa at 8pm, split into beginning and intermediate levels. No experience or partner needed. Only $5 per class!
+#     Come early for Waltz starting at 7pm.
 
-- id: '2089192448064628'
+- id: '442696239542240'
   title: Bachata Wednesday! Welcome Summer Dance Party IX
   when: '2018-08-01T20:00:00-0700'
   where:

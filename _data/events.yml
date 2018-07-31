@@ -14,7 +14,7 @@
   details: |
     We're over the hump of summer quarter in Week 6! Come join us to start the second half of the quarter right!
 
-    Then come hang with us after dancing at SLODoCo and Chilie Peppers!
+    P.S. Come hang with us after dancing at SLODoCo and Chilie Peppers!
 
 - id: '1686291074823137'
   title: 15th Madonna Inn Salsa Night of 2018
@@ -32,7 +32,7 @@
   details: |
     It's the fifth Tuesday of the month, which means we get an extra night of Madonna Inn! If you didn't know already, this is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Still, while it's FREE, we'd very much appreciate donations as they help support the team. (studio space, choreographer time, costumes for performing, etc)
 
-    Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+    Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
 
 - id: '1686291074823137'
   title: Salsa and Waltz with Liliana
@@ -48,32 +48,44 @@
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37904281_1771978602878929_3359372588269699072_n.jpg?_nc_cat=0&oh=3f154b065eca2f90ec357b8160934599&oe=5BD79310
     alt: Salsa and Waltz with Liliana
   details: |
-    Liliana Studios offers group dance lessons Salsa at 8 pm beginning level and intermediate so no experience needed or partner we rotate!only $5 per class! please invite your friends, share on your wall.. we are always having fun dancing the night away Come early for Waltz starting at 7:00.
+    Liliana Studios offers group dance lessons teaching Salsa at 8pm, split into beginning and intermediate levels. No experience or partner needed. Only $5 per class!
+    Come early for Waltz starting at 7pm.
 
-# - id: '2089192448064628'
-#   title: Bachata Wednesday! Welcome Summer Dance Party VIII
-#   when: '2018-07-25T20:00:00-0700'
-#   where:
-#     name: SLO Veterans Hall
-#   latitude: 35.2887009
-#   longitude: -120.6548735
-#   url: >-
-#     https://goo.gl/maps/JujpDRCNxJn
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37679993_1766708286739294_6544636256150618112_o.jpg?_nc_cat=0&oh=8ffc4f64e2d44d97be2ea5e81dcb9f69&oe=5BC5DE28
-#   alt: Bachata Wednesday! Welcome Summer Dance Party VIII
-#   details: |
-#     Bachata Wednesday! Welcome Summer Dance Party warm long days make for perfect nights to dance!
-#     Bachata Lesson with Liliana at 8pm.
-#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. with Super Dj Michelangelo.
-#
-#     When: Wednesday 8pm
-#
-#     Where: SLO Vets Hall 801 Grad Ave.
-#
-#     How Much $7.00
-#
-#     Bachata Dance Class with Liliana Graham.
-#
-#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba Dance Social. With Super Dj Michelangelo 9:00 to 11:00
+- id: '2089192448064628'
+  title: Bachata Wednesday! Welcome Summer Dance Party IX
+  when: '2018-08-01T20:00:00-0700'
+  where:
+    name: SLO Veterans Hall
+  latitude: 35.2887009
+  longitude: -120.6548735
+  url: >-
+    https://goo.gl/maps/JujpDRCNxJn
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37805620_1771980466212076_4377644780792840192_o.jpg?_nc_cat=0&oh=9a759373505ed28d4af23c58c752d5cf&oe=5BD04339
+  alt: Bachata Wednesday! Welcome Summer Dance Party IX
+  details: |
+    Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
+    Salsa/Bachata/ChaCha/Merengue/Cumbia/Kizomba Dance Social with Super Dj Michelangelo.
+
+    **When:** Wednesday 8pm<br>
+    **Where:** SLO Vets Hall 801 Grand Ave.<br>
+    **Cost:** $7.00
+
+- id: '200761670635107'
+  title: Salsa Sunday, with Liliana
+  when: '2018-08-12T19:00:00-0700'
+  where:
+    name: Bang the Drum Brewery
+    latitude: 35.2614867
+    longitude: -120.6480011
+    url: >-
+      https://goo.gl/maps/KVD9CkajWyA2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85
+    alt: Salsa Sunday, with Liliana
+  details: |
+    Come for the hand crafted beer, stay for the dancing.
+    Free dance lesson with Liliana at 7pm
+    Social Dance With Super DJ Michelangelo!

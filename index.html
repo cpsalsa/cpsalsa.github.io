@@ -125,7 +125,7 @@ layout: home
                                 <span class="where">{{ event.where.name }}</span>
                                 {% if event.where.embed != null %}
                                 <div class="embed">
-                                    <iframe src="{{ event.where.embed }}" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                    <iframe class="map-frame" src="{{ event.where.embed }}" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 </div>
                                 {% endif %}
                                 <p>{{ event.details | markdownify }}</p>

@@ -16,15 +16,23 @@
     @include gradient-image('../images/fridays-2.webp', right, fixed, $events-gradient-start, $events-gradient-end);
 }
 .fb-events .title,
-.fb-events .where {
+.fb-events .where,
+.fb-events .when {
     color: #9af9bd;
+    text-align: center;
 }
 .fb-events .embed {
     border-radius: 20px;
     height: 350px;
-    margin: 15px 0;
+    margin: 25px auto;
     overflow: hidden;
     transform: translateZ(0);
+    width: 80%;
+
+    .map-frame {
+        height: 100%;
+        width: 100%;
+    }
 }
 .fb-events .card {
     background: $event-card-background;

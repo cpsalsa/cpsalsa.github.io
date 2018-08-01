@@ -20,12 +20,6 @@
         width: 80%;
     }
 }
-body > .posts:not(.posts-main) {
-    @media (min-width: $screen-md-min) {
-        width: 70%;
-        float: right;
-    }
-}
 .posts {
     background: $post-background;
 
@@ -168,6 +162,17 @@ body > .posts:not(.posts-main) {
     .side-bar p,
     .side-bar a {
         z-index: 2;
+    }
+}
+.all-posts {
+    .posts {
+        @media (min-width: $screen-md-min) {
+            width: 70%;
+            float: right;
+        }
+    }
+    .sidebar {
+        @include gradient-image('../images/fridays-6.jpg', right, local, $sidebar-gradient-start, $sidebar-gradient-end);
     }
 }
 .all-posts-block {

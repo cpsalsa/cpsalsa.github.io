@@ -35,10 +35,16 @@
     }
 }
 .fb-events .card {
-    background: $event-card-background;
     padding: 0;
 
-    @include card;
+    @media (max-width: $screen-md-min) {
+        margin: 0 -30px;
+    }
+
+    @media (min-width: $screen-sm-min) {
+        background: $event-card-background;
+        @include card;
+    }
 }
 .fb-events .card .event-image {
     overflow: hidden;

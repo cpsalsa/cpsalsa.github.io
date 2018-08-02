@@ -49,24 +49,24 @@
 #     Liliana Studios offers group dance lessons teaching Salsa at 8pm, split into beginning and intermediate levels. No experience or partner needed. Only $5 per class!
 #     Come early for Waltz starting at 7pm.
 
-- id: '442696239542240'
-  title: Bachata Wednesday! Welcome Summer Dance Party IX
-  when: '2018-08-01T20:00:00-0700'
-  where:
-    name: SLO Veterans Hall
-    embed: >-
-      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.695315130482!2d-120.65487348475183!3d35.28870088028759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1083bc65e83%3A0xbfee2a1cb305fbe2!2sVeterans+Memorial+Building!5e0!3m2!1sen!2sus!4v1533064313046
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37805620_1771980466212076_4377644780792840192_o.jpg?_nc_cat=0&oh=9a759373505ed28d4af23c58c752d5cf&oe=5BD04339
-  alt: Bachata Wednesday! Welcome Summer Dance Party IX
-  details: |
-    Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
-    Dance Social with Super Dj Michelangelo.
-
-    **When:** Wednesday 8pm<br>
-    **Where:** SLO Vets Hall 801 Grand Ave.<br>
-    **Cost:** $7.00
+# - id: '442696239542240'
+#   title: Bachata Wednesday! Welcome Summer Dance Party IX
+#   when: '2018-08-01T20:00:00-0700'
+#   where:
+#     name: SLO Veterans Hall
+#     embed: >-
+#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.695315130482!2d-120.65487348475183!3d35.28870088028759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1083bc65e83%3A0xbfee2a1cb305fbe2!2sVeterans+Memorial+Building!5e0!3m2!1sen!2sus!4v1533064313046
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37805620_1771980466212076_4377644780792840192_o.jpg?_nc_cat=0&oh=9a759373505ed28d4af23c58c752d5cf&oe=5BD04339
+#   alt: Bachata Wednesday! Welcome Summer Dance Party IX
+#   details: |
+#     Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
+#     Dance Social with Super Dj Michelangelo.
+#
+#     **When:** Wednesday 8pm<br>
+#     **Where:** SLO Vets Hall 801 Grand Ave.<br>
+#     **Cost:** $7.00
 
 - id: '200761670635107'
   title: Salsa Sunday, with Liliana

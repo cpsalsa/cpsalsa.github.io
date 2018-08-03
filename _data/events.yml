@@ -142,20 +142,20 @@
     Social Dance With Super DJ Michelangelo!<br>
 
 
-- id: '281052429116399'
-  title: Bachata class - Ana Ruvalcaba
-  when: '2018-08-02T20:00:00-0700'
-  where:
-    name: Everybody Can DANCE & Santa Maria Civic Ballet
-    embed: >-
-      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.422919484447!2d-120.43638018447922!3d34.94600727754773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec6c82204d9093%3A0x6208b555f2584d75!2sEverybody+Can+DANCE!5e0!3m2!1sen!2sus!4v1533239555770
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38120622_491266851297004_8203203766594306048_o.jpg?_nc_cat=0&oh=df38cc455b3a1b756f5545b549ae7863&oe=5C100AED
-    alt: Bachata class - Ana Ruvalcaba
-  details: |
-    Ana Ruvalcaba will teach BACHATA class on August 2 in SANTA MARIA at Everybody Can Dance. Class and Social: $10 - Cash only, no partner required, all levels welcome.
-
-    #### Schedule
-    **Class:** 8:00 PM - 9:00 PM - Ana Ruvalcaba<br>
-    **Social:** 9:00 PM to 10:00 PM - bachata, salsa, merenge, cumbia<br>
+# - id: '281052429116399'
+#   title: Bachata class - Ana Ruvalcaba
+#   when: '2018-08-02T20:00:00-0700'
+#   where:
+#     name: Everybody Can DANCE & Santa Maria Civic Ballet
+#     embed: >-
+#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.422919484447!2d-120.43638018447922!3d34.94600727754773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec6c82204d9093%3A0x6208b555f2584d75!2sEverybody+Can+DANCE!5e0!3m2!1sen!2sus!4v1533239555770
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38120622_491266851297004_8203203766594306048_o.jpg?_nc_cat=0&oh=df38cc455b3a1b756f5545b549ae7863&oe=5C100AED
+#     alt: Bachata class - Ana Ruvalcaba
+#   details: |
+#     Ana Ruvalcaba will teach BACHATA class on August 2 in SANTA MARIA at Everybody Can Dance. Class and Social: $10 - Cash only, no partner required, all levels welcome.
+#
+#     #### Schedule
+#     **Class:** 8:00 PM - 9:00 PM - Ana Ruvalcaba<br>
+#     **Social:** 9:00 PM to 10:00 PM - bachata, salsa, merenge, cumbia<br>

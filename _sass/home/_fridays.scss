@@ -19,9 +19,22 @@
 .fridays a:hover {
     color: lighten($link-color, 30%);
 }
+.fridays .embed {
+    border-radius: 20px;
+    height: 450px;
+    margin: 25px 0;
+    overflow: hidden;
+    transform: translateZ(0);
+    width: 100%;
+
+    .map-frame {
+        height: 100%;
+        width: 100%;
+    }
+}
 .fridays .power-image {
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
 
     @media (max-width: $screen-md-min) {
@@ -31,6 +44,11 @@
 .fridays .content {
     height: 100%;
     @include default-padding;
+
+    .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
 }
 .fridays .friday-slideshow {
     height: 100%;

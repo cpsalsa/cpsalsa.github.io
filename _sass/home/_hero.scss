@@ -104,6 +104,7 @@
 
             @media (max-width: $screen-md-min) {
                 display: block;
+                text-transform: none;
             }
         }
         h1 {
@@ -118,6 +119,10 @@
     }
     h2 {
         border-bottom: 1px solid $text-color;
+        padding-bottom: 10px;
+        width: auto;
+        margin: 0 auto 10px;
+
         a {
             text-decoration: none;
             color: $text-color;

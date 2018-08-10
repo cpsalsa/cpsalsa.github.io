@@ -14,7 +14,7 @@
     @include gradient-image('../images/fridays-1.webp', right, fixed, $fridays-gradient-start, $fridays-gradient-end);
 }
 .fridays h4 {
-    color: $secondary-header-color;
+    color: #fff;
 }
 .fridays a:hover {
     color: lighten($link-color, 30%);

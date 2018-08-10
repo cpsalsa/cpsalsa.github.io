@@ -207,23 +207,6 @@
         margin: 20px (-45 + $grid-gutter-width/2) -20px (-45 + $grid-gutter-width/2);
     }
 }
-.view-all-btn {
-    display: block;
-    width: 200px;
-    padding: 20px;
-    margin-top: 20px;
-    border: 3px solid $text-color;
-    color: $text-color;
-    text-decoration: none;
-    text-align: center;
-    font-weight: bold;
-
-    &:hover {
-        color: $brand-secondary;
-        border-color: $brand-secondary;
-        text-decoration: none;
-    }
-}
 
 article.post {
     .post-header {

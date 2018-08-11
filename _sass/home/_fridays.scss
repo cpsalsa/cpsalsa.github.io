@@ -1,7 +1,6 @@
 
 .fridays {
     position: relative;
-    overflow: hidden;
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
@@ -34,8 +33,9 @@
 }
 .fridays .power-image {
     position: absolute;
-    bottom: 0;
+    bottom: -150px;
     right: 0;
+    z-index: 1;
 
     @media (max-width: $screen-md-min) {
         display: none;

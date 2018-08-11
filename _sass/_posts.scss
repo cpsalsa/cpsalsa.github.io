@@ -122,6 +122,10 @@
         .post-text {
             transform: translate3d(0, 345px, 0);
             transition: transform ease-in-out 0.3s;
+
+            @media (max-device-width: $screen-md-max) {
+                transform: translate3d(0, 0, 0);
+            }
         }
         .post-title {
             // margin-top: 345px;

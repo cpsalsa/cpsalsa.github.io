@@ -97,10 +97,8 @@
   when: '2018-08-13T19:00:00-0700'
   where:
     name: Pismo Beach Vets Hall
-    latitude: 35.1432974
-    longitude: -120.6409137
-    url: >-
-      https://goo.gl/maps/bmVt8S6Qw362
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3262.5144494580236!2d-120.6400167!3d35.1437886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec592989c18c61%3A0xb94fd03e436194b8!2sPismo+Beach+Veterans&#39;+Hall!5e0!3m2!1sen!2sus!4v1534179186445
   image:
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38848819_1796062957137160_4592433922012348416_n.jpg?_nc_cat=0&oh=fada1683f5174e1a7b45fccec7ded81f&oe=5C0FA797

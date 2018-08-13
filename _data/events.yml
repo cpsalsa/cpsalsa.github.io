@@ -92,22 +92,29 @@
 
     Interested in salsa and other lessons? Come to CPSalsa on Fridays for lessons starting at 7:30pm. Like us on [Facebook](https://www.facebook.com/CPSalsa/) for more details.
 
-# - id: '1686291074823137'
-#   title: Salsa and Waltz with Liliana
-#   when: '2018-07-30T19:00:00-0700'
-#   where:
-#     name: Pismo Beach Vets Hall
-#     latitude: 35.1432974
-#     longitude: -120.6409137
-#     url: >-
-#       https://goo.gl/maps/bmVt8S6Qw362
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37904281_1771978602878929_3359372588269699072_n.jpg?_nc_cat=0&oh=3f154b065eca2f90ec357b8160934599&oe=5BD79310
-#     alt: Salsa and Waltz with Liliana
-#   details: |
-#     Liliana Studios offers group dance lessons teaching Salsa at 8pm, split into beginning and intermediate levels. No experience or partner needed. Only $5 per class!
-#     Come early for Waltz starting at 7pm.
+- id: '2149364395345487'
+  title: Salsa and Cha Cha Cha with Liliana
+  when: '2018-08-13T19:00:00-0700'
+  where:
+    name: Pismo Beach Vets Hall
+    latitude: 35.1432974
+    longitude: -120.6409137
+    url: >-
+      https://goo.gl/maps/bmVt8S6Qw362
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38848819_1796062957137160_4592433922012348416_n.jpg?_nc_cat=0&oh=fada1683f5174e1a7b45fccec7ded81f&oe=5C0FA797
+    alt: Salsa and Cha Cha Cha with Liliana
+  details: |
+    Liliana Studios offers group dance lessons teaching Salsa and Cha Cha Cha. No experience or partner needed.
+
+    #### Schedule
+    **7:00pm - 8:00pm :** Cha Cha Cha<br>
+    **8:00pm - 9:00pm :** Salsa split into beginning and intermediate<br>
+    **9:00pm - 10:00pm :** Practica and social
+
+    #### Cost
+    Only $5 per class!
 
 # - id: '658067607886830'
 #   title: Bachata Wednesday! Welcome Summer Dance Party X
@@ -128,37 +135,40 @@
 #     **Where:** SLO Vets Hall 801 Grand Ave.<br>
 #     **Cost:** $7.00
 
-- id: '200761670635107'
-  title: Salsa Sunday, with Liliana
-  when: '2018-08-12T19:00:00-0700'
-  where:
-    name: Bang the Drum Brewery
-    embed: >-
-      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.7899022577512!2d-120.64800108475258!3d35.2614822802943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1377f52bd15%3A0xec2c20c934b3366f!2sBang+The+Drum+Brewery!5e0!3m2!1sen!2sus!4v1533064349308
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85
-    alt: Salsa Sunday, with Liliana
-  details: |
-    Come for the hand crafted beer, stay for the dancing.<br>
-    Free dance lesson with Liliana at 7pm.<br>
-    Social Dance With Super DJ Michelangelo!<br>
-
-
-# - id: '217858822186850'
-#   title: Salsa class - Ana & Hugo
-#   when: '2018-08-09T20:00:00-0700'
+# - id: '200761670635107'
+#   title: Salsa Sunday, with Liliana
+#   when: '2018-08-12T19:00:00-0700'
 #   where:
-#     name: Everybody Can DANCE & Santa Maria Civic Ballet
+#     name: Bang the Drum Brewery
 #     embed: >-
-#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.422919484447!2d-120.43638018447922!3d34.94600727754773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec6c82204d9093%3A0x6208b555f2584d75!2sEverybody+Can+DANCE!5e0!3m2!1sen!2sus!4v1533239555770
+#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.7899022577512!2d-120.64800108475258!3d35.2614822802943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1377f52bd15%3A0xec2c20c934b3366f!2sBang+The+Drum+Brewery!5e0!3m2!1sen!2sus!4v1533064349308
 #   image:
 #     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38891127_500033003753722_1055047407613509632_o.jpg?_nc_cat=0&oh=b72e70be66b765746198a6190791b13a&oe=5C0A336B
-#     alt: Salsa class - Ana & Hugo
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/37014502_1750165068393616_4593150352622092288_o.jpg?_nc_cat=0&oh=a7da25dfccf81279228b0c87d9ebefb9&oe=5C0E1B85
+#     alt: Salsa Sunday, with Liliana
 #   details: |
-#     Ana & Hugo will teach SALSA class on August 9 in SANTA MARIA at Everybody Can Dance. Class and Social: $10 - Cash only, no partner required, all levels welcome.
-#
-#     #### Schedule
-#     **Class:** 8:00 PM - 9:00 PM - Ana Ruvalcaba<br>
-#     **Social:** 9:00 PM to 10:00 PM - bachata, salsa, merenge, cumbia<br>
+#     Come for the hand crafted beer, stay for the dancing.<br>
+#     Free dance lesson with Liliana at 7pm.<br>
+#     Social Dance With Super DJ Michelangelo!<br>
+
+
+- id: '716196012058138'
+  title: Salsa class - Ana & Juana
+  when: '2018-08-16T20:00:00-0700'
+  where:
+    name: Everybody Can DANCE & Santa Maria Civic Ballet
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.422919484447!2d-120.43638018447922!3d34.94600727754773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec6c82204d9093%3A0x6208b555f2584d75!2sEverybody+Can+DANCE!5e0!3m2!1sen!2sus!4v1533239555770
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38918532_502059040217785_2735233932294356992_o.jpg?_nc_cat=0&oh=0e266e0d0017a4d33237a9ec3dd160e7&oe=5BC972E9
+    alt: Salsa class - Ana & Juana
+  details: |
+    Ana & Juana will teach SALSA class on August 9 in SANTA MARIA at Everybody Can Dance. No partner required, all levels welcome.
+
+    #### Schedule
+    **Class:** 8:00 PM - 9:00 PM - Ana Ruvalcaba<br>
+    **Social:** 9:00 PM to 10:00 PM - bachata, salsa, merenge, cumbia<br>
+
+    #### Cost
+    $10 cash only

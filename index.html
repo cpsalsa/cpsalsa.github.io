@@ -54,6 +54,7 @@ layout: home
         </section>
 
         <section class="fridays" id="fridays">
+            {% assign friday = site.data.friday %}
             <div class="container-fluid no-gutter">
                 <div class="row is-flex">
                     <div class="col-md-8 wow fadeInDown">
@@ -69,9 +70,9 @@ layout: home
                             </p>
                             <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">This Week</h2>
                             <h4>
-                                <a href="https://www.facebook.com/events/174235630107130">Friday Nights - Summer Edition: Week 7</a>
+                                <a href="https://www.facebook.com/events/{{ friday.facebookId }}">{{ friday.title }}</a>
                             </h4>
-                            <p><em>It’s Week 7 and CPSalsa is still here for you to help you continue that rhythm through the quarter! Join us for another Friday Night!</em></p>
+                            <p><em>{{ friday.details }}</em></p>
                             </p>
                             <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Where</h2>
                             <p class="wow fadeInRightBig" data-wow-duration="0.5s">Cal Poly Building 5, Rooms 225, 226, 100, & 104</p>

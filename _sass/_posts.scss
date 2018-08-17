@@ -113,6 +113,26 @@
                 .post-title {
                     margin-top: 30%;
                 }
+                &:after {
+                    background-image: linear-gradient(rgba(111,23,136,0) 0%, rgba(111,23,136,0.2) 75%, rgba(111,23,136,1) 100%);
+                    content: '';
+                    height: 100%;
+                    left: -20px;
+                    position: absolute;
+                    top: 0;
+                    width: calc(100% + 40px);
+                    z-index: 2;
+                }
+            }
+            &:hover:after {
+                background-image: linear-gradient(rgba(111,23,136,0) 0%, rgba(111,23,136,0.2) 75%, rgba(111,23,136,1) 100%);
+                content: '';
+                height: 100%;
+                left: -20px;
+                position: absolute;
+                top: 0;
+                width: calc(100% + 40px);
+                z-index: 2;
             }
         }
         .description {

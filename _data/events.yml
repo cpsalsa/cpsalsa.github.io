@@ -1,78 +1,37 @@
-# - id: '174235630107130'
-#   title: 'Friday Nights - Summer Edition: Week 7'
-#   when: '2018-08-10T19:30:00-0700'
-#   where:
-#     name: Cal Poly Bld 5 Rm 225
-#     url: >-
-#       https://goo.gl/maps/gQ3dd6JhCi62
-#     embed: >-
-#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.2059826571654!2d-120.66657488475153!3d35.300862980284805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1b367cc2a9f%3A0xbbab4b9e97b5a9ad!2sArchitecture+and+Environmental+Design%2C+San+Luis+Obispo%2C+CA+93405!5e0!3m2!1sen!2sus!4v1533064160671
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/36912161_10156650769573000_7918876424792965120_n.jpg?_nc_cat=0&oh=12d7dbbcc6b5531300013e09d48dfedb&oe=5C040F1E
-#     alt: 'Friday Nights - Summer Edition: Week 7'
-#   details: |
-#     It's Week 7 and CPSalsa is still here for you to help you continue that rhythm through the quarter! Join us for another Friday Night!
-#
-#     P.S. Come hang with us after dancing at SLODoCo and Chilie Peppers!
-#
-#     **No dance experience or partner is necessary!**
-#
-#     #### Where
-#     Cal Poly Building 5, Rooms 225, 226, and 100
-#
-#     #### Schedule
-#     **7:30 PM - 8:00 PM :** Bachata OR Beyond the Basics<br>
-#     **8:00 PM - 9:30 PM :** Salsa lesson (Three Levels)<br>
-#     **9:30 PM - 12:00 AM :** FREE Social Dancing<br>
-#     **12:00AM :** Hangout and eat @ Chili Peppers and SLODoCo<br>
-#
-#     #### Instructors
-#     **Bachata 101 -** TBA<br>
-#     **Beyond the basics -** Ed Pecson<br>
-#     **Salsa 001 -** Kara Pecson & Jeff Berkman<br>
-#     **Salsa 101 & 201 combined -** Ed Pecson<br>
-#     **Salsa 301 -** canceled for the summer<br>
-#
-#     If you are interested in becoming a volunteer/member to get lessons for FREE, find an officer or join our mailing list to also keep up to date on what's going on: http://goo.gl/dXkxhL.
-#
-#     We hope to see you all there!
 
-# - id: '1652069634918727'
-#   title: 'Saturday Technique Classes Week 4'
-#   when: '2018-08-03T19:30:00-0700'
-#   where:
-#     name: Cal Poly Bld 2 Rm 203
-#     url: >-
-#       https://goo.gl/maps/NAQ9A5Xp5352
-#     embed: >-
-#      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.2482835311075!2d-120.66684518444845!3d35.29981175840206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1b340e58dcb%3A0x52bd2fa7a4536336!2sCotchett+Education%2C+San+Luis+Obispo%2C+CA+93405!5e0!3m2!1sen!2sus!4v1533232888063
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38212396_10212281140728018_7300136817586601984_n.jpg?_nc_cat=0&oh=7e7f42d581a87ad392e8931d28619727&oe=5C05D3C9
-#     alt: 'Saturday Technique Classes Week 4'
-#   details: |
-#     Have you been going to the dance classes at the Friday night socials and want to take your dancing to the next level? Come to Cal Poly on Saturday for salsa/bachata classes designed to teach you shines, connection, technique, and more advanced moves!
-#
-#     #### Beg/Int Salsa On1 from 2:00 PM - 3:15 PM
-#     This class is designed for those who have been taking the 101 or 201 classes and are ready to take their dancing to the next level with a focus on technique and learning the most essential salsa moves.
-#
-#     #### Beg/Int Bachata from 3:15 PM - 4:30 PM
-#     This class is meant for those that are just starting to dance bachata or have been dancing it for a bit. We will be focusing on technique, footwork, body motion, and essential moves.
-#
-#     #### Int/Adv Salsa On1 from 4:30 PM - 5:45 PM
-#     This class is meant for those who have reached a level beyond the beginner bachata class or who are advanced dancers. We will be learning how to dance with musicality, drilling core technique, and learning advanced body movement and combinations
-#
-#     #### Where
-#     Cal Poly Building 2, Room 203<br>
-#
-#     #### How Much
-#     $7 per class for college students<br>
-#     $10 per class for community members<br>
-#
-#     Intro offer available for first class at $5. Class packs also available at discounted prices.
-#
-#     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
+- id: '1652069634918727'
+  title: 'Saturday Technique Classes Week 6'
+  when: '2018-09-01T14:00:00-0700'
+  where:
+    name: Cal Poly Bld 2 Rm 203
+    embed: >-
+     https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.2482835311075!2d-120.66684518444845!3d35.29981175840206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1b340e58dcb%3A0x52bd2fa7a4536336!2sCotchett+Education%2C+San+Luis+Obispo%2C+CA+93405!5e0!3m2!1sen!2sus!4v1533232888063
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38212396_10212281140728018_7300136817586601984_n.jpg?_nc_cat=0&oh=7e7f42d581a87ad392e8931d28619727&oe=5C05D3C9
+    alt: 'Saturday Technique Classes Week 6'
+  details: |
+    Have you been going to the dance classes at the Friday night socials and want to take your dancing to the next level? Come to Cal Poly on Saturday for salsa/bachata classes designed to teach you shines, connection, technique, and more advanced moves!
+
+    #### Beg/Int Salsa On1 from 2:00 PM - 3:15 PM
+    This class is designed for those who have been taking the 101 or 201 classes and are ready to take their dancing to the next level with a focus on technique and learning the most essential salsa moves.
+
+    #### Beg/Int Bachata from 3:15 PM - 4:30 PM
+    This class is meant for those that are just starting to dance bachata or have been dancing it for a bit. We will be focusing on technique, footwork, body motion, and essential moves.
+
+    #### Int/Adv Salsa On1 from 4:30 PM - 5:45 PM
+    This class is meant for those who have reached a level beyond the beginner bachata class or who are advanced dancers. We will be learning how to dance with musicality, drilling core technique, and learning advanced body movement and combinations
+
+    #### Where
+    Cal Poly Building 2, Room 203<br>
+
+    #### How Much
+    $7 per class for college students<br>
+    $10 per class for community members<br>
+
+    Intro offer available for first class at $5. Class packs also available at discounted prices.
+
+    For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
  - id: '2022154947858377'
    title: 17th Madonna Inn Salsa Night of 2018
@@ -190,3 +149,30 @@
 
     #### Cost
     Pre-sale tickets $17, tickets at the door $20.
+
+- id: '296665120887897'
+  title: 'Salsa and Bachata Night'
+  when: '2018-09-10T19:00:00-0700'
+  where:
+    name: KleinDance Arts
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.4394289538795!2d-120.44081928487678!3d34.89542038027239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ec14a6d62b8b01%3A0x68a266f7a0bd799e!2sKleinDance+Arts!5e0!3m2!1sen!2sus!4v1535750357755
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/39762366_10103945114196385_5640906507789795328_n.jpg?_nc_cat=0&oh=d7961d7b7c1655f9670c2ba4a820edc7&oe=5BF9CB6A
+    alt: 'Salsa and Bachata Night'
+  details: |
+    Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
+
+    No experience or partner required. All ages welcome! Plus childcare available onsite.
+
+    #### Lessons
+    **Bachata:** 7:00 - 8:00 PM<br>
+    **Salsa:** - 8:00 - 9:30 PM<br>
+    **Social Dancing Starts:** - 9:30 PM
+
+    #### Cost
+    $8 per lesson (social dancing included)<br>
+    $5 if only attending social dancing
+
+    Hope you can join us!!

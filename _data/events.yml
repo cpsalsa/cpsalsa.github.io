@@ -73,24 +73,24 @@
 #     #### Cost
 #     Only $5 per class!
 
-# - id: '658067607886830'
-#   title: Bachata Wednesday! Welcome Summer Dance Party X
-#   when: '2018-08-08T20:00:00-0700'
-#   where:
-#     name: SLO Veterans Hall
-#     embed: >-
-#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.695315130482!2d-120.65487348475183!3d35.28870088028759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1083bc65e83%3A0xbfee2a1cb305fbe2!2sVeterans+Memorial+Building!5e0!3m2!1sen!2sus!4v1533064313046
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38242745_1783036278439828_3799605632303104000_o.jpg?_nc_cat=0&oh=91c5ffeb940cdc16029e0580373b729b&oe=5C0331A6
-#   alt: Bachata Wednesday! Welcome Summer Dance Party X
-#   details: |
-#     Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
-#     Dance Social with Super Dj Michelangelo.
-#
-#     **When:** Wednesday 8pm<br>
-#     **Where:** SLO Vets Hall 801 Grand Ave.<br>
-#     **Cost:** $7.00
+- id: '281299992595956'
+  title: Bachata Wednesday! Welcome Summer Dance Party XIII
+  when: '2018-09-05T20:00:00-0700'
+  where:
+    name: SLO Veterans Hall
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.695315130482!2d-120.65487348475183!3d35.28870088028759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ecf1083bc65e83%3A0xbfee2a1cb305fbe2!2sVeterans+Memorial+Building!5e0!3m2!1sen!2sus!4v1533064313046
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40424789_1828605240549598_7326069632551354368_n.jpg?_nc_cat=0&oh=9ca4885f74cac4b589bbd823a5c09133&oe=5C36AF09
+  alt: Bachata Wednesday! Welcome Summer Dance Party XIII
+  details: |
+    Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
+    Dance Social with Super Dj Michelangelo.
+
+    **When:** Wednesday 8pm<br>
+    **Where:** SLO Vets Hall 801 Grand Ave.<br>
+    **Cost:** $7.00
 
 - id: '291743021610303'
   title: Salsa Sunday, with Liliana
@@ -129,26 +129,23 @@
 #     #### Cost
 #     $10 cash only
 
-# - id: '2173375159654400'
-#   title: Latin Sounds LIVE at Soho
-#   when: '2018-08-18T22:00:00-0700'
-#   where:
-#     name: SOHOS Restaurant & Music Club
-#     embed: >-
-#       https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.1233815682494!2d-119.70768068435902!3d34.42362098050649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e9147d70805a59%3A0xdb9aed07747fbeb7!2sSoho+Restaurant+%26+Music+Club!5e0!3m2!1sen!2sus!4v1534443631648
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38202817_868623899997254_7202205344125157376_o.jpg?_nc_cat=0&oh=b8ae81c7d95ba719d93bf4810c469e49&oe=5C0A2BA9
-#     alt: Latin Sounds LIVE at Soho
-#   details: |
-#     #### The Music
-#     From LA, the up and coming band, Orquesta Latin Sound, will be playing for the first time in Santa Barbara. In between will feature sets from [DJ Rey Cua](https://www.facebook.com/DjReyCua).
-#
-#     #### Performance
-#     The night will also feature a performance from Michelle and Abraham, also from LA. To learn more about them, visit their [page](https://www.facebook.com/salsamambola/).
-#
-#     #### Cost
-#     Pre-sale tickets $17, tickets at the door $20.
+- id: '1131797196984068'
+  title: Orquesta Tabaco y Ron Live at Soho
+  when: '2018-09-15T22:00:00-0700'
+  where:
+    name: SOHOS Restaurant & Music Club
+    embed: >-
+      https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.1233815682494!2d-119.70768068435902!3d34.42362098050649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e9147d70805a59%3A0xdb9aed07747fbeb7!2sSoho+Restaurant+%26+Music+Club!5e0!3m2!1sen!2sus!4v1534443631648
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40253118_895673933958917_4393637327742697472_o.jpg?_nc_cat=0&oh=f882f8b997e959b079d4e80e55cb43f0&oe=5BF8FF0A
+    alt: Orquesta Tabaco y Ron Live at Soho
+  details: |
+    #### The Music
+    (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
+
+    #### Cost
+    Pre-sale tickets $17, tickets at the door $20.
 
 - id: '929942010549678'
   title: 'Salsa and Bachata Night'

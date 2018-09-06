@@ -181,7 +181,7 @@ layout: home
                 {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                         <div class="card wow {% if modulo == '0' or modulo == '1' %} fadeInLeft {% else %} fadeInRight {% endif %}"  data-wow-duration="0.5s">
-                            <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ member.image.url }}" alt="{{ member.image.alt }}">
+                            <div class="card-bg" style="background-image: url({{ member.image.url }})"></div>
                             <div class="details">
                                 <h3>{{ member.name }}</h3>
                                 <h4>{{ member.position }}</h4>

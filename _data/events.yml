@@ -31,8 +31,8 @@
 #     Intro offer available for first class at $5. Class packs also available at discounted prices.
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
-  # - id: '2022154947858377'
- #   title: 17th Madonna Inn Salsa Night of 2018
+# - id: '2022154947858377'
+#   title: 17th Madonna Inn Salsa Night of 2018
  #   when: '2018-08-14T20:30:00-0700'
  #   where:
  #     name: Madonna Inn
@@ -69,7 +69,7 @@
 #
 #     #### Cost
 #     Only $5 per class!
- - id: '281299992595956'
+- id: '281299992595956'
   title: Bachata Wednesday! Welcome Summer Dance Party XIII
   when: '2018-09-05T20:00:00-0700'
   where:
@@ -86,7 +86,7 @@
      **When:** Wednesday 8pm<br>
     **Where:** SLO Vets Hall 801 Grand Ave.<br>
     **Cost:** $7.00
- - id: '291743021610303'
+- id: '291743021610303'
   title: Salsa Sunday, with Liliana
   when: '2018-09-09T19:00:00-0700'
   where:
@@ -121,7 +121,7 @@
 #
 #     #### Cost
 #     $10 cash only
- - id: '1131797196984068'
+- id: '1131797196984068'
   title: Orquesta Tabaco y Ron Live at Soho
   when: '2018-09-15T22:00:00-0700'
   where:
@@ -137,7 +137,7 @@
     (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
      #### Cost
     Pre-sale tickets $17, tickets at the door $20.
- - id: '929942010549678'
+- id: '929942010549678'
   title: 'Salsa and Bachata Night'
   when: '2018-09-08T19:00:00-0700'
   where:
@@ -159,7 +159,8 @@
     $8 per lesson (social dancing included)<br>
     $5 if only attending social dancing
      Hope you can join us!!
- - id: '297956410781041'
+
+- id: '297956410781041'
   title: 'Poncho Sanchez and his Latin Jazz Band at the CPAC'
   when: '2018-09-16T13:30:00-0700'
   where:

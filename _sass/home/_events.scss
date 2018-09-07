@@ -19,7 +19,8 @@
 .fb-events .where,
 .fb-events .when {
     color: #9af9bd;
-    text-align: center;
+    display: block;
+    text-align: right;
 }
 .fb-events h4,
 .fb-events h5,
@@ -44,38 +45,141 @@
     }
 }
 .fb-events .card {
+    @include card;
+
+    background: #000;
+    box-shadow: inset #000 0 0 0 5px,
+        inset white 0 0 0 6px,
+        rgba(0,0,0,0.2) 0 10px 20px;
+    min-height: 500px;
+    position: relative;
     padding: 0;
 
-    @media (max-width: $screen-md-min) {
-        margin: 0 -30px;
+    @media (max-device-width: $screen-sm-min) {
+        height: 300px;
+        min-height: 300px;
     }
+}
+.fb-events .card .card-bg {
+    display: block;
+    height: 100%;
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
 
-    @media (min-width: $screen-sm-min) {
-        background: $event-card-background;
-        @include card;
-    }
+    background-position: center;
+    background-size: cover;
+}
+.fb-events .card.small-event {
+    height: 300px;
+    min-height: 300px;
 }
 .fb-events .card .event-image {
+    height: 100%;
     overflow: hidden;
     position: relative;
-    padding-top: 52.63%;
+    width: 100%;
+
+    &:after {
+        background: rgba(0, 0, 0, 0.5);
+        content: '';
+        height: 100%;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
 }
 .fb-events .card img {
-    // @media (min-width: $screen-lg-min) {
-    //     padding-top: 52.63%;
-    // }
-    position: absolute;
-    top: 0;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
     width: 100%;
 }
 .fb-events .card .details {
+    background: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 100%);
+    height: 100%;
     padding: 10px 20px;
+    position: absolute;
+    width: 100%;
 
-    @media (max-width: $screen-md-min) {
+    @media (max-width: $screen-sm-min) {
         padding: 10px 35px;
     }
 }
-.fb-events .when,
+.fb-events .when {
+    float: left;
+    padding: 0;
+    text-align: left;
+
+    @media (max-width: $screen-sm-min) {
+        margin-top: 20px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .day {
+        clear: both;
+        display: block;
+        font-size: 400%;
+        font-weight: 700;
+        line-height: 100%;
+    }
+    .month {
+        display: block;
+        font-size: 200%;
+        line-height: 100%;
+    }
+    .time {
+        text-transform: lowercase;
+    }
+}
 .fb-events .where {
-    display: block;
+    @media (max-width: $screen-sm-min) {
+        text-align: center;
+        width: 100%;
+    }
+}
+.fb-events .details .header {
+    float: right;
+}
+.fb-events .title {
+    margin-top: 10px;
+
+    @media (max-width: $screen-sm-min) {
+        text-align: center;
+        font-size: 150%;
+    }
+
+    a {
+        color: #9af9bd;
+
+        &:hover {
+            text-decoration: none;
+            color: #fff;
+
+            .fa {
+                margin-left: 0;
+                opacity: 1;
+            }
+        }
+    }
+    .fa {
+        font-weight: 300;
+        margin-left: -30px;
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out,
+            margin-left 0.2s ease-in-out;
+    }
+}
+.fb-events .event-text {
+    bottom: 0;
+    position: absolute;
+
+    @media (max-width: $screen-sm-min) {
+        display: none;
+    }
+
+    h3{
+        color: #9af9bd;
+    }
 }

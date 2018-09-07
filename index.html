@@ -122,35 +122,87 @@ layout: home
         <section class="events" id="events">
             <div class="container-fluid">
                 <h1>Upcoming Events</h1>
-                {% for event in events %}
-                {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
-                {% if modulo == '0' %}
                 <div class="row is-flex fb-events">
-                {% endif %}
-                    <div class="col-md-6 col-sm-12">
-                        <div class="card wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
-                            <div class="event-image">
-                                <a href="https://www.facebook.com/events/{{ event.id }}">
-                                    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ event.image.url }}" alt="{{ event.image.alt }}">
-                                </a>
-                            </div>
+                    <!-- first event -->
+                    {% assign event = events[0] %}
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="card wow fadeInDown" data-wow-delay="0.2">
+                            <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
                             <div class="details">
-                                <h3 class="title">{{ event.title }}</h3>
-                                <span class="when">{{ event.when | date: "%B %-d, %I:%M%p" }}</span>
-                                <span class="where">{{ event.where.name }}</span>
-                                {% if event.where.embed != null %}
-                                <div class="embed">
-                                    <iframe class="map-frame" src="{{ event.where.embed }}" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <div class="when">
+                                    <span class="day">{{ event.when | date: "%-d" }}</span>
+                                    <span class="month">{{ event.when | date: "%b" }}</span>
+                                    <span class="time">{{ event.when | date: "%l:%M %p" }}</span>
                                 </div>
-                                {% endif %}
-                                <p>{{ event.details | markdownify }}</p>
+                                <div class="header">
+                                    <h3 class="title">
+                                        <a href="https://www.facebook.com/events/{{ event.id }}">
+                                            {{ event.title }}
+                                            <span class="fa fa-arrow-right">
+                                        </a>
+                                    </h3>
+                                    <span class="where">{{ event.where.name }}</span>
+                                </div>
+                                <div class="event-text">
+                                    <h3>Details</h3>
+                                    <p>{{ event.details | markdownify }}</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                {% if modulo == '1' or forloop.last == true %}
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="row">
+                            {% for event in events offset:1 limit:3 %}
+                            {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                <div class="card small-event wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
+                                    <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
+                                    <div class="details">
+                                        <div class="when">
+                                            <span class="day">{{ event.when | date: "%-d" }}</span>
+                                            <span class="month">{{ event.when | date: "%b" }}</span>
+                                            <span class="time">{{ event.when | date: "%l:%M %p" }}</span>
+                                        </div>
+                                        <div class="header">
+                                            <h3 class="title">
+                                                <a href="https://www.facebook.com/events/{{ event.id }}">
+                                                    {{ event.title }}
+                                                    <span class="fa fa-arrow-right">
+                                                </a>
+                                            </h3>
+                                            <span class="where">{{ event.where.name }}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% for event in events offset:5 %}
+                    {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                        <div class="card small-event wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
+                            <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
+                            <div class="details">
+                                <div class="when">
+                                    <span class="day">{{ event.when | date: "%-d" }}</span>
+                                    <span class="month">{{ event.when | date: "%b" }}</span>
+                                    <span class="time">{{ event.when | date: "%l:%M %p" }}</span>
+                                </div>
+                                <div class="header">
+                                    <h3 class="title">
+                                        <a href="https://www.facebook.com/events/{{ event.id }}">
+                                            {{ event.title }}
+                                            <span class="fa fa-arrow-right">
+                                        </a>
+                                    </h3>
+                                    <span class="where">{{ event.where.name }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
                 </div>
-                {% endif %}
-                {% endfor %}
             </div>
         </section>
         {% endif %}

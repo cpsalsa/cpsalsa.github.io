@@ -134,6 +134,7 @@
     }
 }
 .fb-events .where {
+    font-weight: 400;
     @media (max-width: $screen-sm-min) {
         text-align: center;
         width: 100%;
@@ -149,7 +150,8 @@
         text-align: center;
         font-size: 150%;
     }
-
+}
+.fb-events .details {
     a {
         color: #9af9bd;
 
@@ -165,10 +167,11 @@
     }
     .fa {
         font-weight: 300;
-        margin-left: -30px;
+        margin-left: -20px;
         opacity: 0;
         transition: opacity 0.2s ease-in-out,
             margin-left 0.2s ease-in-out;
+        width: 20px;
     }
 }
 .fb-events .event-text {

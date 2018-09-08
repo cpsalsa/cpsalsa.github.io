@@ -24,7 +24,7 @@
 
     height: 400px;
     box-shadow: inset #333 0 0 0 5px,
-        inset white 0 0 0 6px,
+        inset $brand-secondary 0 0 0 6px,
         rgba(0,0,0,0.2) 0 10px 20px;
 
     @media (max-device-width: $screen-sm-min) {

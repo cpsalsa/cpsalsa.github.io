@@ -153,9 +153,8 @@ layout: home
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="row">
                             {% for event in events offset:1 limit:3 %}
-                            {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                                <div class="card small-event wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
+                                <div class="card small-event wow fadeInDown">
                                     <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
                                     <div class="details">
                                         <div class="when">
@@ -178,10 +177,9 @@ layout: home
                             {% endfor %}
                         </div>
                     </div>
-                    {% for event in events offset:5 %}
-                    {% capture modulo %}{{ forloop.index0 | modulo: 2 }}{% endcapture %}
+                    {% for event in events offset:4 %}
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                        <div class="card small-event wow fadeInDown" data-wow-delay="{{ modulo | times: 0.2 }}">
+                        <div class="card small-event wow fadeInDown">
                             <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
                             <div class="details">
                                 <div class="when">

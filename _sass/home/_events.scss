@@ -47,9 +47,9 @@
 .fb-events .card {
     @include card;
 
-    background: #000;
-    box-shadow: inset #000 0 0 0 5px,
-        inset white 0 0 0 6px,
+    background: #222;
+    box-shadow: inset #222 0 0 0 5px,
+        inset #9af9bd 0 0 0 6px,
         rgba(0,0,0,0.2) 0 10px 20px;
     min-height: 500px;
     position: relative;
@@ -63,7 +63,7 @@
 .fb-events .card .card-bg {
     display: block;
     height: 100%;
-    opacity: 0.5;
+    opacity: 0.7;
     position: absolute;
     width: 100%;
 
@@ -96,7 +96,7 @@
     width: 100%;
 }
 .fb-events .card .details {
-    background: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 100%);
+    background: linear-gradient(rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.8) 100%);
     height: 100%;
     padding: 10px 20px;
     position: absolute;
@@ -111,7 +111,7 @@
     padding: 0;
     text-align: left;
 
-    @media (max-width: $screen-sm-min) {
+    @media (max-width: $screen-xs-min) {
         margin-top: 20px;
         text-align: center;
         width: 100%;

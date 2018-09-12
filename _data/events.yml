@@ -21,22 +21,22 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '236482860375641'
-  title: 18th Madonna Inn Salsa Night of 2018
-  when: '2018-09-11T20:30:00-0700'
-  where:
-    name: Madonna Inn
-    url: >-
-      https://goo.gl/maps/CcogbBrDkzM2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41124554_10156805049663000_9182476852910882816_o.jpg?_nc_cat=0&oh=c7e46e7982cdf61c413b710b3e43feb5&oe=5BF1D5F7
-    alt: 18th Madonna Inn Salsa Night of 2018
-  details: |
-    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-
-    #### Cost
-    Free! But we do appreciate your donations.
+# - id: '236482860375641'
+#   title: 18th Madonna Inn Salsa Night of 2018
+#   when: '2018-09-11T20:30:00-0700'
+#   where:
+#     name: Madonna Inn
+#     url: >-
+#       https://goo.gl/maps/CcogbBrDkzM2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41124554_10156805049663000_9182476852910882816_o.jpg?_nc_cat=0&oh=c7e46e7982cdf61c413b710b3e43feb5&oe=5BF1D5F7
+#     alt: 18th Madonna Inn Salsa Night of 2018
+#   details: |
+#     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+#
+#     #### Cost
+#     Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -60,24 +60,24 @@
 #     #### Cost
 #     Only $5 per class!
 
-# - id: '281299992595956'
-#   title: Bachata Wednesday! Welcome Summer Dance Party XIII
-#   when: '2018-09-05T20:00:00-0700'
-#   where:
-#     name: SLO Veterans Hall
-#     url: >-
-#       https://goo.gl/maps/nU3FhLaGBEP2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40424789_1828605240549598_7326069632551354368_n.jpg?_nc_cat=0&oh=9ca4885f74cac4b589bbd823a5c09133&oe=5C36AF09
-#   alt: Bachata Wednesday! Welcome Summer Dance Party XIII
-#   details: |
-#     Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
-#     Dance Social with Super Dj Michelangelo.
-#
-#     **When:** Wednesday 8pm<br>
-#     **Where:** SLO Vets Hall 801 Grand Ave.<br>
-#     **Cost:** $7.00
+- id: '2017509891634700'
+  title: Bachata Wednesday! Welcome Summer Dance Party XIV
+  when: '2018-09-12T20:00:00-0700'
+  where:
+    name: SLO Veterans Hall
+    url: >-
+      https://goo.gl/maps/nU3FhLaGBEP2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41067147_1835371989872923_5334278591981027328_n.jpg?_nc_cat=0&oh=ae64a0355654e91ccc44195ef674e982&oe=5C32B069
+  alt: Bachata Wednesday! Welcome Summer Dance Party XIV
+  details: |
+    Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
+    Dance Social with Super Dj Michelangelo.
+
+    **When:** Wednesday 8pm<br>
+    **Where:** SLO Vets Hall 801 Grand Ave.<br>
+    **Cost:** $7.00
 
 # - id: '291743021610303'
 #   title: Salsa Sunday, with Liliana

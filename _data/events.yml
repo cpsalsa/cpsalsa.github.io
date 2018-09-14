@@ -60,24 +60,24 @@
 #     #### Cost
 #     Only $5 per class!
 
-- id: '2017509891634700'
-  title: Bachata Wednesday! Welcome Summer Dance Party XIV
-  when: '2018-09-12T20:00:00-0700'
-  where:
-    name: SLO Veterans Hall
-    url: >-
-      https://goo.gl/maps/nU3FhLaGBEP2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41067147_1835371989872923_5334278591981027328_n.jpg?_nc_cat=0&oh=ae64a0355654e91ccc44195ef674e982&oe=5C32B069
-  alt: Bachata Wednesday! Welcome Summer Dance Party XIV
-  details: |
-    Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
-    Dance Social with Super Dj Michelangelo.
-
-    **When:** Wednesday 8pm<br>
-    **Where:** SLO Vets Hall 801 Grand Ave.<br>
-    **Cost:** $7.00
+# - id: '2017509891634700'
+#   title: Bachata Wednesday! Welcome Summer Dance Party XIV
+#   when: '2018-09-12T20:00:00-0700'
+#   where:
+#     name: SLO Veterans Hall
+#     url: >-
+#       https://goo.gl/maps/nU3FhLaGBEP2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41067147_1835371989872923_5334278591981027328_n.jpg?_nc_cat=0&oh=ae64a0355654e91ccc44195ef674e982&oe=5C32B069
+#   alt: Bachata Wednesday! Welcome Summer Dance Party XIV
+#   details: |
+#     Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
+#     Dance Social with Super Dj Michelangelo.
+#
+#     **When:** Wednesday 8pm<br>
+#     **Where:** SLO Vets Hall 801 Grand Ave.<br>
+#     **Cost:** $7.00
 
 # - id: '291743021610303'
 #   title: Salsa Sunday, with Liliana
@@ -117,7 +117,7 @@
 #     $10 cash only
 
 - id: '1131797196984068'
-  title: Orquesta Tabaco y Ron Live at Soho
+  title: Orquesta Tabaco y Ron Live at Sohos
   when: '2018-09-15T22:00:00-0700'
   where:
     name: SOHOS Restaurant & Music Club
@@ -126,7 +126,7 @@
   image:
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40253118_895673933958917_4393637327742697472_o.jpg?_nc_cat=0&oh=f882f8b997e959b079d4e80e55cb43f0&oe=5BF8FF0A
-    alt: Orquesta Tabaco y Ron Live at Soho
+    alt: Orquesta Tabaco y Ron Live at Sohos
   details: |
     #### The Music
     (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
@@ -134,32 +134,32 @@
     #### Cost
     Pre-sale tickets $17, tickets at the door $20.
 
-# - id: '929942010549678'
-#   title: 'Salsa and Bachata Night'
-#   when: '2018-09-08T19:00:00-0700'
-#   where:
-#     name: KleinDance Arts
-#     url: >-
-#       https://goo.gl/maps/X9GCJH53AqF2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40914305_10103963830119525_418840975868166144_n.jpg?_nc_cat=0&oh=a4ed519aaccbb6249524e8df1539893f&oe=5C3B855D
-#     alt: 'Salsa and Bachata Night'
-#   details: |
-#     Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
-#
-#     No experience or partner required. All ages welcome! Plus childcare available onsite.
-#
-#     #### Lessons
-#     **Bachata:** 7:00 - 8:00 PM<br>
-#     **Salsa:** - 8:00 - 9:30 PM<br>
-#     **Social Dancing Starts:** - 9:30 PM
-#
-#     #### Cost
-#     $8 per lesson (social dancing included)<br>
-#     $5 if only attending social dancing
-#
-#     Hope you can join us!!
+- id: '305702700234365'
+  title: 'Salsa and Bachata Night'
+  when: '2018-09-15T19:00:00-0700'
+  where:
+    name: KleinDance Arts
+    url: >-
+      https://goo.gl/maps/X9GCJH53AqF2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40914305_10103963830119525_418840975868166144_n.jpg?_nc_cat=0&oh=a4ed519aaccbb6249524e8df1539893f&oe=5C3B855D
+    alt: 'Salsa and Bachata Night'
+  details: |
+    Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
+
+    No experience or partner required. All ages welcome! Plus childcare available onsite.
+
+    #### Lessons
+    **Bachata:** 7:00 - 8:00 PM<br>
+    **Salsa:** - 8:00 - 9:30 PM<br>
+    **Social Dancing Starts:** - 9:30 PM
+
+    #### Cost
+    $8 per lesson (social dancing included)<br>
+    $5 if only attending social dancing
+
+    Hope you can join us!!
 
 - id: '297956410781041'
   title: 'Poncho Sanchez at the CPAC'

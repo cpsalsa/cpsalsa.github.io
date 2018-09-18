@@ -21,22 +21,22 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-# - id: '236482860375641'
-#   title: 18th Madonna Inn Salsa Night of 2018
-#   when: '2018-09-11T20:30:00-0700'
-#   where:
-#     name: Madonna Inn
-#     url: >-
-#       https://goo.gl/maps/CcogbBrDkzM2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41124554_10156805049663000_9182476852910882816_o.jpg?_nc_cat=0&oh=c7e46e7982cdf61c413b710b3e43feb5&oe=5BF1D5F7
-#     alt: 18th Madonna Inn Salsa Night of 2018
-#   details: |
-#     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-#
-#     #### Cost
-#     Free! But we do appreciate your donations.
+- id: '2220303801550280'
+  title: 19th Madonna Inn Salsa Night of 2018
+  when: '2018-09-25T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    url: >-
+      https://goo.gl/maps/CcogbBrDkzM2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41321453_10156805053503000_8348075702137913344_o.jpg?_nc_cat=0&oh=0863b1aae9dfbb6d570403dbc3a2ddd8&oe=5C334A5F
+    alt: 19th Madonna Inn Salsa Night of 2018
+  details: |
+    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+
+    #### Cost
+    Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -116,72 +116,72 @@
 #     #### Cost
 #     $10 cash only
 
-- id: '1131797196984068'
-  title: Orquesta Tabaco y Ron Live at Sohos
-  when: '2018-09-15T22:00:00-0700'
-  where:
-    name: SOHOS Restaurant & Music Club
-    url: >-
-      https://goo.gl/maps/AyEjnjHyDk42
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40253118_895673933958917_4393637327742697472_o.jpg?_nc_cat=0&oh=f882f8b997e959b079d4e80e55cb43f0&oe=5BF8FF0A
-    alt: Orquesta Tabaco y Ron Live at Sohos
-  details: |
-    #### The Music
-    (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
-
-    #### Cost
-    Pre-sale tickets $17, tickets at the door $20.
-
-- id: '305702700234365'
-  title: 'Salsa and Bachata Night'
-  when: '2018-09-15T19:00:00-0700'
-  where:
-    name: KleinDance Arts
-    url: >-
-      https://goo.gl/maps/X9GCJH53AqF2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40914305_10103963830119525_418840975868166144_n.jpg?_nc_cat=0&oh=a4ed519aaccbb6249524e8df1539893f&oe=5C3B855D
-    alt: 'Salsa and Bachata Night'
-  details: |
-    Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
-
-    No experience or partner required. All ages welcome! Plus childcare available onsite.
-
-    #### Lessons
-    **Bachata:** 7:00 - 8:00 PM<br>
-    **Salsa:** - 8:00 - 9:30 PM<br>
-    **Social Dancing Starts:** - 9:30 PM
-
-    #### Cost
-    $8 per lesson (social dancing included)<br>
-    $5 if only attending social dancing
-
-    Hope you can join us!!
-
-- id: '297956410781041'
-  title: 'Poncho Sanchez at the CPAC'
-  when: '2018-09-16T13:30:00-0700'
-  where:
-    name: Cultural and Performing Arts Center
-    url: >-
-      https://goo.gl/maps/2njDcewdM1R2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/39878875_2237671199594486_1726496197801148416_o.jpg?_nc_cat=0&oh=55ad3031865458941ea96f68b12c7642&oe=5BEF17B5
-    alt: 'Poncho Sanchez at the CPAC'
-  details: |
-    You won't want to miss Grammy Award winner **Poncho Sanchez** and his Latin Jazz Band in action on Sunday, September 16th at the Cultural and Performing Arts Center (CPAC) at Cuesta College.
-
-    #### Preshow Activities
-    The day kicks off with a salsa dance class (to the first 50 guests), the delicious Cubanissimo food truck, and authentic tres leches cake! Bring a friend to dance or enjoy dessert!
-
-    Wine taste while you participate in exciting raffles... there's something for everyone's palate!
-
-    #### Parking
-    Parking is **free** in Lot 2A in front of the CPAC.
-
-    #### Tickets
-    Tickets are **only** $40, so be sure to grab yours before they sell out! Get them at [my805tix](https://my805tix.com/events/annual-cpac-benefit-poncho-sanchez-and-his-latin-jazz-band/tickets)
+# - id: '1131797196984068'
+#   title: Orquesta Tabaco y Ron Live at Sohos
+#   when: '2018-09-15T22:00:00-0700'
+#   where:
+#     name: SOHOS Restaurant & Music Club
+#     url: >-
+#       https://goo.gl/maps/AyEjnjHyDk42
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40253118_895673933958917_4393637327742697472_o.jpg?_nc_cat=0&oh=f882f8b997e959b079d4e80e55cb43f0&oe=5BF8FF0A
+#     alt: Orquesta Tabaco y Ron Live at Sohos
+#   details: |
+#     #### The Music
+#     (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
+#
+#     #### Cost
+#     Pre-sale tickets $17, tickets at the door $20.
+#
+# - id: '305702700234365'
+#   title: 'Salsa and Bachata Night'
+#   when: '2018-09-15T19:00:00-0700'
+#   where:
+#     name: KleinDance Arts
+#     url: >-
+#       https://goo.gl/maps/X9GCJH53AqF2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40914305_10103963830119525_418840975868166144_n.jpg?_nc_cat=0&oh=a4ed519aaccbb6249524e8df1539893f&oe=5C3B855D
+#     alt: 'Salsa and Bachata Night'
+#   details: |
+#     Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
+#
+#     No experience or partner required. All ages welcome! Plus childcare available onsite.
+#
+#     #### Lessons
+#     **Bachata:** 7:00 - 8:00 PM<br>
+#     **Salsa:** - 8:00 - 9:30 PM<br>
+#     **Social Dancing Starts:** - 9:30 PM
+#
+#     #### Cost
+#     $8 per lesson (social dancing included)<br>
+#     $5 if only attending social dancing
+#
+#     Hope you can join us!!
+#
+# - id: '297956410781041'
+#   title: 'Poncho Sanchez at the CPAC'
+#   when: '2018-09-16T13:30:00-0700'
+#   where:
+#     name: Cultural and Performing Arts Center
+#     url: >-
+#       https://goo.gl/maps/2njDcewdM1R2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/39878875_2237671199594486_1726496197801148416_o.jpg?_nc_cat=0&oh=55ad3031865458941ea96f68b12c7642&oe=5BEF17B5
+#     alt: 'Poncho Sanchez at the CPAC'
+#   details: |
+#     You won't want to miss Grammy Award winner **Poncho Sanchez** and his Latin Jazz Band in action on Sunday, September 16th at the Cultural and Performing Arts Center (CPAC) at Cuesta College.
+#
+#     #### Preshow Activities
+#     The day kicks off with a salsa dance class (to the first 50 guests), the delicious Cubanissimo food truck, and authentic tres leches cake! Bring a friend to dance or enjoy dessert!
+#
+#     Wine taste while you participate in exciting raffles... there's something for everyone's palate!
+#
+#     #### Parking
+#     Parking is **free** in Lot 2A in front of the CPAC.
+#
+#     #### Tickets
+#     Tickets are **only** $40, so be sure to grab yours before they sell out! Get them at [my805tix](https://my805tix.com/events/annual-cpac-benefit-poncho-sanchez-and-his-latin-jazz-band/tickets)

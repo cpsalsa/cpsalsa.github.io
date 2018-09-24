@@ -116,24 +116,6 @@
 #     #### Cost
 #     $10 cash only
 
-# - id: '1131797196984068'
-#   title: Orquesta Tabaco y Ron Live at Sohos
-#   when: '2018-09-15T22:00:00-0700'
-#   where:
-#     name: SOHOS Restaurant & Music Club
-#     url: >-
-#       https://goo.gl/maps/AyEjnjHyDk42
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40253118_895673933958917_4393637327742697472_o.jpg?_nc_cat=0&oh=f882f8b997e959b079d4e80e55cb43f0&oe=5BF8FF0A
-#     alt: Orquesta Tabaco y Ron Live at Sohos
-#   details: |
-#     #### The Music
-#     (Orquesta Tabaco y Ron)[http://dimelorecords.com/tabacoyron/the-band/] is a 12 piece big band orchestra composed of musicians from all over Latin America who play a high energy hard edged brand of salsa music.
-#
-#     #### Cost
-#     Pre-sale tickets $17, tickets at the door $20.
-#
 # - id: '305702700234365'
 #   title: 'Salsa and Bachata Night'
 #   when: '2018-09-15T19:00:00-0700'
@@ -160,28 +142,61 @@
 #     $5 if only attending social dancing
 #
 #     Hope you can join us!!
-#
-# - id: '297956410781041'
-#   title: 'Poncho Sanchez at the CPAC'
-#   when: '2018-09-16T13:30:00-0700'
-#   where:
-#     name: Cultural and Performing Arts Center
-#     url: >-
-#       https://goo.gl/maps/2njDcewdM1R2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/39878875_2237671199594486_1726496197801148416_o.jpg?_nc_cat=0&oh=55ad3031865458941ea96f68b12c7642&oe=5BEF17B5
-#     alt: 'Poncho Sanchez at the CPAC'
-#   details: |
-#     You won't want to miss Grammy Award winner **Poncho Sanchez** and his Latin Jazz Band in action on Sunday, September 16th at the Cultural and Performing Arts Center (CPAC) at Cuesta College.
-#
-#     #### Preshow Activities
-#     The day kicks off with a salsa dance class (to the first 50 guests), the delicious Cubanissimo food truck, and authentic tres leches cake! Bring a friend to dance or enjoy dessert!
-#
-#     Wine taste while you participate in exciting raffles... there's something for everyone's palate!
-#
-#     #### Parking
-#     Parking is **free** in Lot 2A in front of the CPAC.
-#
-#     #### Tickets
-#     Tickets are **only** $40, so be sure to grab yours before they sell out! Get them at [my805tix](https://my805tix.com/events/annual-cpac-benefit-poncho-sanchez-and-his-latin-jazz-band/tickets)
+
+- id: '235914293750077'
+  title: "CPSalsa's First Salsa Mixer"
+  when: '2018-09-25T19:00:00-0700'
+  where:
+    name: Cal Poly Bld 5 Rm 2225
+    url: >-
+     https://goo.gl/maps/dGCN1jHxzvF2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42370008_10156850010888000_8476985288646721536_o.jpg?_nc_cat=104&oh=dd9a1b3750dedde1962192b46bba17df&oe=5C1DC729
+    alt: "CPSalsa's First Salsa Mixer"
+  details: |
+    Looking for something to do on Tuesday night? Come check us out! Meet new people and get to know our members and what CPSalsa is all about!
+
+    We will have snacks, some ice breaker games, a FREE mini-lesson, and time to just chat with everyone! Did we mention snacks?
+
+    Afterward, carpool with us to Madonna Inn for a night of social dancing put on by our training team, Sangre Nueva!
+    See [here](https://www.facebook.com/events/2220303801550280/) for details.
+
+    We hope to see you there!
+
+
+- id: '225330511668070'
+  title: "Cubanissimo Social Club"
+  when: '2018-09-28T17:30:00-0700'
+  where:
+    name: The Station
+    url: >-
+     https://goo.gl/maps/PWJWLjTTDA62
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42324424_917799491754663_8977028479581159424_o.jpg?_nc_cat=104&oh=e77692489a84034932bcb1007c3181ad&oe=5C59F2E5
+    alt: "Cubanissimo Social Club"
+  details: |
+    The Cubanissimo Food Truck has brought another Cuban Night with and DJ Mano Gil with Special Guest Glenn Red! DJ Mano Gil will be spinning salsa, rumba, cha cha, and cumbia music.
+
+    Cubanissimo will be serving authentic cuban cuisine, the Cubano Sandwich, Medianoche Sandwich and then two Specialty plates over rice. Cuban Black Beans over Rice for the vegetarians in SLO and Beef Picadillo, Ham Croquetas, Pollo con Papas, etc for other plate over Rice. Sides of Yuca Fries and Tostones will also be available.
+
+    As always, they will pairing wines to go with the food, so make sure to ask The Station staff for suggestions! It will be a night you won't want to miss, so get there early for food and stay late for the music! And after it's done, head over to Cal Poly for more dancing!
+
+- id: '207036963326748'
+  title: "Ballet Folkorico de Mexico"
+  when: '2018-10-23T19:30:00-0700'
+  where:
+    name: Performing Arts Center SLO
+    url: >-
+     https://goo.gl/maps/7MRxAMKbr3r
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38448617_10155629249424599_2447288896589922304_o.jpg?_nc_cat=105&oh=78c3ae81271862ddca5ad26e154b3058&oe=5C5F81B6
+    alt: "Ballet Folkorico de Mexico"
+  details: |
+    Direct from Mexico City’s Palace of Fine Art and under the direction of its legendary founder, Amalia Hernández, Ballet Folklórico de México is hailed as the original and best Mexican folk dance ensemble – delivering colorful movement and a musical tribute to the glorious culture of Mexico. Seventy-five stellar performers draw upon pre-Hispanic rituals as well as Mexican history and folklore to create an inspiring evening of world music and dance. (Haze effects)
+
+    “Beautiful … Dazzling … It’s gorgeous.” – The New York Times
+
+    “Long before ‘Riverdance,’ Amalia Hernández understood the power of rhythmic thunder.” – The Houston Chronicle

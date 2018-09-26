@@ -79,21 +79,21 @@
 #     **Where:** SLO Vets Hall 801 Grand Ave.<br>
 #     **Cost:** $7.00
 
-# - id: '291743021610303'
-#   title: Salsa Sunday, with Liliana
-#   when: '2018-09-09T19:00:00-0700'
-#   where:
-#     name: Bang the Drum Brewery
-#     url: >-
-#       https://goo.gl/maps/zJmWVyqu2wJ2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40429996_1828609370549185_5050097717154414592_o.jpg?_nc_cat=0&oh=18fc97ce0a6244842890a6fbd3a602eb&oe=5BF11601
-#     alt: Salsa Sunday, with Liliana
-#   details: |
-#     Come for the hand crafted beer, stay for the dancing.<br>
-#     Free dance lesson with Liliana at 7pm.<br>
-#     Social Dance With Super DJ Michelangelo!<br>
+- id: '305069210292530'
+  title: Salsa Sunday, with Liliana
+  when: '2018-10-14T19:00:00-0700'
+  where:
+    name: Bang the Drum Brewery
+    url: >-
+      https://goo.gl/maps/zJmWVyqu2wJ2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42478979_1857326614344127_2403166328190926848_o.jpg?_nc_cat=102&oh=aead8fb9496bdfa2a62c9f2540aa2416&oe=5C286B90
+    alt: Salsa Sunday, with Liliana
+  details: |
+    Come for the hand crafted beer, stay for the dancing.<br>
+    Free dance lesson with Liliana at 7pm.<br>
+    Social Dance With Super DJ Michelangelo!<br>
 
 # - id: '716196012058138'
 #   title: Salsa class - Ana & Juana
@@ -143,7 +143,6 @@
 #
 #     Hope you can join us!!
 
-
 - id: '225330511668070'
   title: "Cubanissimo Social Club"
   when: '2018-09-28T17:30:00-0700'
@@ -162,20 +161,19 @@
 
     As always, they will pairing wines to go with the food, so make sure to ask The Station staff for suggestions! It will be a night you won't want to miss, so get there early for food and stay late for the music! And after it's done, head over to Cal Poly for more dancing!
 
-- id: '207036963326748'
-  title: "Ballet Folkorico de Mexico"
-  when: '2018-10-23T19:30:00-0700'
+- id: '2227207067515882'
+  title: Bachataween Dance Party!
+  when: '2018-10-31T20:00:00-0700'
   where:
-    name: Performing Arts Center SLO
-    url: >-
-     https://goo.gl/maps/7MRxAMKbr3r
+      name: SLO Veterans Hall
+      url: >-
+        https://goo.gl/maps/nU3FhLaGBEP2
   image:
     url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38448617_10155629249424599_2447288896589922304_o.jpg?_nc_cat=105&oh=78c3ae81271862ddca5ad26e154b3058&oe=5C5F81B6
-    alt: "Ballet Folkorico de Mexico"
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41788407_1846502248759897_5193999337981476864_o.jpg?_nc_cat=101&oh=18296caa61a4f1cf112928b90e3fc1fe&oe=5C57F1E5
+    alt: Bachataween Dance Party!
   details: |
-    Direct from Mexico City’s Palace of Fine Art and under the direction of its legendary founder, Amalia Hernández, Ballet Folklórico de México is hailed as the original and best Mexican folk dance ensemble – delivering colorful movement and a musical tribute to the glorious culture of Mexico. Seventy-five stellar performers draw upon pre-Hispanic rituals as well as Mexican history and folklore to create an inspiring evening of world music and dance. (Haze effects)
-
-    “Beautiful … Dazzling … It’s gorgeous.” – The New York Times
-
-    “Long before ‘Riverdance,’ Amalia Hernández understood the power of rhythmic thunder.” – The Houston Chronicle
+    Bachata Lesson with Liliana at 8pm.<br>
+    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>
+    Lot's of treats and maybe a few tricks!<br>
+    Prizes for best costume...<br>

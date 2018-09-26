@@ -21,22 +21,22 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '2220303801550280'
-  title: 19th Madonna Inn Salsa Night of 2018
-  when: '2018-09-25T20:30:00-0700'
-  where:
-    name: Madonna Inn
-    url: >-
-      https://goo.gl/maps/CcogbBrDkzM2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41321453_10156805053503000_8348075702137913344_o.jpg?_nc_cat=0&oh=0863b1aae9dfbb6d570403dbc3a2ddd8&oe=5C334A5F
-    alt: 19th Madonna Inn Salsa Night of 2018
-  details: |
-    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-
-    #### Cost
-    Free! But we do appreciate your donations.
+# - id: '2220303801550280'
+#   title: 19th Madonna Inn Salsa Night of 2018
+#   when: '2018-09-25T20:30:00-0700'
+#   where:
+#     name: Madonna Inn
+#     url: >-
+#       https://goo.gl/maps/CcogbBrDkzM2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41321453_10156805053503000_8348075702137913344_o.jpg?_nc_cat=0&oh=0863b1aae9dfbb6d570403dbc3a2ddd8&oe=5C334A5F
+#     alt: 19th Madonna Inn Salsa Night of 2018
+#   details: |
+#     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+#
+#     #### Cost
+#     Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -142,27 +142,6 @@
 #     $5 if only attending social dancing
 #
 #     Hope you can join us!!
-
-- id: '235914293750077'
-  title: "CPSalsa's First Salsa Mixer"
-  when: '2018-09-25T19:00:00-0700'
-  where:
-    name: Cal Poly Bld 5 Rm 2225
-    url: >-
-     https://goo.gl/maps/dGCN1jHxzvF2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42370008_10156850010888000_8476985288646721536_o.jpg?_nc_cat=104&oh=dd9a1b3750dedde1962192b46bba17df&oe=5C1DC729
-    alt: "CPSalsa's First Salsa Mixer"
-  details: |
-    Looking for something to do on Tuesday night? Come check us out! Meet new people and get to know our members and what CPSalsa is all about!
-
-    We will have snacks, some ice breaker games, a FREE mini-lesson, and time to just chat with everyone! Did we mention snacks?
-
-    Afterward, carpool with us to Madonna Inn for a night of social dancing put on by our training team, Sangre Nueva!
-    See [here](https://www.facebook.com/events/2220303801550280/) for details.
-
-    We hope to see you there!
 
 
 - id: '225330511668070'

@@ -116,32 +116,30 @@
 #     #### Cost
 #     $10 cash only
 
-# - id: '305702700234365'
-#   title: 'Salsa and Bachata Night'
-#   when: '2018-09-15T19:00:00-0700'
-#   where:
-#     name: KleinDance Arts
-#     url: >-
-#       https://goo.gl/maps/X9GCJH53AqF2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/40914305_10103963830119525_418840975868166144_n.jpg?_nc_cat=0&oh=a4ed519aaccbb6249524e8df1539893f&oe=5C3B855D
-#     alt: 'Salsa and Bachata Night'
-#   details: |
-#     Looking for something to do this Labor Day weekend? Look no more and come learn and dance salsa & bachata with Horacio Heredia Saturday, September 1 in Santa Maria.
-#
-#     No experience or partner required. All ages welcome! Plus childcare available onsite.
-#
-#     #### Lessons
-#     **Bachata:** 7:00 - 8:00 PM<br>
-#     **Salsa:** - 8:00 - 9:30 PM<br>
-#     **Social Dancing Starts:** - 9:30 PM
-#
-#     #### Cost
-#     $8 per lesson (social dancing included)<br>
-#     $5 if only attending social dancing
-#
-#     Hope you can join us!!
+- id: '355957118512257'
+  title: 'Salsa and Bachata Night'
+  when: '2018-10-06T19:00:00-0700'
+  where:
+    name: KleinDance Arts
+    url: >-
+      https://goo.gl/maps/X9GCJH53AqF2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42608400_10103995930784535_8511476358524698624_n.jpg?_nc_cat=110&oh=32d8f2bda13c91113ef02a4c074fbd0a&oe=5C5B2007
+    alt: 'Salsa and Bachata Night'
+  details: |
+    No experience or partner required. All ages welcome! Plus childcare available onsite.
+
+    #### Lessons
+    **Bachata:** 7:00 - 8:00 PM<br>
+    **Salsa:** - 8:00 - 9:30 PM<br>
+    **Social Dancing Starts:** - 9:30 PM
+
+    #### Cost
+    $8 per lesson (social dancing included)<br>
+    $5 if only attending social dancing
+
+    Hope you can join us!!
 
 - id: '225330511668070'
   title: "Cubanissimo Social Club"

@@ -59,7 +59,9 @@ layout: home
                 <div class="row is-flex">
                     <div class="col-md-8 wow fadeInDown">
                         <div class="content friday-text">
-                            <h1 class="wow fadeInLeftBig" data-wow-duration="0.5s">Friday Nights</h1>
+                            <header>
+                                <h1 class="wow fadeInLeftBig" data-wow-duration="0.5s">Friday Nights</h1>
+                            </header>
                             <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
                                 Every Friday, save for school breaks, we provide multiple levels of
                                 lessons teaching salsa and bachata. Whatever your skill level, we've got you
@@ -122,7 +124,9 @@ layout: home
         {% assign events = site.data.events | sort: 'when' %}
         <section class="events" id="events">
             <div class="container-fluid">
-                <h1>Upcoming Events</h1>
+                <header>
+                    <h1>Upcoming Events</h1>
+                </header>
                 <div class="row is-flex fb-events">
                     <!-- first event -->
                     {% assign event = events[0] %}
@@ -223,7 +227,9 @@ layout: home
 
         <section class="about" id="about">
             <div class="container-fluid">
-                <h1>Who We Are</h1>
+                <header>
+                    <h1>Who We Are</h1>
+                </header>
                 <p class="about-text">
                     We are a student organization associated with California Polytechnic State
                     University (Cal Poly) in San Luis Obispo dedicated to spreading our love of Salsa

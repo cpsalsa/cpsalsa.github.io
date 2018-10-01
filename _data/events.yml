@@ -116,6 +116,43 @@
 #     #### Cost
 #     $10 cash only
 
+- id: '1115470268607450'
+  title: 'CPSalsa Planning Meeting'
+  when: '2018-10-02T19:00:00-0700'
+  where:
+    name: Bank of America
+    url: >-
+      https://goo.gl/maps/AE9kTnSm5q72
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42959077_10156868538633000_8361374604513509376_n.jpg?_nc_cat=101&oh=4393888e184aa1f232c2975f9be10846&oe=5C1A9E53
+    alt: 'CPSalsa Planning Meeting'
+  details: |
+    Want to get involved in the CPSalsa club?
+    Join the officers and members at the planning meetings.
+
+    Not a member yet? Want to learn how to become a member? This is the first planning meeting so you will get to know how and the perks behind becoming a member.
+
+- id: '464413344066897'
+  title: 'CPSalsa Bike Night Takeover'
+  when: '2018-10-04T21:00:00-0700'
+  where:
+    name: Bank of America
+    url: >-
+      https://goo.gl/maps/AE9kTnSm5q72
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42841304_10156868560063000_3516812044798001152_n.jpg?_nc_cat=104&oh=6da3257e8b85957967d681b4f57a15cc&oe=5C26C844
+    alt: 'CPSalsa Bike Night Takeover'
+  details: |
+    Come hang out with the CPSalsa crew at Bike Night. Happens every first Thursday of the month in Downtown San Luis Obispo.
+
+    Check out [http://bikehappening.org/] to find out this months theme.
+
+    We will be hanging out at Farmer's Market at around 6:30 pm 7:00 pm and will be sticking around before heading to the Bank of America Parking Lot at 9:00 pm.
+
+    Hope you can join us!!
+
 - id: '355957118512257'
   title: 'Salsa and Bachata Night'
   when: '2018-10-06T19:00:00-0700'
@@ -141,23 +178,19 @@
 
     Hope you can join us!!
 
-- id: '225330511668070'
-  title: "Cubanissimo Social Club"
-  when: '2018-09-28T17:30:00-0700'
+- id: '333466043878958'
+  title: 'Sangre Nueva Performance Team Auditions'
+  when: '2018-10-07T16:00:00-0700'
   where:
-    name: The Station
+    name: Studio @
     url: >-
-     https://goo.gl/maps/PWJWLjTTDA62
+      https://goo.gl/maps/vQBxSSUr8B12
   image:
     url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42324424_917799491754663_8977028479581159424_o.jpg?_nc_cat=104&oh=e77692489a84034932bcb1007c3181ad&oe=5C59F2E5
-    alt: "Cubanissimo Social Club"
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42851994_10156868350178000_265841699480141824_o.jpg?_nc_cat=102&oh=22e6a55d564583b23a6e1bcfd65bb92f&oe=5C50FAC4
+    alt: 'Sangre Nueva Performance Team Auditions'
   details: |
-    The Cubanissimo Food Truck has brought another Cuban Night with and DJ Mano Gil with Special Guest Glenn Red! DJ Mano Gil will be spinning salsa, rumba, cha cha, and cumbia music.
-
-    Cubanissimo will be serving authentic cuban cuisine, the Cubano Sandwich, Medianoche Sandwich and then two Specialty plates over rice. Cuban Black Beans over Rice for the vegetarians in SLO and Beef Picadillo, Ham Croquetas, Pollo con Papas, etc for other plate over Rice. Sides of Yuca Fries and Tostones will also be available.
-
-    As always, they will pairing wines to go with the food, so make sure to ask The Station staff for suggestions! It will be a night you won't want to miss, so get there early for food and stay late for the music! And after it's done, head over to Cal Poly for more dancing!
+    Interested in improving your salsa and bachata technique? Want to try learning and performing choreography? Then try out for Sangre Nueva!
 
 - id: '2227207067515882'
   title: Bachataween Dance Party!

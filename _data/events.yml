@@ -21,22 +21,22 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-# - id: '2220303801550280'
-#   title: 19th Madonna Inn Salsa Night of 2018
-#   when: '2018-09-25T20:30:00-0700'
-#   where:
-#     name: Madonna Inn
-#     url: >-
-#       https://goo.gl/maps/CcogbBrDkzM2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41321453_10156805053503000_8348075702137913344_o.jpg?_nc_cat=0&oh=0863b1aae9dfbb6d570403dbc3a2ddd8&oe=5C334A5F
-#     alt: 19th Madonna Inn Salsa Night of 2018
-#   details: |
-#     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-#
-#     #### Cost
-#     Free! But we do appreciate your donations.
+- id: '2174709039437583'
+  title: 20th Madonna Inn Salsa Night of 2018
+  when: '2018-10-09T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    url: >-
+      https://goo.gl/maps/CcogbBrDkzM2
+  image:
+    url: >-
+      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42664172_10156856476398000_8864791715597254656_o.jpg?_nc_cat=101&oh=67fc1b61664c90e41459a9c1e7a89651&oe=5C60A015
+    alt: 20th Madonna Inn Salsa Night of 2018
+  details: |
+    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+
+    #### Cost
+    Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -115,23 +115,6 @@
 #
 #     #### Cost
 #     $10 cash only
-
-- id: '1115470268607450'
-  title: 'CPSalsa Planning Meeting'
-  when: '2018-10-02T19:00:00-0700'
-  where:
-    name: Bank of America
-    url: >-
-      https://goo.gl/maps/AE9kTnSm5q72
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42959077_10156868538633000_8361374604513509376_n.jpg?_nc_cat=101&oh=4393888e184aa1f232c2975f9be10846&oe=5C1A9E53
-    alt: 'CPSalsa Planning Meeting'
-  details: |
-    Want to get involved in the CPSalsa club?
-    Join the officers and members at the planning meetings.
-
-    Not a member yet? Want to learn how to become a member? This is the first planning meeting so you will get to know how and the perks behind becoming a member.
 
 - id: '464413344066897'
   title: 'CPSalsa Bike Night Takeover'

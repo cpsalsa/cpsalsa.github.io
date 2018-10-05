@@ -132,7 +132,7 @@ layout: home
                     {% assign event = events[0] %}
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                         <div class="card wow fadeInDown" data-wow-delay="0.2">
-                            <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
+                            <div class="card-bg" style="background-image: url({{ event.image.url }}); background-position: {{ event.image.position }}"></div>
                             <div class="details">
                                 <div class="when">
                                     <span class="day">{{ event.when | date: "%-d" }}</span>
@@ -165,7 +165,7 @@ layout: home
                             {% for event in events offset:1 limit:3 %}
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <div class="card small-event wow fadeInDown">
-                                    <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
+                                    <div class="card-bg" style="background-image: url({{ event.image.url }}); background-position: {{ event.image.position }}"></div>
                                     <div class="details">
                                         <div class="when">
                                             <span class="day">{{ event.when | date: "%-d" }}</span>
@@ -195,7 +195,7 @@ layout: home
                     {% for event in events offset:4 %}
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                         <div class="card small-event wow fadeInDown">
-                            <div class="card-bg" style="background-image: url({{ event.image.url }})"></div>
+                            <div class="card-bg" style="background-image: url({{ event.image.url }}); background-position: {{ event.image.position }}"></div>
                             <div class="details">
                                 <div class="when">
                                     <span class="day">{{ event.when | date: "%-d" }}</span>

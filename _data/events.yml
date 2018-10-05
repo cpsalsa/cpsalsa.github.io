@@ -10,6 +10,7 @@
 #     url: >-
 #       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41013819_10212534224374951_8667312138689183744_n.jpg?_nc_cat=0&oh=0e94d98fb6d8b27d9d94486d21fe434f&oe=5C2A2C8A
 #     alt: 'Saturday Technique Classes'
+#     position: center
 #   details: |
 #     Have you been going to the dance classes at the Friday night socials and want to take your dancing to the next level? Come to Cal Poly on Saturday for salsa/bachata classes designed to teach you shines, connection, technique, and more advanced moves!
 #
@@ -32,6 +33,7 @@
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42664172_10156856476398000_8864791715597254656_o.jpg?_nc_cat=101&oh=67fc1b61664c90e41459a9c1e7a89651&oe=5C60A015
     alt: 20th Madonna Inn Salsa Night of 2018
+    position: center
   details: |
     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
 
@@ -46,9 +48,9 @@
 #     url: >-
 #       https://goo.gl/maps/ca8MV5xWLxj
 #   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/38848819_1796062957137160_4592433922012348416_n.jpg?_nc_cat=0&oh=fada1683f5174e1a7b45fccec7ded81f&oe=5C0FA797
+#     url: /images/events/liliana-dance-events-4.jpg
 #     alt: Salsa and Cha Cha Cha with Liliana
+#     position: center
 #   details: |
 #     Liliana Studios offers group dance lessons teaching Salsa and Cha Cha Cha. No experience or partner needed.
 #
@@ -68,9 +70,9 @@
 #     url: >-
 #       https://goo.gl/maps/nU3FhLaGBEP2
 #   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41067147_1835371989872923_5334278591981027328_n.jpg?_nc_cat=0&oh=ae64a0355654e91ccc44195ef674e982&oe=5C32B069
-#   alt: Bachata Wednesday! Welcome Summer Dance Party XIV
+#     url: /images/events/liliana-dance-events-3.jpg
+#     alt: Bachata Wednesday! Welcome Summer Dance Party XIV
+#     position: center
 #   details: |
 #     Warm long days make for perfect nights to dance! Start with the Bachata lesson at 8pm with Liliana. Then stay for the
 #     Dance Social with Super Dj Michelangelo.
@@ -87,9 +89,9 @@
     url: >-
       https://goo.gl/maps/zJmWVyqu2wJ2
   image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42478979_1857326614344127_2403166328190926848_o.jpg?_nc_cat=102&oh=aead8fb9496bdfa2a62c9f2540aa2416&oe=5C286B90
+    url: /images/events/liliana-dance-events-1.jpg
     alt: Salsa Sunday, with Liliana
+    position: top center
   details: |
     Come for the hand crafted beer, stay for the dancing.<br>
     Free dance lesson with Liliana at 7pm.<br>
@@ -116,25 +118,25 @@
 #     #### Cost
 #     $10 cash only
 
-- id: '464413344066897'
-  title: 'CPSalsa Bike Night Takeover'
-  when: '2018-10-04T21:00:00-0700'
-  where:
-    name: Bank of America
-    url: >-
-      https://goo.gl/maps/AE9kTnSm5q72
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42841304_10156868560063000_3516812044798001152_n.jpg?_nc_cat=104&oh=6da3257e8b85957967d681b4f57a15cc&oe=5C26C844
-    alt: 'CPSalsa Bike Night Takeover'
-  details: |
-    Come hang out with the CPSalsa crew at Bike Night. Happens every first Thursday of the month in Downtown San Luis Obispo.
-
-    Check out [http://bikehappening.org/] to find out this months theme.
-
-    We will be hanging out at Farmer's Market at around 6:30 pm 7:00 pm and will be sticking around before heading to the Bank of America Parking Lot at 9:00 pm.
-
-    Hope you can join us!!
+# - id: '464413344066897'
+#   title: 'CPSalsa Bike Night Takeover'
+#   when: '2018-10-04T21:00:00-0700'
+#   where:
+#     name: Bank of America
+#     url: >-
+#       https://goo.gl/maps/AE9kTnSm5q72
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42841304_10156868560063000_3516812044798001152_n.jpg?_nc_cat=104&oh=6da3257e8b85957967d681b4f57a15cc&oe=5C26C844
+#     alt: 'CPSalsa Bike Night Takeover'
+#   details: |
+#     Come hang out with the CPSalsa crew at Bike Night. Happens every first Thursday of the month in Downtown San Luis Obispo.
+#
+#     Check out [http://bikehappening.org/] to find out this months theme.
+#
+#     We will be hanging out at Farmer's Market at around 6:30 pm 7:00 pm and will be sticking around before heading to the Bank of America Parking Lot at 9:00 pm.
+#
+#     Hope you can join us!!
 
 - id: '355957118512257'
   title: 'Salsa and Bachata Night'
@@ -144,9 +146,9 @@
     url: >-
       https://goo.gl/maps/X9GCJH53AqF2
   image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42608400_10103995930784535_8511476358524698624_n.jpg?_nc_cat=110&oh=32d8f2bda13c91113ef02a4c074fbd0a&oe=5C5B2007
-    alt: 'Salsa and Bachata Night'
+    url: /images/events/horacio-dance-nights.jpg
+    alt: 'Salsa and Bachata Night - Photo Credit: Robert Aaron Darneal'
+    position: center
   details: |
     No experience or partner required. All ages welcome! Plus childcare available onsite.
 
@@ -172,6 +174,7 @@
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42851994_10156868350178000_265841699480141824_o.jpg?_nc_cat=102&oh=22e6a55d564583b23a6e1bcfd65bb92f&oe=5C50FAC4
     alt: 'Sangre Nueva Performance Team Auditions'
+    position: top center
   details: |
     Interested in improving your salsa and bachata technique? Want to try learning and performing choreography? Then try out for Sangre Nueva!
 
@@ -186,6 +189,7 @@
     url: >-
       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41788407_1846502248759897_5193999337981476864_o.jpg?_nc_cat=101&oh=18296caa61a4f1cf112928b90e3fc1fe&oe=5C57F1E5
     alt: Bachataween Dance Party!
+    position: center
   details: |
     Bachata Lesson with Liliana at 8pm.<br>
     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>

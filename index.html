@@ -54,8 +54,14 @@ layout: home
         </section>
 
         <section class="fridays" id="fridays">
+            <section class="power-image wow fadeInRightBig" data-wow-delay="0.2s" data-wow-duration="0.5s">
+                <picture>
+                    <source srcset="images/chelsea-jose-big.webp" type="image/webp">
+                    <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="images/chelsea-jose-big.png" alt="Chelsea dancing with Jose">
+                </picture>
+            </section>
             {% assign friday = site.data.friday %}
-            <div class="container-fluid no-gutter">
+            <section class="container no-gutter">
                 <div class="row is-flex">
                     <div class="col-md-8 wow fadeInDown">
                         <div class="content friday-text">
@@ -111,13 +117,7 @@ layout: home
                         </div>
                     </div>
                 </div>
-                <div class="power-image wow fadeInRightBig" data-wow-delay="0.2s" data-wow-duration="0.5s">
-                    <picture>
-                        <source srcset="images/chelsea-jose-big.webp" type="image/webp">
-                        <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="images/chelsea-jose-big.png" alt="Chelsea dancing with Jose">
-                    </picture>
-                </div>
-            </div>
+            </section>
         </section>
 
         {% if site.data.events %}
@@ -226,7 +226,7 @@ layout: home
         {% endif %}
 
         <section class="about" id="about">
-            <div class="container-fluid">
+            <section class="container">
                 <header>
                     <h1>Who We Are</h1>
                 </header>
@@ -247,8 +247,16 @@ layout: home
                     Wish to join? You'll get some free swag and free lessons if you do!<br>
                     <a class="volunteer-btn" href="http://goo.gl/dXkxhL">Volunteer</a>
                 </p>
-                <h1>Our Team</h1>
-                <div class="row is-flex">
+            </section>
+            <section class="container-fluid our-team">
+                <header class="container">
+                    <h2>Our Team</h2>
+                    <p>
+                        When you see these folks at any of our events, please give them a holler and
+                        maybe a thanks for the hard work they've put into it.
+                    </p>
+                </header>
+                <div class="row is-flex members">
                 {% for member in site.data.members %}
                 {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
                     <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
@@ -265,7 +273,7 @@ layout: home
                     </div>
                 {% endfor %}
                 </div>
-            </div>
+            </section>
         </section>
 
         <section class="posts posts-main" id="posts">

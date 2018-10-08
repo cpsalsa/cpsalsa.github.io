@@ -30,8 +30,7 @@
     url: >-
       https://goo.gl/maps/CcogbBrDkzM2
   image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42664172_10156856476398000_8864791715597254656_o.jpg?_nc_cat=101&oh=67fc1b61664c90e41459a9c1e7a89651&oe=5C60A015
+    url: /images/events/madonna-inn.jpg
     alt: 20th Madonna Inn Salsa Night of 2018
     position: center
   details: |
@@ -138,45 +137,30 @@
 #
 #     Hope you can join us!!
 
-- id: '355957118512257'
-  title: 'Salsa and Bachata Night'
-  when: '2018-10-06T19:00:00-0700'
-  where:
-    name: KleinDance Arts
-    url: >-
-      https://goo.gl/maps/X9GCJH53AqF2
-  image:
-    url: /images/events/horacio-dance-nights.jpg
-    alt: 'Salsa and Bachata Night - Photo Credit: Robert Aaron Darneal'
-    position: center
-  details: |
-    No experience or partner required. All ages welcome! Plus childcare available onsite.
-
-    #### Lessons
-    **Bachata:** 7:00 - 8:00 PM<br>
-    **Salsa:** - 8:00 - 9:30 PM<br>
-    **Social Dancing Starts:** - 9:30 PM
-
-    #### Cost
-    $8 per lesson (social dancing included)<br>
-    $5 if only attending social dancing
-
-    Hope you can join us!!
-
-- id: '333466043878958'
-  title: 'Sangre Nueva Performance Team Auditions'
-  when: '2018-10-07T16:00:00-0700'
-  where:
-    name: Studio @
-    url: >-
-      https://goo.gl/maps/vQBxSSUr8B12
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/42851994_10156868350178000_265841699480141824_o.jpg?_nc_cat=102&oh=22e6a55d564583b23a6e1bcfd65bb92f&oe=5C50FAC4
-    alt: 'Sangre Nueva Performance Team Auditions'
-    position: top center
-  details: |
-    Interested in improving your salsa and bachata technique? Want to try learning and performing choreography? Then try out for Sangre Nueva!
+# - id: '355957118512257'
+#   title: 'Salsa and Bachata Night'
+#   when: '2018-10-06T19:00:00-0700'
+#   where:
+#     name: KleinDance Arts
+#     url: >-
+#       https://goo.gl/maps/X9GCJH53AqF2
+#   image:
+#     url: /images/events/horacio-dance-nights.jpg
+#     alt: 'Salsa and Bachata Night - Photo Credit: Robert Aaron Darneal'
+#     position: center
+#   details: |
+#     No experience or partner required. All ages welcome! Plus childcare available onsite.
+#
+#     #### Lessons
+#     **Bachata:** 7:00 - 8:00 PM<br>
+#     **Salsa:** - 8:00 - 9:30 PM<br>
+#     **Social Dancing Starts:** - 9:30 PM
+#
+#     #### Cost
+#     $8 per lesson (social dancing included)<br>
+#     $5 if only attending social dancing
+#
+#     Hope you can join us!!
 
 - id: '2227207067515882'
   title: Bachataween Dance Party!

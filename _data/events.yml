@@ -79,54 +79,22 @@
 #     **When:** Wednesday 8pm<br>
 #     **Where:** SLO Vets Hall 801 Grand Ave.<br>
 #     **Cost:** $7.00
-
-- id: '309588796502343'
-  title: CPSalsa Initiation
-  when: '2018-10-13T19:30:00-0700'
-  where:
-    name: Chumash Auditorium
-    url: >-
-      https://goo.gl/maps/a1bZ1N6By792
-  image:
-    url: /images/events/greek.jpg
-    alt: CPSalsa Initiation
-    position: top center
-  details: |
-    Wanna give your dancing a good kick-start? Come take up to 2 and half hours of fun, fast-paced lessons at CPSalsa's Initiation!
-
-    This is the kickoff event for CPSalsa's Rush Week! Visit our page or ask us in person to find out more!
-
-    Not interested in lessons? Then join us for our social from 10pm to 12:30am for only $5!
-
-    Want more lessons? Come to our Fast Track Lesson on Monday the 15th! It's FREE if you attend Initiation lessons.
-
-    #### Lessons
-    Located in Chumash Auditorium, the lessons will be:
-    7:30-8:45 001 or 201 Salsa<br>
-    9:00-9:45 101 Salsa or Intermediate Bachata<br>
-
-    #### Social Dancing
-    10pm-12:30am
-
-    #### Cost
-    $15 for the full night
-    $5 for Social Dancing
-
-- id: '305069210292530'
-  title: Salsa Sunday, with Liliana
-  when: '2018-10-14T19:00:00-0700'
-  where:
-    name: Bang the Drum Brewery
-    url: >-
-      https://goo.gl/maps/zJmWVyqu2wJ2
-  image:
-    url: /images/events/liliana-dance-events-1.jpg
-    alt: Salsa Sunday, with Liliana
-    position: top center
-  details: |
-    Come for the hand crafted beer, stay for the dancing.<br>
-    Free dance lesson with Liliana at 7pm.<br>
-    Social Dance With Super DJ Michelangelo!<br>
+#
+# - id: '305069210292530'
+#   title: Salsa Sunday, with Liliana
+#   when: '2018-10-14T19:00:00-0700'
+#   where:
+#     name: Bang the Drum Brewery
+#     url: >-
+#       https://goo.gl/maps/zJmWVyqu2wJ2
+#   image:
+#     url: /images/events/liliana-dance-events-1.jpg
+#     alt: Salsa Sunday, with Liliana
+#     position: top center
+#   details: |
+#     Come for the hand crafted beer, stay for the dancing.<br>
+#     Free dance lesson with Liliana at 7pm.<br>
+#     Social Dance With Super DJ Michelangelo!<br>
 
 - id: '341543809930650'
   title: 'Monday Night Series: CPSalsa Sampler Platter'
@@ -136,8 +104,7 @@
     url: >-
       https://goo.gl/maps/5SmYAyrHrMt
   image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43149273_10156878282773000_5229802365749559296_n.jpg?_nc_cat=103&oh=ccd04cbd5e9ef7ed8806053631456542&oe=5C584C4E
+    url: /images/events/sample-platter.jpg
     alt: 'Monday Night Series: CPSalsa Sampler Platter'
     position: top left
   details: |
@@ -156,8 +123,7 @@
     url: >-
       https://goo.gl/maps/5SmYAyrHrMt
   image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/43053717_10156876138138000_318981925379244032_o.jpg?_nc_cat=103&oh=70eb64cd49437a5aefd4b8575e6b21ea&oe=5C54A58A
+    url: /images/events/salsa-mixer.jpg
     alt: CPSalsa Mixer
     position: center left
   details: |

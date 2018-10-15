@@ -107,12 +107,9 @@ layout: home
                             </div>
                             <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h3>
                             <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
-                                <strong>Bachata 101</strong> - {{ friday.instructors.bachata101 }}<br>
-                                <strong>Beyond the basics</strong> - {{ friday.instructors.beyondTheBasics }}<br>
-                                <strong>Salsa 001</strong> - {{ friday.instructors.salsa001 }}<br>
-                                <strong>Salsa 101</strong> - {{ friday.instructors.salsa101 }}<br>
-                                <strong>Salsa 201</strong> - {{ friday.instructors.salsa201 }}<br>
-                                <strong>Salsa 301</strong> - {{ friday.instructors.salsa301 }}
+                                {% for lesson in friday.lessons %}
+                                    <strong>{{ lesson.title }}</strong> - {{ lesson.instructors }}<br>
+                                {% endfor %}
                             </p>
                         </div>
                     </div>

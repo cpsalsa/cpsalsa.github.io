@@ -1,11 +1,17 @@
 facebookId: '2182602325328053'
-title: 'Week 3'
-instructors:
-    bachata101: 'Cancelled this week'
-    beyondTheBasics: 'Brayden Schmidt & Mikaela Manzano'
-    salsa001: 'Ed Pecson & Jenna Stephens'
-    salsa101: 'Tyler Anderson & Sabrina Bussel'
-    salsa201: 'Sal Orozco & Amanda Stefani'
-    salsa301: 'Brayden Schmidt & Mikaela Manzano'
+title: 'Week 4 -- Toga Night'
+lessons:
+    - title: Bachata 101
+      instructors: 'Ed Pecson & Jenna Stephens'
+    - title: Bachata 201
+      instructors: 'Daniel Johnson & Amanda Stefani'
+    - title: Salsa 001
+      instructors: 'Ed Pecson & Jenna Stephens'
+    - title: Salsa 101
+      instructors: 'Troy Nino De Rivera & Polina Volnuhina'
+    - title: Salsa 201
+      instructors: 'Daniel Johnson & Amanda Stefani'
+    - title: Salsa 301
+      instructors: 'Brayden Schmidt & Joy Grunklee'
 details: |
-     Poly's Fall quarter is now in full swing! Come out and join us to shake your groove thang!
+     Tonight is TOGA NIGHT! Don your best toga (preferably one that can stay on) and burn up the dance floor with us! 

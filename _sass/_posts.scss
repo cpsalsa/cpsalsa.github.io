@@ -113,7 +113,7 @@
                 .post-title {
                     margin-top: 30%;
                 }
-                &:after {
+                &:before {
                     background-image: linear-gradient(rgba(0, 0, 0,0) 0%, rgba(0, 0, 0,0.2) 75%, rgba(0, 0, 0,1) 100%);
                     content: '';
                     height: 100%;
@@ -124,7 +124,7 @@
                     z-index: 2;
                 }
             }
-            &:hover:after {
+            &:hover:befire {
                 background-image: linear-gradient(rgba(0, 0, 0,0) 0%, rgba(0, 0, 0,0.2) 75%, rgba(0, 0, 0,1) 100%);
                 content: '';
                 height: 100%;

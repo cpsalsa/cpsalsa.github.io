@@ -22,22 +22,22 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-# - id: '2174709039437583'
-#   title: 20th Madonna Inn Salsa Night of 2018
-#   when: '2018-10-09T20:30:00-0700'
-#   where:
-#     name: Madonna Inn
-#     url: >-
-#       https://goo.gl/maps/CcogbBrDkzM2
-#   image:
-#     url: /images/events/madonna-inn.jpg
-#     alt: 20th Madonna Inn Salsa Night of 2018
-#     position: center
-#   details: |
-#     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-#
-#     #### Cost
-#     Free! But we do appreciate your donations.
+- id: '2174709039437583'
+  title: 21st Madonna Inn Salsa Night of 2018
+  when: '2018-10-23T20:30:00-0700'
+  where:
+    name: Madonna Inn
+    url: >-
+      https://goo.gl/maps/CcogbBrDkzM2
+  image:
+    url: /images/events/madonna-inn-2.jpg
+    alt: 21st Madonna Inn Salsa Night of 2018
+    position: center
+  details: |
+    This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+
+    #### Cost
+    Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -95,60 +95,6 @@
 #     Come for the hand crafted beer, stay for the dancing.<br>
 #     Free dance lesson with Liliana at 7pm.<br>
 #     Social Dance With Super DJ Michelangelo!<br>
-
-- id: '341543809930650'
-  title: 'Monday Night Series: CPSalsa Sampler Platter'
-  when: '2018-10-15T20:00:00-0700'
-  where:
-    name: Cal Poly Building 5 Room 104
-    url: >-
-      https://goo.gl/maps/5SmYAyrHrMt
-  image:
-    url: /images/events/sample-platter.jpg
-    alt: 'Monday Night Series: CPSalsa Sampler Platter'
-    position: top left
-  details: |
-    Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
-
-    #### Week 1
-    Salsa on 1<br>
-    $5 for the night<br>
-    $20 for the full series<br>
-
-- id: '483487432135372'
-  title: CPSalsa Mixer
-  when: '2018-10-16T19:00:00-0700'
-  where:
-    name: Cal Poly Building 5 Room 225
-    url: >-
-      https://goo.gl/maps/5SmYAyrHrMt
-  image:
-    url: /images/events/salsa-mixer.jpg
-    alt: CPSalsa Mixer
-    position: center left
-  details: |
-    Looking for something to do on Tuesday night? Come check us out! Meet new people and get to know our members and what CPSalsa is all about!
-
-    We will have snacks, some ice breaker games, a FREE mini-lesson, and time to just chat with everyone! Did we mention snacks?
-
-    We hope to see you there!
-
-- id: '305711203555218'
-  title: Farmer's Market Meetup
-  when: '2018-10-18T19:00:00-0700'
-  where:
-    name: 1034 Mill St, SLO
-    url: >-
-      https://goo.gl/maps/LwJfKJpztJ92
-  image:
-    url: /images/events/farmers-market.jpg
-    alt: Farmer's Market Meetup
-    position: top left
-  details: |
-    Let's all get to know each other better over good food and good vibes at the SLO Farmer's Market!
-
-    Meet at 1034 Mill St. at 7pm
-    Carpools available ([message](https://m.me/cpsalsa) us for details)
 
 - id: '243753136486960'
   title: CPSalsa Bond-fire

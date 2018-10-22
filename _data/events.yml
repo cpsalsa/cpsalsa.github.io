@@ -22,7 +22,7 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '2174709039437583'
+- id: '322706945169121'
   title: 21st Madonna Inn Salsa Night of 2018
   when: '2018-10-23T20:30:00-0700'
   where:
@@ -96,22 +96,26 @@
 #     Free dance lesson with Liliana at 7pm.<br>
 #     Social Dance With Super DJ Michelangelo!<br>
 
-- id: '243753136486960'
-  title: CPSalsa Bond-fire
-  when: '2018-10-20T18:00:00-0700'
+- id: '344509979456669'
+  title: 'Monday Night Series: CPSalsa Sampler Platter'
+  when: '2018-10-22T20:00:00-0700'
   where:
-    name: Grover Beach
+    name: Cal Poly Building 5 Room 104
     url: >-
-      https://goo.gl/maps/5zNRVt9eaxT2
+      https://goo.gl/maps/5SmYAyrHrMt
   image:
-    url: /images/events/bonfire.jpg
-    alt: CPSalsa Bond-fire
+    url: /images/events/sample-platter.jpg
+    alt: 'Monday Night Series: CPSalsa Sampler Platter'
     position: top left
   details: |
-    Finish off the week with s'mores, music, dancing, and new friends at our closing bonfire! Bring warm clothes, a blanket, and your wonderful self!
+    The Monday Sampler Series continues! This week we're doing Bachata!
 
-    We're meeting at Grover Beach around 7:00 pm<br>
-    Carpools provided! Meet at [lot C7](https://goo.gl/maps/UpHz2qkxG3r) (near Architecture and Business) at 6:30 pm. Don't worry, parking is free on weekends!
+    Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
+
+    #### Week 1
+    Salsa on 1<br>
+    $5 for the night<br>
+    $20 for the full series<br>
 
 # - id: '716196012058138'
 #   title: Salsa class - Ana & Juana

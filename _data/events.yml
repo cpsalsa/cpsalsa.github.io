@@ -158,30 +158,30 @@
 #
 #     Hope you can join us!!
 
-- id: '355957118512257'
-  title: 'Bachata & Salsa Halloween Night'
-  when: '2018-10-27T19:00:00-0700'
-  where:
-    name: KleinDance Arts
-    url: >-
-      https://goo.gl/maps/X9GCJH53AqF2
-  image:
-    url: /images/events/dancing-skeletons-party-halloween.jpg
-    alt: 'Bachata & Salsa Halloween Night - Photo Credit: Robert Aaron Darneal'
-    position: center
-  details: |
-    Come celebrate Halloween and dress up in your favorite costume. The evening will begin with dance lessons followed by social dancing.
-
-    No experience or partner required. All ages welcome! Plus childcare available onsite.
-
-    #### Lessons
-    **Bachata:** 7:00 - 8:00 PM<br>
-    **Salsa:** - 8:00 - 9:30 PM<br>
-    **Social Dancing Starts:** - 9:30 PM
-
-    #### Cost
-    $8 per lesson (social dancing included)<br>
-    $5 if only attending social dancing
+# - id: '355957118512257'
+#   title: 'Bachata & Salsa Halloween Night'
+#   when: '2018-10-27T19:00:00-0700'
+#   where:
+#     name: KleinDance Arts
+#     url: >-
+#       https://goo.gl/maps/X9GCJH53AqF2
+#   image:
+#     url: /images/events/dancing-skeletons-party-halloween.jpg
+#     alt: 'Bachata & Salsa Halloween Night - Photo Credit: Robert Aaron Darneal'
+#     position: center
+#   details: |
+#     Come celebrate Halloween and dress up in your favorite costume. The evening will begin with dance lessons followed by social dancing.
+#
+#     No experience or partner required. All ages welcome! Plus childcare available onsite.
+#
+#     #### Lessons
+#     **Bachata:** 7:00 - 8:00 PM<br>
+#     **Salsa:** - 8:00 - 9:30 PM<br>
+#     **Social Dancing Starts:** - 9:30 PM
+#
+#     #### Cost
+#     $8 per lesson (social dancing included)<br>
+#     $5 if only attending social dancing
 
 - id: '2227207067515882'
   title: Bachataween Dance Party!

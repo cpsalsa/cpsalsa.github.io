@@ -22,16 +22,16 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '2131058080466848'
-  title: MadonnaWeen
-  when: '2018-10-30T20:30:00-0700'
+- id: '352899005279515'
+  title: 23rd Madonna Inn Salsa Night of 2018
+  when: '2018-11-13T20:30:00-0700'
   where:
     name: Madonna Inn
     url: >-
       https://goo.gl/maps/CcogbBrDkzM2
   image:
-    url: /images/events/madonna-ween.jpg
-    alt: MadonnaWeen
+    url: /images/events/madonna-inn-3.jpg
+    alt: 23rd Madonna Inn Salsa Night of 2018
     position: top center
   details: |
     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
@@ -96,19 +96,19 @@
 #     Free dance lesson with Liliana at 7pm.<br>
 #     Social Dance With Super DJ Michelangelo!<br>
 
-- id: '693212864397861'
-  title: 'Monday Night Series: CPSalsa Sampler Platter'
-  when: '2018-10-29T20:00:00-0700'
+- id: '398642584008417'
+  title: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
+  when: '2018-11-05T20:00:00-0700'
   where:
     name: Cal Poly Building 5 Room 104
     url: >-
       https://goo.gl/maps/5SmYAyrHrMt
   image:
     url: /images/events/sample-platter.jpg
-    alt: 'Monday Night Series: CPSalsa Sampler Platter'
+    alt: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
     position: top left
   details: |
-    The Monday Sampler Series continues! This week we're doing Bachata!
+    The Monday Sampler Series continues! This week we're doing Zouk!
 
     Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
 
@@ -200,3 +200,19 @@
     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>
     Lot's of treats and maybe a few tricks!<br>
     Prizes for best costume...<br>
+
+- id: '917062982017075'
+  title: CPSalsa Dancing in the Canyon
+  when: '2018-11-03T18:30:00-0700'
+  where:
+      name: Poly Canyon Village
+      url: >-
+        https://goo.gl/maps/U31jad4t8v52
+  image:
+    url: /images/events/dancing-in-the-canyon.jpg
+    alt: CPSalsa Dancing in the Canyon
+    position: center
+  details: |
+    Come hang out with us in PCV Plaza as we dance our hearts out! Talk to us! Get to know us as a club and learn what CPSalsa is about!
+
+    We'll be dancing for everyone in the plaza from 6:30 to 9!

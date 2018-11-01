@@ -183,23 +183,23 @@
 #     $8 per lesson (social dancing included)<br>
 #     $5 if only attending social dancing
 
-- id: '2227207067515882'
-  title: Bachataween Dance Party!
-  when: '2018-10-31T20:00:00-0700'
-  where:
-      name: SLO Veterans Hall
-      url: >-
-        https://goo.gl/maps/nU3FhLaGBEP2
-  image:
-    url: >-
-      https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41788407_1846502248759897_5193999337981476864_o.jpg?_nc_cat=101&oh=18296caa61a4f1cf112928b90e3fc1fe&oe=5C57F1E5
-    alt: Bachataween Dance Party!
-    position: center
-  details: |
-    Bachata Lesson with Liliana at 8pm.<br>
-    Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>
-    Lot's of treats and maybe a few tricks!<br>
-    Prizes for best costume...<br>
+# - id: '2227207067515882'
+#   title: Bachataween Dance Party!
+#   when: '2018-10-31T20:00:00-0700'
+#   where:
+#       name: SLO Veterans Hall
+#       url: >-
+#         https://goo.gl/maps/nU3FhLaGBEP2
+#   image:
+#     url: >-
+#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41788407_1846502248759897_5193999337981476864_o.jpg?_nc_cat=101&oh=18296caa61a4f1cf112928b90e3fc1fe&oe=5C57F1E5
+#     alt: Bachataween Dance Party!
+#     position: center
+#   details: |
+#     Bachata Lesson with Liliana at 8pm.<br>
+#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>
+#     Lot's of treats and maybe a few tricks!<br>
+#     Prizes for best costume...<br>
 
 - id: '917062982017075'
   title: CPSalsa Dancing in the Canyon

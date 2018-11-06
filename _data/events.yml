@@ -96,27 +96,6 @@
 #     Free dance lesson with Liliana at 7pm.<br>
 #     Social Dance With Super DJ Michelangelo!<br>
 
-- id: '398642584008417'
-  title: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
-  when: '2018-11-05T20:00:00-0700'
-  where:
-    name: Cal Poly Building 5 Room 104
-    url: >-
-      https://goo.gl/maps/5SmYAyrHrMt
-  image:
-    url: /images/events/sample-platter.jpg
-    alt: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
-    position: top left
-  details: |
-    The Monday Sampler Series continues! This week we're doing Zouk!
-
-    Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
-
-    #### Week 1
-    Salsa on 1<br>
-    $5 for the night<br>
-    $20 for the full series<br>
-
 # - id: '716196012058138'
 #   title: Salsa class - Ana & Juana
 #   when: '2018-08-16T20:00:00-0700'
@@ -183,36 +162,62 @@
 #     $8 per lesson (social dancing included)<br>
 #     $5 if only attending social dancing
 
-# - id: '2227207067515882'
-#   title: Bachataween Dance Party!
-#   when: '2018-10-31T20:00:00-0700'
-#   where:
-#       name: SLO Veterans Hall
-#       url: >-
-#         https://goo.gl/maps/nU3FhLaGBEP2
-#   image:
-#     url: >-
-#       https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/41788407_1846502248759897_5193999337981476864_o.jpg?_nc_cat=101&oh=18296caa61a4f1cf112928b90e3fc1fe&oe=5C57F1E5
-#     alt: Bachataween Dance Party!
-#     position: center
-#   details: |
-#     Bachata Lesson with Liliana at 8pm.<br>
-#     Salsa/ Bachata/ChaCha/ Meringue/Cumbia/Kizomba dance social with Super Dj Michelangelo.<br>
-#     Lot's of treats and maybe a few tricks!<br>
-#     Prizes for best costume...<br>
+- id: '338901210204394'
+  title: CPSalsa Planning Meeting
+  when: '2018-11-06T19:00:00-0700'
+  where:
+      name: Cal Poly Bld 5 Rm 225
+      url: >-
+        https://goo.gl/maps/JDqMM7nMvqj
+  image:
+    url: >-
+        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/45345792_10156955973653000_772348841964863488_o.jpg?_nc_cat=105&_nc_ht=scontent-sjc3-1.xx&oh=4bf061733b64e59a581af9447c3657a2&oe=5C77AC83
+    alt: CPSalsa Planning Meeting
+    position: center
+  details: |
+    Want to get more involved in the club?
+    Want to learn more about the events we plan, how we plan them, and how we spread the salsa love?
 
-- id: '917062982017075'
-  title: CPSalsa Dancing in the Canyon
-  when: '2018-11-03T18:30:00-0700'
+    Come to our planning meeting!
+
+- id: '1049863365196319'
+  title: CPSalsa Mixer
+  when: '2018-11-13T19:00:00-0700'
   where:
       name: Poly Canyon Village
       url: >-
         https://goo.gl/maps/U31jad4t8v52
   image:
-    url: /images/events/dancing-in-the-canyon.jpg
-    alt: CPSalsa Dancing in the Canyon
-    position: center
+    url: >-
+        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/45387837_10156956001778000_1310006158181793792_o.jpg?_nc_cat=106&_nc_ht=scontent-sjc3-1.xx&oh=98393b6d44111cd7fa4e1a91acb41261&oe=5C708465
+    alt: CPSalsa Mixer
+    position: center left
   details: |
-    Come hang out with us in PCV Plaza as we dance our hearts out! Talk to us! Get to know us as a club and learn what CPSalsa is about!
+    Looking for something to do on Tuesday night? Come check us out! Meet new people and get to know our members and what CPSalsa is all about!
 
-    We'll be dancing for everyone in the plaza from 6:30 to 9!
+    We will have snacks, some ice breaker games, a FREE mini-lesson, and time to just chat with everyone! Did we mention snacks?
+
+    From there we will be carpooling to our [Madonna Inn](https://www.facebook.com/events/352899005279515/) socials.
+
+
+    We hope to see you there!
+
+- id: '398642584008417'
+  title: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
+  when: '2018-11-12T20:00:00-0700'
+  where:
+    name: Cal Poly Building 5 Room 104
+    url: >-
+      https://goo.gl/maps/5SmYAyrHrMt
+  image:
+    url: /images/events/sample-platter.jpg
+    alt: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
+    position: top left
+  details: |
+    The Monday Sampler Series continues! This week we're doing Zouk!
+
+    Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
+
+    #### Week 5
+    Zouk<br>
+    $5 for the night<br>

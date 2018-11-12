@@ -162,31 +162,13 @@
 #     $8 per lesson (social dancing included)<br>
 #     $5 if only attending social dancing
 
-- id: '338901210204394'
-  title: CPSalsa Planning Meeting
-  when: '2018-11-06T19:00:00-0700'
-  where:
-      name: Cal Poly Bld 5 Rm 225
-      url: >-
-        https://goo.gl/maps/JDqMM7nMvqj
-  image:
-    url: >-
-        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/45345792_10156955973653000_772348841964863488_o.jpg?_nc_cat=105&_nc_ht=scontent-sjc3-1.xx&oh=4bf061733b64e59a581af9447c3657a2&oe=5C77AC83
-    alt: CPSalsa Planning Meeting
-    position: center
-  details: |
-    Want to get more involved in the club?
-    Want to learn more about the events we plan, how we plan them, and how we spread the salsa love?
-
-    Come to our planning meeting!
-
 - id: '1049863365196319'
   title: CPSalsa Mixer
   when: '2018-11-13T19:00:00-0700'
   where:
-      name: Poly Canyon Village
+      name: Cal Poly Bld 5 Rm 225
       url: >-
-        https://goo.gl/maps/U31jad4t8v52
+        https://goo.gl/maps/JDqMM7nMvqj
   image:
     url: >-
         https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/45387837_10156956001778000_1310006158181793792_o.jpg?_nc_cat=106&_nc_ht=scontent-sjc3-1.xx&oh=98393b6d44111cd7fa4e1a91acb41261&oe=5C708465

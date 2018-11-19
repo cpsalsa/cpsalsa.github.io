@@ -60,6 +60,16 @@
         min-height: 300px;
     }
 }
+.fb-events .singleton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .card {
+        min-height: 800px;
+        width: 70%;
+    }
+}
 .fb-events .card .card-bg {
     display: block;
     height: 100%;

@@ -22,16 +22,16 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '352899005279515'
-  title: 23rd Madonna Inn Salsa Night of 2018
-  when: '2018-11-13T20:30:00-0700'
+- id: '738991779780769'
+  title: 24th Madonna Inn Salsa Night of 2018
+  when: '2018-11-27T20:30:00-0700'
   where:
     name: Madonna Inn
     url: >-
       https://goo.gl/maps/CcogbBrDkzM2
   image:
-    url: /images/events/madonna-inn-3.jpg
-    alt: 23rd Madonna Inn Salsa Night of 2018
+    url: /images/events/madonna-inn-2.jpg
+    alt: 24th Madonna Inn Salsa Night of 2018
     position: top center
   details: |
     This is a FREE event brought to you by CPSalsa's training team, Sangre Nueva! Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
@@ -161,45 +161,3 @@
 #     #### Cost
 #     $8 per lesson (social dancing included)<br>
 #     $5 if only attending social dancing
-
-- id: '1049863365196319'
-  title: CPSalsa Mixer
-  when: '2018-11-13T19:00:00-0700'
-  where:
-      name: Cal Poly Bld 5 Rm 225
-      url: >-
-        https://goo.gl/maps/JDqMM7nMvqj
-  image:
-    url: >-
-        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/45387837_10156956001778000_1310006158181793792_o.jpg?_nc_cat=106&_nc_ht=scontent-sjc3-1.xx&oh=98393b6d44111cd7fa4e1a91acb41261&oe=5C708465
-    alt: CPSalsa Mixer
-    position: center left
-  details: |
-    Looking for something to do on Tuesday night? Come check us out! Meet new people and get to know our members and what CPSalsa is all about!
-
-    We will have snacks, some ice breaker games, a FREE mini-lesson, and time to just chat with everyone! Did we mention snacks?
-
-    From there we will be carpooling to our [Madonna Inn](https://www.facebook.com/events/352899005279515/) socials.
-
-
-    We hope to see you there!
-
-- id: '398642584008417'
-  title: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
-  when: '2018-11-12T20:00:00-0700'
-  where:
-    name: Cal Poly Building 5 Room 104
-    url: >-
-      https://goo.gl/maps/5SmYAyrHrMt
-  image:
-    url: /images/events/sample-platter.jpg
-    alt: 'Monday Night Series: CPSalsa Sampler Platter - Zouk'
-    position: top left
-  details: |
-    The Monday Sampler Series continues! This week we're doing Zouk!
-
-    Take your dancing to the next level at the first week of CPSalsa's Monday Night series. Throughout the series, you'll be learning the basics of all the dances you see us do at our socials PLUS some bonus dances that we're still getting to know ourselves! Come learn with us!
-
-    #### Week 5
-    Zouk<br>
-    $5 for the night<br>

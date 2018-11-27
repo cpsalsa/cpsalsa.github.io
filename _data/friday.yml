@@ -1,19 +1,18 @@
 facebookId: '282569529047476'
-title: 'Thanksgiving Break'
-onbreak: true
-# lessons:
-#     - title: Bachata 101
-#       instructors: 'Patrick Lim'
-#     - title: Bachata 201
-#       instructors: 'Brayden Schmidt & Natalie Lovgren'
-#     - title: Salsa 001
-#       instructors: 'Kara Pecson & Ricky Tan'
-#     - title: Salsa 101
-#       instructors: 'Patrick Lim'
-#     - title: Salsa 201
-#       instructors: 'Ed Pecson & Nimisha Patel'
-#     - title: Salsa 301
-#       instructors: 'Brayden Schmidt & Natalie Lovgren'
+title: 'Week 9'
+onbreak: false
+lessons:
+    - title: Bachata 101
+      instructors: 'Patrick Lim'
+    - title: Bachata 201
+      instructors: 'Brayden Schmidt & Natalie Lovgren'
+    - title: Salsa 001
+      instructors: 'Kara Pecson & Ricky Tan'
+    - title: Salsa 101
+      instructors: 'Patrick Lim'
+    - title: Salsa 201
+      instructors: 'Ed Pecson & Nimisha Patel'
+    - title: Salsa 301
+      instructors: 'Brayden Schmidt & Natalie Lovgren'
 details: |
-    We're on break this week. Enjoy your Thanksgivings and see you all next week!
-#    CPSalsa is here to welcome you back from Thanksgiving break and to help you work off all that turkey (or tofurkey), ham, stuffing, and/or mashed potatoes! Spice up your routine with us!
+   CPSalsa is here to welcome you back from Thanksgiving break and to help you work off all that turkey (or tofurkey), ham, stuffing, and/or mashed potatoes! Spice up your routine with us!

@@ -163,3 +163,43 @@
 #     #### Cost
 #     $8 per lesson (social dancing included)<br>
 #     $5 if only attending social dancing
+
+- id: '350041092396168'
+  title: Casino Rueda 5-Week Series
+  when: '2019-01-07T20:00:00-0700'
+  where:
+      name: Cal Poly Bld 5 Rm 225
+      url: >-
+        https://goo.gl/maps/JDqMM7nMvqj
+  image:
+    url: >-
+        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/47432174_10157030458398000_7036025697868972032_o.jpg?_nc_cat=111&_nc_ht=scontent-sjc3-1.xx&oh=29ab8f0446f22e5c45e6a373058e0e1a&oe=5C92CCE8
+    alt: Casino Rueda 5-Week Series
+    position: center
+  details: |
+    CPSalsa is hosting 5-week progressive workshop series on Casino Rueda. This series is ideal for beginning and intermediate dancers.
+
+    This is a progressive series meaning each week will introduce new concepts and moves designed to challenge and grow your dancing.
+
+    #### Instructors
+    Nimisha Patel and Ed Pecson
+
+- id: '260122181331521'
+  title: Bachata 5-Week Series
+  when: '2019-02-11T20:00:00-0700'
+  where:
+      name: Cal Poly Bld 5 Rm 225
+      url: >-
+        https://goo.gl/maps/JDqMM7nMvqj
+  image:
+    url: >-
+        https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/47571530_10157030477193000_5413491854937161728_n.jpg?_nc_cat=109&_nc_ht=scontent-sjc3-1.xx&oh=82470d3f10370e517c749c1cdf8556c5&oe=5C90CCBD
+    alt: Bachata 5-Week Series
+    position: center
+  details: |
+    CPSalsa is hosting 5-week progressive workshop series on Bachata. This series is ideal for beginning and intermediate dancers.
+
+    This is a progressive series meaning each week will introduce new concepts and moves designed to challenge and grow your dancing.
+
+    #### Instructors    
+    Brayden Schmidt

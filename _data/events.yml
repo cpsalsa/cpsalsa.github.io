@@ -22,24 +22,24 @@
 #
 #     For more information or to pay/sign up for classes you can download the MINDBODY app and search for CP Salsa. Walk-ins are welcome!
 
-- id: '300765823860808'
-  title: Holiday Madonna Inn Salsa Night
-  when: '2018-11-27T20:30:00-0700'
-  where:
-    name: Madonna Inn
-    url: >-
-      https://goo.gl/maps/CcogbBrDkzM2
-  image:
-    url: /images/events/madonna-inn-holidays.jpg
-    alt: Holiday Madonna Inn Salsa Night
-    position: top right
-  details: |
-    Celebrate the Holidays in style with CPSalsa and Sangre Nueva!
-
-    Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
-
-    #### Cost
-    Free! But we do appreciate your donations.
+# - id: '300765823860808'
+#   title: Holiday Madonna Inn Salsa Night
+#   when: '2018-11-27T20:30:00-0700'
+#   where:
+#     name: Madonna Inn
+#     url: >-
+#       https://goo.gl/maps/CcogbBrDkzM2
+#   image:
+#     url: /images/events/madonna-inn-holidays.jpg
+#     alt: Holiday Madonna Inn Salsa Night
+#     position: top right
+#   details: |
+#     Celebrate the Holidays in style with CPSalsa and Sangre Nueva!
+#
+#     Dancing begins at 8:30 pm and goes until 11:00 pm (longer if people are feeling it). We will be playing your favorite salsa, cha cha cha, and bachata songs...maybe even a merengue. If you're celebrating a birthday, let the DJ know you want a birthday dance. We'll see you there!
+#
+#     #### Cost
+#     Free! But we do appreciate your donations.
 
 # - id: '2149364395345487'
 #   title: Salsa and Cha Cha Cha with Liliana
@@ -139,30 +139,28 @@
 #
 #     Hope you can join us!!
 
-# - id: '355957118512257'
-#   title: 'Bachata & Salsa Halloween Night'
-#   when: '2018-10-27T19:00:00-0700'
-#   where:
-#     name: KleinDance Arts
-#     url: >-
-#       https://goo.gl/maps/X9GCJH53AqF2
-#   image:
-#     url: /images/events/dancing-skeletons-party-halloween.jpg
-#     alt: 'Bachata & Salsa Halloween Night - Photo Credit: Robert Aaron Darneal'
-#     position: center
-#   details: |
-#     Come celebrate Halloween and dress up in your favorite costume. The evening will begin with dance lessons followed by social dancing.
-#
-#     No experience or partner required. All ages welcome! Plus childcare available onsite.
-#
-#     #### Lessons
-#     **Bachata:** 7:00 - 8:00 PM<br>
-#     **Salsa:** - 8:00 - 9:30 PM<br>
-#     **Social Dancing Starts:** - 9:30 PM
-#
-#     #### Cost
-#     $8 per lesson (social dancing included)<br>
-#     $5 if only attending social dancing
+- id: '332472394252746'
+  title: 'Bachata & Salsa Night'
+  when: '2018-12-15T19:00:00-0700'
+  where:
+    name: KleinDance Arts
+    url: >-
+      https://goo.gl/maps/X9GCJH53AqF2
+  image:
+    url: /images/events/horacio-dance-nights.jpg
+    alt: 'Bachata & Salsa Halloween Night - Photo Credit: Robert Aaron Darneal'
+    position: center
+  details: |
+    No experience or partner required. All ages welcome! Plus childcare available onsite.
+
+    #### Lessons
+    **Bachata:** 7:00 - 8:00 PM<br>
+    **Salsa:** - 8:00 - 9:30 PM<br>
+    **Social Dancing Starts:** - 9:30 PM
+
+    #### Cost
+    $8 per lesson (social dancing included)<br>
+    $5 if only attending social dancing
 
 - id: '350041092396168'
   title: Casino Rueda 5-Week Series
@@ -201,5 +199,5 @@
 
     This is a progressive series meaning each week will introduce new concepts and moves designed to challenge and grow your dancing.
 
-    #### Instructors    
+    #### Instructors
     Brayden Schmidt

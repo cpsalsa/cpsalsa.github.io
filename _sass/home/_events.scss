@@ -44,14 +44,6 @@
         min-height: 400px;
         margin-bottom: 45px;
         position: relative;
-
-        // &:after {
-        //     border-bottom: 3px solid $events-gradient-start;
-        //     content: '';
-        //     display: flex;
-        //     justify-content: center;
-        //     width: 100px;
-        // }
     }
     .event-header-content {
         margin-top: 60px;
@@ -81,8 +73,19 @@
         &.recurring {
             grid-template-columns: 1fr 33%;
 
+            @media (max-device-width: $screen-sm-max) {
+                display: block;
+            }
+
             .title-section {
                 grid-column-start: 1;
+
+                @media (max-device-width: $screen-sm-max) {
+                    .event-title,
+                    .event-where {
+                        text-align: center;
+                    }
+                }
 
                 .event-title {
                     margin-top: 0;
@@ -90,6 +93,17 @@
             }
             .dates-section {
                 grid-column-start: 2;
+
+                @media (max-device-width: $screen-sm-max) {
+                    margin-top: 20px;
+                    text-align: center;
+
+                    .dates-content {
+                        margin: 20px auto;
+                        overflow: hidden;
+                        width: 50%;
+                    }
+                }
 
                 .dates-title {
                     margin-top: 0;
@@ -128,8 +142,10 @@
         position: relative;
 
         > .centered {
-            display: flex;
-            justify-content: center;
+            @media (min-device-width: $screen-sm-max) {
+                display: flex;
+                justify-content: center;
+            }
 
             h1,
             h2,
@@ -367,5 +383,25 @@
 
     h3{
         color: $event-header-color;
+    }
+}
+.event-back {
+    margin-top: 20px;
+    text-align: center;
+
+    a {
+        display: inline-block;
+        padding: 20px;
+        // width: 200px;
+        text-align: center;
+        border: 3px solid $text-color;
+        color: $text-color;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: none;
+            color: $brand-secondary;
+            border-color: $brand-secondary;
+        }
     }
 }

@@ -1,14 +1,18 @@
 facebookId: '258020268392677'
-title: 'Winter Break'
-onbreak: true
+title: 'Week 2'
+onbreak: false
 lessons:
+    - title: Bachata 101
+      instructors: 'Patrick Lim'
+    - title: Bachata 201
+      instructors: 'Brayden Schmidt'
     - title: Salsa 001
-      instructors: 'Ed Pecson & Nimisha Patel'
+      instructors: 'Patrick Lim'
     - title: Salsa 101
-      instructors: 'Crisanto Fuentes & Natalie Lovgren'
+      instructors: 'Ed Pecson & Jenna Stephens'
     - title: Salsa 201
-      instructors: 'Sal Orozco & Mikaela Manzano'
+      instructors: 'Tyler Anderson= & Sabrina Bussel'
     - title: Salsa 301
-      instructors: 'Brayden Schmidt & Jenna Stephens'
+      instructors: 'Brayden Schmidt'
 details: |
-   We're on Winter Break. Happy Holidays and see you all next year!
+   It's week 2 of Winter Quarter. Warm up with us on the dance floor!

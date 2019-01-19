@@ -89,16 +89,18 @@ function createEventCard(event, className, includeDetails) {
 }
 
 function getClosestDate(event) {
-    let currentDate = new Date();
+    let currentDate = new Date(),
+        closestDate = null;
 
     for (let dates of event.dates) {
         let begins = new Date(dates.begins);
         if (begins >= currentDate) {
             closestDate = begins;
-            event.closestDate = begins;
             break;
         }
     }
+
+    return closestDate;
 }
 
 function layoutEvents(events) {
@@ -148,11 +150,14 @@ function layoutEvents(events) {
 }
 
 function sortEvents(events) {
-    for (let event of events) {
-        getClosestDate(event);
-    }
+    let newEvents = events.map(event => {
+        return {
+            ...event,
+            closestDate: getClosestDate(event),
+        };
+    })
 
-    let futureOnly = events.filter(event => event.closestDate !== null);
+    let futureOnly = newEvents.filter(event => event.closestDate !== null);
 
     futureOnly.sort((event1, event2) => {
         return event1.closestDate.getTime() - event2.closestDate.getTime();
@@ -167,8 +172,8 @@ let events = [{% for event in site.events %}
         "snippet" : {{ event.snippet | jsonify }},
         "dates"  : [
             {% for date in event.dates %} {
-                "begins": {{ date.begins | jsonify }},
-                "ends": {{ date.ends | jsonify }},
+                "begins": "{{ date.begins | date: '%Y-%m-%dT%H:%M' }}",
+                "ends": "{{ date.ends | date: '%Y-%m-%dT%H:%M' }}",
             },
             {% endfor %}
         ],

@@ -12,7 +12,7 @@ dates:
     - begins: 2019-03-05T19:00:00-0800
       ends: 2019-03-05T20:00:00-0800
 layout: event
-permalink: /events/winter-planning-meetings-2019
+permalink: /events/2019/winter/winter-planning-meetings-2019
 where:
     name: Cal Poly Bld 5 Rm 225
     url: >-

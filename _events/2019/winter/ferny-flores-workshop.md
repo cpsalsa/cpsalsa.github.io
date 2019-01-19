@@ -8,7 +8,7 @@ dates:
     - begins: 2019-01-26T12:00:00-0800
       ends: 2019-01-26T16:00:00-0800
 layout: event
-permalink: /events/ferny-flores-workshop
+permalink: /events/2019/winter/ferny-flores-workshop
 where:
     name: Cal Poly Bld 5 Rm 225
     url: >-

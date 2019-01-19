@@ -14,7 +14,7 @@ dates:
     - begins: 2019-03-12T20:30:00-0700 # daylight savings
       ends: 2019-03-12T23:00:00-0700   # daylight savings
 layout: event
-permalink: /events/tuesday-mixers
+permalink: /events/2019/winter/tuesday-mixers
 where:
     name: Cal Poly Bld 5 Rm 225
     url: >-
@@ -33,7 +33,7 @@ snippet: |
     If you are interested in what it takes to become a member, socialize and
     see what we are about, and of course ask questions and even have a
     mini-lesson or ice-breakers while eating some snacks.
-    
+
     After this we will be carpooling to our Madonna Inn socials.
 #stylesheet: /events/special-event/css/special-event.css # this is so you can create your own special stylesheet for the event page
 ---

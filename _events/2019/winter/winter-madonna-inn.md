@@ -14,7 +14,7 @@ dates:
     - begins: 2019-03-12T20:30:00-0700 # daylight savings
       ends: 2019-03-12T23:00:00-0700   # daylight savings
 layout: event
-permalink: /events/winter-madonna-inn-salsa
+permalink: /events/2019/winter/winter-madonna-inn-salsa
 where:
     name: Madonna Inn
     url: >-
@@ -47,4 +47,4 @@ bachata songs...maybe even a merengue. If you're celebrating a birthday,
 let the DJ know you want a birthday dance. We'll see you there!
 
 Interested in salsa and other lessons? Come to CPSalsa on Fridays for lessons
-starting at 7:30pm. 
+starting at 7:30pm.

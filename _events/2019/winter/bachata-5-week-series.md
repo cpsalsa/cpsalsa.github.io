@@ -14,7 +14,7 @@ dates:
     - begins: 2019-03-11T20:00:00-0700 # daylight savings
       ends: 2019-03-11T22:00:00-0700   # daylight savings
 layout: event
-permalink: /events/bachata-5-week-series
+permalink: /events/2019/winter/bachata-5-week-series
 where:
     name: Cal Poly Bld 5 Rm 225
     url: >-

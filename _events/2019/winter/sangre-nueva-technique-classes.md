@@ -22,7 +22,7 @@ dates:
     - begins: 2019-03-17T16:00:00-0700
       ends: 2019-03-17T18:00:00-0700
 layout: event
-permalink: /events/sangre-nueva-technique-classes
+permalink: /events/2019/winter/sangre-nueva-technique-classes
 where:
     name: Studio @ - Ryan's American Dance
     url: >-

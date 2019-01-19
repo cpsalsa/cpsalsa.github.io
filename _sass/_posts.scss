@@ -250,8 +250,8 @@ article.post {
         right: 0;
         background:
             linear-gradient(
-                rgba(46, 27, 175, 0.9),
-                rgba(179, 8, 151, 0.7)
+                $posts-page-gradient-start,
+                $posts-page-gradient-end
             );
     }
     .post-header-content {

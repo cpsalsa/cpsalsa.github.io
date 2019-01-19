@@ -1,33 +1,202 @@
-.events .content {
-    height: 100%;
-    @include default-padding;
-}
-.events {
+.section.events {
     @include default-padding;
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
     }
+
+    .content {
+        height: 100%;
+        @include default-padding;
+    }
 }
-.no-webp .events {
+.page.events {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background:
+            radial-gradient(
+                ellipse at top right,
+                $events-page-gradient-start,
+                rgba(34, 34, 34, 1) 70%
+            );
+    }
+    .event-header {
+        background:
+            linear-gradient(
+                170deg,
+                $events-page-header-start,
+                $events-page-header-end
+            );
+        border-bottom: 3px solid $events-gradient-start;
+        display: flex;
+        justify-content: center;
+        min-height: 400px;
+        margin-bottom: 45px;
+        position: relative;
+
+        // &:after {
+        //     border-bottom: 3px solid $events-gradient-start;
+        //     content: '';
+        //     display: flex;
+        //     justify-content: center;
+        //     width: 100px;
+        // }
+    }
+    .event-header-content {
+        margin-top: 60px;
+        display: grid;
+
+        &.singleton {
+            align-self: center;
+            grid-template-columns: 100px 1fr;
+            grid-template-rows: 1fr;
+            height: 120px;
+
+            .event-title {
+                align-self: start;
+                grid-column-start: 2;
+                grid-column-end: 3;
+                grid-row-start: 1;
+                margin: 0;
+            }
+            .event-hours {
+                color: $event-header-color;
+            }
+            .event-where {
+                grid-column-start: 2;
+                grid-row-start: 2;
+            }
+        }
+        &.recurring {
+            grid-template-columns: 1fr 33%;
+
+            .title-section {
+                grid-column-start: 1;
+
+                .event-title {
+                    margin-top: 0;
+                }
+            }
+            .dates-section {
+                grid-column-start: 2;
+
+                .dates-title {
+                    margin-top: 0;
+                }
+                .event-date {
+                    color: $text-color;
+                    grid-template-columns: 32px 1fr;
+                    padding-bottom: 25px;
+
+                    .day {
+                        display: inline;
+                        font-size: inherit;
+                        font-weight: 700;
+                        grid-column-start: 1;
+                        grid-row-start: 2;
+                        line-height: 100%;
+                        text-align: center;
+                    }
+                    .month {
+                        display: inline;
+                        font-size: inherit;
+                        grid-column-start: 1;
+                        line-height: 100%;
+                        text-align: center;
+                    }
+                    .hours {
+                        align-self: start;
+                        line-height: 100%;
+                        margin-left: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .event-content {
+        position: relative;
+
+        > .centered {
+            display: flex;
+            justify-content: center;
+
+            h1,
+            h2,
+            h3 {
+                text-align: center;
+            }
+            h1 {
+                margin-bottom: 45px;
+            }
+        }
+        > .sub-section {
+            margin-bottom: 45px;
+        }
+    }
+    .event-title {
+        color: $text-color;
+        font-weight: bold;
+        font-size: 300%;
+    }
+    .event-sub-title {
+        font-style: italic;
+        color: $text-color;
+    }
+    .event-date {
+        display: grid;
+        grid-column-start: 1;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        justify-content: center;
+    }
+    .event-hours {
+        color: $event-header-color;
+    }
+    .event-where {
+        text-align: left;
+    }
+    a {
+        color: $event-header-color;
+    }
+}
+.no-webp .events:not(.page) {
     @include gradient-image('../images/fridays-2.jpg', right, fixed, $events-gradient-start, $events-gradient-end);
 }
-.webp .events {
+.webp .events:not(.page) {
     @include gradient-image('../images/fridays-2.webp', right, fixed, $events-gradient-start, $events-gradient-end);
 }
-.fb-events .title,
-.fb-events .where,
-.fb-events .when {
-    color: #9af9bd;
+.hero .events:not(.page) {
+    background-attachment: local;
+}
+.events .title,
+.events .where,
+.events .when,
+.events .event-date,
+.events .event-where {
+    color: $event-header-color;
     display: block;
     text-align: right;
 }
-.fb-events h4,
-.fb-events h5,
-.fb-events h6 {
-    color: #9af9bd;
+.events h1,
+.events h2,
+.events h3,
+.events h4,
+.events h5,
+.events h6 {
+    color: $event-header-color;
 }
-.fb-events .embed {
+.events .embed {
     border-radius: 20px;
     height: 350px;
     margin: 25px auto;
@@ -44,12 +213,12 @@
         width: 100%;
     }
 }
-.fb-events .card {
+.section.events .card {
     @include card;
 
     background: #222;
     box-shadow: inset #222 0 0 0 5px,
-        inset #9af9bd 0 0 0 6px,
+        inset $event-header-color 0 0 0 6px,
         rgba(0,0,0,0.2) 0 10px 20px;
     min-height: 500px;
     position: relative;
@@ -60,7 +229,7 @@
         min-height: 300px;
     }
 }
-.fb-events .singleton {
+.events .singleton {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -70,7 +239,7 @@
         width: 70%;
     }
 }
-.fb-events .card .card-bg {
+.section.events .card .card-bg {
     display: block;
     height: 100%;
     opacity: 0.7;
@@ -80,11 +249,11 @@
     background-position: center;
     background-size: cover;
 }
-.fb-events .card.small-event {
+.section.events .card.small-event {
     height: 300px;
     min-height: 300px;
 }
-.fb-events .card .event-image {
+.section.events .card .event-image {
     height: 100%;
     overflow: hidden;
     position: relative;
@@ -99,13 +268,13 @@
         width: 100%;
     }
 }
-.fb-events .card img {
+.section.events .card img {
     height: 100%;
     object-fit: cover;
     object-position: center;
     width: 100%;
 }
-.fb-events .card .details {
+.section.events .card .details {
     background: linear-gradient(rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.8) 100%);
     height: 100%;
     padding: 10px 20px;
@@ -117,7 +286,8 @@
         padding: 10px 35px;
     }
 }
-.fb-events .when {
+.events .when,
+.events .event-date {
     float: left;
     padding: 0;
     text-align: left;
@@ -144,17 +314,18 @@
         text-transform: lowercase;
     }
 }
-.fb-events .where {
+.events .where,
+.events .event-where {
     font-weight: 400;
     @media (max-width: $screen-sm-min) {
         text-align: center;
         width: 100%;
     }
 }
-.fb-events .details .header {
+.events .details .header {
     float: right;
 }
-.fb-events .title {
+.events .title {
     margin-top: 10px;
 
     @media (max-width: $screen-sm-min) {
@@ -162,9 +333,9 @@
         font-size: 150%;
     }
 }
-.fb-events .details {
+.events .details {
     a {
-        color: #9af9bd;
+        color: $event-header-color;
 
         &:hover {
             text-decoration: none;
@@ -178,22 +349,23 @@
     }
     .fa {
         font-weight: 300;
-        margin-left: -20px;
+        margin-left: -30px;
         opacity: 0;
         transition: opacity 0.2s ease-in-out,
             margin-left 0.2s ease-in-out;
-        width: 20px;
+        width: 30px;
     }
 }
-.fb-events .event-text {
-    bottom: 0;
+.events .event-text {
+    bottom: 15px;
     position: absolute;
+    width: 90%;
 
     @media (max-width: $screen-sm-min) {
         display: none;
     }
 
     h3{
-        color: #9af9bd;
+        color: $event-header-color;
     }
 }

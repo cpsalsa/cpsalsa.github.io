@@ -2,6 +2,10 @@
 <html>
 
     {% include head.html %}
+    {% if page.stylesheet %}
+        <link rel="stylesheet" href="{{ page.stylesheet }}">
+    {% endif %}
+
 
     <body>
         <div class="page-content">

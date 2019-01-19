@@ -1,66 +1,73 @@
 // Our variables
-$brand-primary:    			#f541aa !default;
-$brand-secondary:  			#41f5f0;
-$brand-headers:				#fff;
+$brand-primary:    			    #f541aa !default;
+$brand-secondary:  			    #41f5f0;
+$brand-headers:				    #fff;
 
-$body-bg:					#222 !default;
-$font-size-base:   			16px;
-$line-height-base:          1.7;
-$text-color:            	#eee !default;
-$text-darker: 				darken($text-color, 10%);
+$body-bg:					    #222 !default;
+$font-size-base:   			    16px;
+$line-height-base:              1.7;
+$text-color:            	    #eee !default;
+$text-darker: 				    darken($text-color, 10%);
+$event-header-color:            #9af9bd;
 
-$input-bg: 		   			#343434;
-$input-border:	   			#444;
-$input-color:	   			#777;
+$input-bg: 		   			    #343434;
+$input-border:	   			    #444;
+$input-color:	   			    #777;
 
-$link-color: 	   			darken($brand-secondary, 10%);
-$secondary-header-color:	lighten($brand-primary, 30%);
-$fridays-header-color:		#860474;
+$link-color: 	   			    darken($brand-secondary, 10%);
+$secondary-header-color:	    lighten($brand-primary, 30%);
+$fridays-header-color:		    #860474;
 
 // background gradients
-$about-gradient-start:      rgba(0, 146, 255, 0.95);
-$about-gradient-end:        rgba(0, 146, 255, 0.9);
-$contact-gradient-start:    rgba(179, 8, 151, 0.95);
-$contact-gradient-end:      rgba(179, 8, 151, 0.9);
-$events-gradient-start:     rgba(227, 117, 33, 0.95);
-$events-gradient-end:       rgba(227, 117, 33, 0.9);
-$fridays-gradient-start:    rgba(65, 177, 167, 0.95);
-$fridays-gradient-end:      rgba(65, 177, 167, 0.9);
-$posts-gradient-start:      rgba(111, 23, 136, 0.95);
-$posts-gradient-end:        rgba(111, 23, 136, 0.9);
-$title-gradient-start:      rgba(46, 27, 175, 0.95);
-$title-gradient-end:        rgba(46, 27, 175, 0.9);
-$sidebar-gradient-start:    rgba(75, 16, 85, 0.95);
-$sidebar-gradient-end:      rgba(75, 16, 85, 0.9);
+$about-gradient-start:          rgba(0, 146, 255, 0.95);
+$about-gradient-end:            rgba(0, 146, 255, 0.9);
+$contact-gradient-start:        rgba(179, 8, 151, 0.95);
+$contact-gradient-end:          rgba(179, 8, 151, 0.9);
+$events-gradient-start:         rgba(227, 117, 33, 0.95);
+$events-gradient-end:           rgba(227, 117, 33, 0.9);
+$events-page-gradient-start:    rgba(34, 34, 34, 0.5);
+$events-page-gradient-end:      rgba(34, 34, 34, 0.5);
+$events-page-header-start:      rgba(46, 27, 175, 0.4);
+$events-page-header-end:        rgba(227, 117, 33, 0.4);
+$fridays-gradient-start:        rgba(65, 177, 167, 0.95);
+$fridays-gradient-end:          rgba(65, 177, 167, 0.9);
+$posts-gradient-start:          rgba(111, 23, 136, 0.95);
+$posts-gradient-end:            rgba(111, 23, 136, 0.9);
+$posts-page-gradient-start:     rgba(46, 27, 175, 0.9);
+$posts-page-gradient-end:       rgba(179, 8, 151, 0.7);
+$title-gradient-start:          rgba(46, 27, 175, 0.95);
+$title-gradient-end:            rgba(46, 27, 175, 0.9);
+$sidebar-gradient-start:        rgba(75, 16, 85, 0.95);
+$sidebar-gradient-end:          rgba(75, 16, 85, 0.9);
 
 
-$title-background:			#2e1baf;
-$friday-background:			#41b1a7;
-$event-background:			#e37521;
-$event-card-background:		lighten($event-background, 5%);
-$about-background:			#0092ff;
-$about-card-background:		darken($about-background, 5%);
-$post-background:			#6f1788;
-$post-page-background: 		lighten($body-bg, 2%);
-$sidebar-background:		darken($post-background, 10%);
-$all-posts-background:		lighten($post-background, 10%);
-$all-posts-hover:			saturate(lighten($all-posts-background, 10%), 15%);
+$title-background:			    #2e1baf;
+$friday-background:			    #41b1a7;
+$event-background:			    #e37521;
+$event-card-background:		    lighten($event-background, 5%);
+$about-background:			    #0092ff;
+$about-card-background:		    darken($about-background, 5%);
+$post-background:			    #6f1788;
+$post-page-background: 		    lighten($body-bg, 2%);
+$sidebar-background:		    darken($post-background, 10%);
+$all-posts-background:		    lighten($post-background, 10%);
+$all-posts-hover:			    saturate(lighten($all-posts-background, 10%), 15%);
 
-$post-border:				lighten($post-background, 5%);
-$post-date-color:			lighten($brand-primary, 30%);
+$post-border:				    lighten($post-background, 5%);
+$post-date-color:			    lighten($brand-primary, 30%);
 
 //** Padding around the thumbnail image
-$thumbnail-padding:           4px !default;
+$thumbnail-padding:             4px !default;
 //** Thumbnail background color
-$thumbnail-bg:                lighten($body-bg, 4%) !default;
+$thumbnail-bg:                  lighten($body-bg, 4%) !default;
 //** Thumbnail border color
-$thumbnail-border:            lighten($body-bg, 4%) !default;
+$thumbnail-border:              lighten($body-bg, 4%) !default;
 //** Thumbnail border radius
-$thumbnail-border-radius:     0 !default;
+$thumbnail-border-radius:       0 !default;
 
 //** Custom text color for thumbnail captions
-$thumbnail-caption-color:     $text-color !default;
+$thumbnail-caption-color:       $text-color !default;
 //** Padding around the thumbnail caption
-$thumbnail-caption-padding:   9px !default;
+$thumbnail-caption-padding:     9px !default;
 
-$secondary-button-color:      #333;
+$secondary-button-color:        #333;

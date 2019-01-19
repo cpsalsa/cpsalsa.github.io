@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<article class="events page {{ page.article_class }}" itemscope itemtype="http://schema.org/BlogPosting"
+         style="background-image: url({{ page.main_image.url }})">
+
+    <div class="content">
+        <header class="event-header">
+            {% assign size = page.dates | size %}
+            {% if size == 1 %}
+        	<div class="event-header-content container singleton">
+    	        <h1 class="event-title" itemprop="name headline">
+                    <a href="https://www.facebook.com/events/{{ page.facebook_event_id }}">{{ page.title }}</a>
+                </h1>
+                <div class="event-where">
+                    <a href="{{ page.where.url }}">
+                        {{ page.where.name }}
+                    </a>
+                </div>
+                <div class="event-date">
+                    <span class="day">{{ page.dates[0].begins | date: "%-d" }}</span>
+                    <span class="month">{{ page.dates[0].begins | date: "%b" }}</span>
+                </div>
+                <div class="event-hours">
+                    <span class="hours">{{ page.dates[0].begins | date: "%l:%M %p" }} - {{ page.dates[0].ends | date: "%l:%M %p" }}</span>
+                </div>
+            </div>
+            {% else %}
+        	<div class="event-header-content container recurring">
+                <div class="title-section">
+        	        <h1 class="event-title" itemprop="name headline">
+                        <a href="https://www.facebook.com/events/{{ page.facebook_event_id }}">{{ page.title }}</a>
+                    </h1>
+                    <div class="event-where">
+                        <a href="{{ page.where.url }}">
+                            {{ page.where.name }}
+                        </a>
+                    </div>
+                </div>
+                <div class="dates-section">
+                    <h3 class="dates-title">Dates</h3>
+                    <div class="dates-content">
+                        {% for date in page.dates %}
+                        <div class="event-date col-md-6 col-lg-6 col-sm-6">
+                            <span class="month">{{ date.begins | date: "%b" }}</span>
+                            <span class="day">{{ date.begins | date: "%-d" }}</span>
+                            <span class="hours">{{ date.begins | date: "%l:%M" }} - {{ date.ends | date: "%l:%M %p" }}</span>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        </header>
+
+        <section class="event-content container">
+
+            {% if page.standard-content == true %}
+            <section class="sub-section centered">
+                <div class="col-lg-8 col-md-8 col-sm-12">
+                    {{ content }}
+                </div>
+            </section>
+            {% else %}
+            {{ content }}
+            {% endif %}
+
+            {% assign size = page.instructors | size %}
+            {% if size > 0 %}
+            {% include instructors.html instructors=page.instructors %}
+            {% endif %}
+
+            <section class="sub-section centered">
+                <p class="text-centered post-back">
+                    <a href="/"><span class="fa fa-arrow-left"></span> Back</a>
+                </p>
+            </section>
+        </section>
+    </div>
+</article>

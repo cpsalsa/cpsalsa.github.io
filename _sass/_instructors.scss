@@ -1,0 +1,26 @@
+.instructors {
+	padding: 0 20px;
+}
+.instructor-content {
+    justify-content: center;
+    @include display-flex;
+}
+.instructors .card {
+    text-align: center;
+}
+.instructors .card img {
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	object-position: center;
+}
+.instructors .card .name {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-weight: light;
+	color: $text-color;
+}
+.instructors .card .description {
+	font-style: italic;
+    text-align: left;
+}

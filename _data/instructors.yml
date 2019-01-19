@@ -1,0 +1,55 @@
+brayden:
+    name: Brayden Schmidt
+    description: |
+        Brayden has had extensive training on a performance team in Phoenix, AZ
+        before moving here to SLO to work at MindBody.
+
+        His specialties include Salsa on1 and on2, and Bachata.
+    image:
+        url: /images/instructors/brayden.jpg
+        alt: Picture of Brayden
+ed:
+    name: Ed Pecson
+    description: |
+        I've been dancing for 13 years, with experience in salsa, bachata, west
+        coast swing, and east coast swing.
+    image:
+        url: /images/instructors/ed.jpg
+        alt: Picture of Ed
+jess:
+    name: Jessica Cozzetto-Duong
+    description: |
+        Jessica has danced most her life beginning with ballet. She began
+        dancing salsa in 2005 with CPSalsa. She is now the co-lead of CPSalsa's
+        performance/training team.
+    image:
+        url: /images/instructors/jessica-cozzetto-duong.jpg
+        alt: Picture of Jessica
+khang:
+    name: Khang Duong
+    description: |
+        Khang started dancing salsa/bachata/cha cha cha in 2002 with CPSalsa.
+        He's co-led several instances of CPSalsa's performance team.
+    image:
+        url: /images/instructors/khang-duong.jpg
+        alt: Picture of Khang
+jeff:
+    name: Jeff Berkman
+    description: Some call me the godfather of CPSalsa. I just go by Jeff. And sometimes even Jey. Long story, ask me some time.
+    image:
+        url: /images/authors/jeff-berkman.jpg
+        alt: Picture of Jeff
+chance:
+    name: Chance Siri
+    description: International man of mystery and OG CPSalsa dancer.
+    image:
+        url: /images/authors/chance-siri.jpg
+        alt: Picture of Chance
+
+nimisha:
+    name: Nimisha Patel
+    description: |
+        I've been dancing with CPSalsa for 4 years.
+    image:
+        url: /images/instructors/nimisha.jpg
+        alt: Picture of Nimisha

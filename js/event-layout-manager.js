@@ -70,18 +70,19 @@ function createEventCard(event, className, includeDetails) {
 
     if (includeDetails) {
         let eventText = document.createElement('div'),
-            snippet = document.createElement('p'),
             detailsHeader = document.createElement('h3');
 
             details.appendChild(eventText);
 
             eventText.appendChild(detailsHeader);
-            eventText.appendChild(snippet);
 
             eventText.className = 'event-text';
 
+            detailsHeader.innerText = 'Details';
             let md = window.markdownit();
-            snippet.innerHtml = md.render(event.snippet);
+            let snippet = jQuery(md.render(event.snippet));
+
+            snippet.appendTo(eventText);
     }
 
     return elem;

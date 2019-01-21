@@ -113,6 +113,10 @@
                     grid-template-columns: 32px 1fr;
                     padding-bottom: 25px;
 
+                    &.past {
+                        color: darken($text-color, 30%);
+                        opacity: 0.5;
+                    }
                     .day {
                         display: inline;
                         font-size: inherit;

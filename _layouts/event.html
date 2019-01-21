@@ -40,8 +40,10 @@ layout: default
                 <div class="dates-section">
                     <h3 class="dates-title">Dates</h3>
                     <div class="dates-content">
+                        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
                         {% for date in page.dates %}
-                        <div class="event-date col-md-6 col-lg-6 col-sm-6">
+                        {%     capture eventdate %}{{ date.begins | date: '%s'}}{% endcapture %}
+                        <div class="event-date col-md-6 col-lg-6 col-sm-6 {% if eventdate < nowunix %}past{% endif %}">
                             <span class="month">{{ date.begins | date: "%b" }}</span>
                             <span class="day">{{ date.begins | date: "%-d" }}</span>
                             <span class="hours">{{ date.begins | date: "%l:%M" }} - {{ date.ends | date: "%l:%M %p" }}</span>

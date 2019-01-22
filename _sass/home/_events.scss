@@ -146,7 +146,7 @@
         position: relative;
 
         > .centered {
-            @media (min-device-width: $screen-sm-max) {
+            @media (min-device-width: $screen-sm-min) {
                 display: flex;
                 justify-content: center;
             }

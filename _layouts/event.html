@@ -58,7 +58,7 @@ layout: default
         <section class="event-content container">
 
             {% if page.standard-content == true %}
-            <section class="sub-section centered">
+            <section class="sub-section centered row">
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     {{ content }}
                 </div>
@@ -72,7 +72,7 @@ layout: default
             {% include instructors.html instructors=page.instructors %}
             {% endif %}
 
-            <section class="sub-section centered">
+            <section class="sub-section centered row">
                 <p class="text-centered event-back">
                     <a href="/"><span class="fa fa-arrow-left"></span> Back</a>
                 </p>

@@ -1,6 +1,6 @@
 ---
 facebook_event_id: 1110697005757213
-title: 'Winter Quarter Madonna Salsa Nights'
+title: 'Madonna Salsa Nights'
 first_date: 2019-01-22T20:30:00-0800
 dates:
     - begins: 2019-01-22T20:30:00-0800
@@ -22,7 +22,7 @@ where:
 main_image:
     url: >-
         https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/49257832_10157138364058000_6830245821783474176_o.jpg?_nc_cat=103&_nc_ht=scontent-sjc3-1.xx&oh=a1aca6faf678c2ab0ee8470e7076c756&oe=5CBD7D8D
-    alt: Winter Quarter Madonna Salsa Nights
+    alt: Madonna Salsa Nights
     position: center
 categories:
     - Series

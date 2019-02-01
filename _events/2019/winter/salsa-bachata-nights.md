@@ -36,12 +36,12 @@ snippet: |
   No experience or partner required. All ages welcome! Plus childcare available onsite.
 
   #### Lessons
-  **Bachata:** 7:00 - 8:00 PM<br>
-  **Salsa:** - 8:00 - 9:30 PM<br>
+  **Bachata:** 7:00 - 8:00 PM  
+  **Salsa:** - 8:00 - 9:30 PM  
   **Social Dancing Starts:** - 9:30 PM
 
   #### Cost
-  $8 per lesson (social dancing included)<br>
+  $8 per lesson (social dancing included)  
   $5 if only attending social dancing
 ---
 

@@ -15,7 +15,7 @@ dates:
     - begins: 2019-05-28T20:30:00-0700
       ends: 2019-05-28T23:00:00-0700   
 layout: event
-permalink: /events/2019/spring/spring-madonna-inn-salsa
+permalink: /events/2019/spring/madonna-inn-salsa
 where:
     name: Madonna Inn
     url: >-

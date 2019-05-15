@@ -1,18 +1,18 @@
 facebookId: '367272470510943'
-title: 'Week 4'
+title: 'Week 7'
 onbreak: true
-# lessons:
-#     - title: Bachata 101
-#       instructors: 'Brayden Schmidt'
-#     - title: Bachata 201
-#       instructors: 'Ed Pecson & Jenna Stephens'
-#     - title: Salsa 001
-#       instructors: 'Brayden Schmidt'
-#     - title: Salsa 101
-#       instructors: 'Tyler Anderson & Sabrina Bussel'
-#     - title: Salsa 201
-#       instructors: 'Ed Pecson & Jenna Stephens'
+lessons:
+    # - title: Bachata 101
+    #   instructors: 'Brayden Schmidt'
+    # - title: Bachata 201
+    #   instructors: 'Ed Pecson & Jenna Stephens'
+    - title: Salsa 001
+      instructors: 'Brayden Schmidt'
+    - title: Salsa 101
+      instructors: 'Sal Orozco'
+    - title: Salsa 201
+      instructors: 'Ricky Tan'
     # - title: Salsa 301
       # instructors: 'Brayden Schmidt'
 details: |
-   It's week 4 of Spring Quarter. Come dance with us this Friday!
+   It's week 7 of Spring Quarter. Come dance with us this Friday!

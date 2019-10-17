@@ -4,23 +4,29 @@
         url: images/members/president.jpg
         alt: Picture of Mikaela Manzano
 
-  - name: Polina Volnuhina
+  - name: Alexandra Hardcastle
     position: Vice President
     image:
         url: images/members/vice-president.jpg
-        alt: Picture of Polina Volnuhina
+        alt: Picture of Alexandra Hardcastle
 
-  - name: Ricky Tan
+  - name: Estevan Gonzalez
     position: Treasurer
     image:
         url: images/members/treasurer.jpg
-        alt: Picture of Ricky Tan
+        alt: Picture of Estevan Gonzalez
+        
+  - name: Belen Olague
+    position: Secretary
+    image:
+        url: images/members/secretary.jpg
+        alt: Picture of Belen Olague
 
-  - name: Ed Pecson
+  - name: Diego Ruvalcaba
     position: Friday Nights
     image:
         url: images/members/friday-nights.jpg
-        alt: Picture of Ed Pecson
+        alt: Picture of Diego Ruvalcaba
 
   - name: Brayden Schmidt
     position: Instruction
@@ -28,26 +34,44 @@
         url: images/members/instruction.jpg
         alt: Picture of Brayden Schmidt
 
-  - name: Nimisha Patel
+  - name: Sydney Jones
     position: Advertising
     image:
         url: images/members/advertising.jpg
-        alt: Picture of Nimisha Patel
+        alt: Picture of Sydney Jones
 
-  - name: Patrick Lim
+  - name: Sarah Miles
     position: Social Media
     image:
         url: images/members/social-media.jpg
-        alt: Picture of Patrick Lim
+        alt: Picture of Sarah Miles
 
-  - name: Tyler Anderson
+  - name: Larisa Williams
     position: Community Outreach
     image:
         url: images/members/outreach-community.jpg
-        alt: Picture of Tyler Anderson
+        alt: Picture of Larisa Williams
 
-  - name: Nicolle Cooper
+  - name: Kaito Lopez
     position: Student Outreach
     image:
         url: images/members/outreach-student.jpg
-        alt: Picture of Nicolle Cooper
+        alt: Picture of Kaito Lopez
+
+  - name: Ed Pecson
+    position: Executive Advisor
+    image:
+        url: images/members/ed.jpg
+        alt: Picture of Ed Pecson
+        
+  - name: Ricky Tan
+    position: Operations Advisor
+    image:
+        url: images/members/ricky.jpg
+        alt: Picture of Ricky Tan
+        
+  - name: Nimisha Patel
+    position: Marketing Advisor
+    image:
+        url: images/members/nemo.jpg
+        alt: Picture of Nimisha Patel        

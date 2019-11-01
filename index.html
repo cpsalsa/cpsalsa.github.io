@@ -90,7 +90,24 @@ published: true
                             {% if friday.onbreak != true %}
                             <p><em>Below you'll find this week's schedule of classes and instructors</em></p>
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-12">
+                                    <h3 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h3>
+                                </div>
+                                <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
+                                    <h4>General Pricing</h4>
+                                    $50 for 10 Lessons<br>
+                                    $30 for 5 Lessons<br>
+                                    $8 for the night<br>
+                                </div>
+                                <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
+                                    <h4>Student Pricing</h4>
+                                    $35 for 10 Lessons<br>
+                                    $20 for 5 Lessons<br>
+                                    $5 for the night<br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
                                     <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Schedule</h3>
                                     <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
                                         <strong>7:30 PM - 8:00 PM</strong> : Bachata Lessons<br>
@@ -98,26 +115,17 @@ published: true
                                         <strong>9:30 PM - 12:00 AM</strong> : FREE Social Dancing
                                     </p>
                                 </div>
-                                <div class="col-md-6">
-                                    <h3 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h3>
-                                    <p class="wow fadeInRightBig" data-wow-duration="0.5s">
-                                        <b>GENERAL PRICING</b><br>
-                                        $50 for 10 Lessons (Get 3.75 lessons for FREE)<br>
-                                        $30 for 5 Lessons (Get 1.25 lessons for FREE)<br>
-                                        $8 for the night<br>
-                                        <b>STUDENT PRICING</b><br>
-                                        $35 for 10 Lessons (Get 3 lessons for FREE)<br>
-                                        $20 for 5 Lessons (Get 1 lesson for FREE)<br>
-                                        $5 for the night<br>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h3>
+                                    <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
+                                        {% for lesson in friday.lessons %}
+                                            <strong>{{ lesson.title }}</strong> - {{ lesson.instructors }}<br>
+                                        {% endfor %}
                                     </p>
                                 </div>
                             </div>
-                            <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h3>
-                            <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
-                                {% for lesson in friday.lessons %}
-                                    <strong>{{ lesson.title }}</strong> - {{ lesson.instructors }}<br>
-                                {% endfor %}
-                            </p>
                             {% endif %}
                         </div>
                     </div>

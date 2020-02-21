@@ -75,32 +75,44 @@ published: true
                                 covered. Afterwards, we lower the overhead lights, turn up the club lighting,
                                 and start playing a variety of salsa, bachata, and cha cha cha as we dance the
                                 rest of the night away. Finally, when we're all tired from the dancing, we make
-                                our way towards Chilie Peppers and SLODoCo to hang out some more!
+                                our way towards some late night eateries to hang out some more!
                             </p>
                             <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Where</h2>
                             <p class="wow fadeInRightBig" data-wow-duration="0.5s">Cal Poly Building 5, Rooms 225, 226, 100, & 104</p>
                             <div class="embed wow fadeInRightBig friday-map" data-wow-duration="0.2s">
                                 <iframe class="map-frame" src="https://www.google.com/maps/d/u/0/embed?mid=1BdSrnhQuUgBTRHaDtk3-jv-TRqI" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
-                            <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">This Week</h2>
-                            <h4>
-                                <a href="https://www.facebook.com/events/{{ friday.facebookId }}">{{ friday.title }}</a>
-                            </h4>
-                            <p><em>{{ friday.details }}</em></p>
-                            {% if friday.onbreak != true %}
-                            <p><em>Below you'll find this week's schedule of classes and instructors</em></p>
+                            <div class="dates-section">
+                                <h2 class="dates-title">Dates</h2>
+                                <div class="dates-content">
+                                    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+                                    {% assign lessonsIndex = -1 %}
+                                    {% for date in friday.dates %}
+                                    {%     capture eventdate %}{{ date.begins | date: '%s'}}{% endcapture %}
+                                    {%     if eventdate > nowunix and lessonsIndex == -1 %}
+                                    {%         assign lessonsIndex = forloop.index %}
+                                    {%     endif %}
+                                    <div class="friday-date col-md-6 col-lg-6 col-sm-6 {% if eventdate < nowunix %}past{% endif %}">
+                                        <span class="month">{{ date.begins | date: "%b" }}</span>
+                                        <span class="day">{{ date.begins | date: "%-d" }}</span>
+                                        <span class="hours">{{ date.begins | date: "%l:%M" }} - {{ date.ends | date: "%l:%M %p" }}</span>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                            {% if lessonsIndex != -1 %}
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h3 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h3>
+                                    <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h2>
                                 </div>
                                 <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
-                                    <h4>General Pricing</h4>
+                                    <h3>General Pricing</h3>
                                     $50 for 10 Lessons<br>
                                     $30 for 5 Lessons<br>
                                     $8 for the night<br>
                                 </div>
                                 <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
-                                    <h4>Student Pricing</h4>
+                                    <h3>Student Pricing</h3>
                                     $35 for 10 Lessons<br>
                                     $20 for 5 Lessons<br>
                                     $5 for the night<br>
@@ -108,7 +120,7 @@ published: true
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Schedule</h3>
+                                    <h2 class="wow fadeInLeftBig" data-wow-duration="0.5s">Schedule</h2>
                                     <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
                                         <strong>7:30 PM - 8:00 PM</strong> : Bachata Lessons<br>
                                         <strong>8:00 PM - 9:30 PM</strong> : Salsa Lessons<br>
@@ -118,9 +130,9 @@ published: true
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h3 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h3>
+                                    <h2 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h2>
                                     <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
-                                        {% for lesson in friday.lessons %}
+                                        {% for lesson in friday.dates[lessonsIndex].lessons %}
                                             <strong>{{ lesson.title }}</strong> - {{ lesson.instructors }}<br>
                                         {% endfor %}
                                     </p>

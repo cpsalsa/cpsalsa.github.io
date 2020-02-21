@@ -91,55 +91,6 @@
                     margin-top: 0;
                 }
             }
-            .dates-section {
-                grid-column-start: 2;
-
-                @media (max-device-width: $screen-sm-max) {
-                    margin-top: 20px;
-                    text-align: center;
-
-                    .dates-content {
-                        margin: 20px auto;
-                        overflow: hidden;
-                        width: 50%;
-                    }
-                }
-
-                .dates-title {
-                    margin-top: 0;
-                }
-                .event-date {
-                    color: $text-color;
-                    grid-template-columns: 32px 1fr;
-                    padding-bottom: 25px;
-
-                    &.past {
-                        color: darken($text-color, 30%);
-                        opacity: 0.5;
-                    }
-                    .day {
-                        display: inline;
-                        font-size: inherit;
-                        font-weight: 700;
-                        grid-column-start: 1;
-                        grid-row-start: 2;
-                        line-height: 100%;
-                        text-align: center;
-                    }
-                    .month {
-                        display: inline;
-                        font-size: inherit;
-                        grid-column-start: 1;
-                        line-height: 100%;
-                        text-align: center;
-                    }
-                    .hours {
-                        align-self: start;
-                        line-height: 100%;
-                        margin-left: 10px;
-                    }
-                }
-            }
         }
     }
     .event-content {

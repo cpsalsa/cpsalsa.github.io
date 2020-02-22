@@ -71,7 +71,7 @@
             }
         }
         &.recurring {
-            grid-template-columns: 1fr 33%;
+            grid-template-columns: 1fr 36%;
 
             @media (max-device-width: $screen-sm-max) {
                 display: block;

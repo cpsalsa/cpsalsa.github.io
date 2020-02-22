@@ -82,7 +82,8 @@ published: true
                             <div class="embed wow fadeInRightBig friday-map" data-wow-duration="0.2s">
                                 <iframe class="map-frame" src="https://www.google.com/maps/d/u/0/embed?mid=1BdSrnhQuUgBTRHaDtk3-jv-TRqI" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
-                            <div class="dates-section">
+                            {% include dates.html dates=friday.dates cssClass="friday-date-recur" %}
+                            <!-- <div class="dates-section">
                                 <h2 class="dates-title">Dates</h2>
                                 <div class="dates-content">
                                     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -99,7 +100,7 @@ published: true
                                     </div>
                                     {% endfor %}
                                 </div>
-                            </div>
+                            </div> -->
                             {% if lessonsIndex != -1 %}
                             <div class="row">
                                 <div class="col-md-12">

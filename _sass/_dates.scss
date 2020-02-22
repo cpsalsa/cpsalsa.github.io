@@ -15,8 +15,9 @@
     .dates-title {
         margin-top: 0;
     }
-    .event-date {
+    &.event-date-recur .date-output {
         color: $text-color;
+        padding-left: 0;
         padding-bottom: 25px;
 
         &.past {
@@ -24,7 +25,7 @@
             opacity: 0.5;
         }
     }
-    .friday-date {
+    &.friday-date-recur .date-output {
         padding-left: 0;
         padding-bottom: 10px;
 
@@ -34,8 +35,7 @@
             text-decoration: line-through;
         }
     }
-    .event-date,
-    .friday-date {
+    .date-output {
         grid-template-columns: 32px 1fr;
 
         .day {

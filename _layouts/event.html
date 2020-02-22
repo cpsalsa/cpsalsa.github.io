@@ -37,7 +37,8 @@ layout: default
                         </a>
                     </div>
                 </div>
-                <div class="dates-section">
+                {% include dates.html dates=page.dates cssClass="event-date-recur" %}
+                <!-- <div class="dates-section">
                     <h3 class="dates-title">Dates</h3>
                     <div class="dates-content">
                         {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
@@ -50,7 +51,7 @@ layout: default
                         </div>
                         {% endfor %}
                     </div>
-                </div>
+                </div> -->
             </div>
             {% endif %}
         </header>

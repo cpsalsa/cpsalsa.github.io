@@ -27,7 +27,16 @@ function layoutInstructors(dateElements) {
   if (dateElements.length > 0) {
     let elemToAppendTo = document.querySelector('.friday-text'),
         row = document.createElement('div'),
-        event = null;
+        now = Date.now(),
+        dateToGet = null;
+
+    for (let dateElem of dateElements) {
+      let dateInMil = (new Date(dateElem.dataset.beginDate)).getTime();
+      if (dateInMil > now) {
+        dateToGet = dateElem.dataset.beginDate;
+        break;
+      }
+    }
 
     elemToAppendTo.appendChild(row);
     row.className = 'row';
@@ -37,23 +46,14 @@ function layoutInstructors(dateElements) {
     row.appendChild(col);
 
     let header = document.createElement('h2');
+    let headerDate = new Date(dateToGet);
     header.className = 'wow fadeInLeftBig';
-    header.innerText = 'Instructors';
+    header.innerText = `Instructors for ${headerDate.toDateString().split(' ').slice(1, 3).join(' ')}`;
     col.appendChild(header);
 
     let content = document.createElement('p');
     content.className = 'wow fadeInLeftBig';
     col.appendChild(content);
-
-    let now = Date.now(),
-        dateToGet = null;
-
-    for (let dateElem of dateElements) {
-      let dateInMil = (new Date(dateElem.dataset.beginDate)).getTime();
-      if (dateInMil > now) {
-        dateToGet = dateElem.dataset.beginDate;
-      }
-    }
 
     if (dateToGet != null) {
       for (let lesson of fridayDates[dateToGet].lessons) {

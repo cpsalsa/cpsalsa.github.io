@@ -1,14 +1,9 @@
 <div class="dates-section {{ include.cssClass }}">
     <h2 class="dates-title">Dates</h2>
     <div class="dates-content">
-        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
         {% assign lessonsIndex = -1 %}
         {% for date in include.dates %}
-        {%     capture eventdate %}{{ date.begins | date: '%s'}}{% endcapture %}
-        {%     if eventdate > nowunix and lessonsIndex == -1 %}
-        {%         assign lessonsIndex = forloop.index %}
-        {%     endif %}
-        <div class="date-output col-md-6 col-lg-6 col-sm-6 {% if eventdate < nowunix %}past{% endif %}">
+        <div class="date-output col-md-6 col-lg-6 col-sm-6" data-begin-date="{{ date.begins | date: '%FT%R' }}">
             <span class="month">{{ date.begins | date: "%b" }}</span>
             <span class="day">{{ date.begins | date: "%-d" }}</span>
             <span class="hours">{{ date.begins | date: "%l:%M" }} - {{ date.ends | date: "%l:%M %p" }}</span>

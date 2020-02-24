@@ -83,25 +83,6 @@ published: true
                                 <iframe class="map-frame" src="https://www.google.com/maps/d/u/0/embed?mid=1BdSrnhQuUgBTRHaDtk3-jv-TRqI" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
                             {% include dates.html dates=friday.dates cssClass="friday-date-recur" %}
-                            <!-- <div class="dates-section">
-                                <h2 class="dates-title">Dates</h2>
-                                <div class="dates-content">
-                                    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-                                    {% assign lessonsIndex = -1 %}
-                                    {% for date in friday.dates %}
-                                    {%     capture eventdate %}{{ date.begins | date: '%s'}}{% endcapture %}
-                                    {%     if eventdate > nowunix and lessonsIndex == -1 %}
-                                    {%         assign lessonsIndex = forloop.index %}
-                                    {%     endif %}
-                                    <div class="friday-date col-md-6 col-lg-6 col-sm-6 {% if eventdate < nowunix %}past{% endif %}">
-                                        <span class="month">{{ date.begins | date: "%b" }}</span>
-                                        <span class="day">{{ date.begins | date: "%-d" }}</span>
-                                        <span class="hours">{{ date.begins | date: "%l:%M" }} - {{ date.ends | date: "%l:%M %p" }}</span>
-                                    </div>
-                                    {% endfor %}
-                                </div>
-                            </div> -->
-                            {% if lessonsIndex != -1 %}
                             <div class="row">
                                 <div class="col-md-12">
                                     <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h2>
@@ -129,17 +110,6 @@ published: true
                                     </p>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h2 class="wow fadeInLeftBig" data-wow-duration="0.5s">Instructors</h2>
-                                    <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
-                                        {% for lesson in friday.dates[lessonsIndex].lessons %}
-                                            <strong>{{ lesson.title }}</strong> - {{ lesson.instructors }}<br>
-                                        {% endfor %}
-                                    </p>
-                                </div>
-                            </div>
-                            {% endif %}
                         </div>
                     </div>
                 </div>

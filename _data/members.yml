@@ -1,14 +1,14 @@
-  - name: Mikaela Manzano
+  - name: Gioia Melian
     position: President
     image:
-        url: images/members/president.jpeg
-        alt: Picture of Mikaela Manzano
+        url: images/members/president.jpg
+        alt: Picture of Gioia Melian
 
-  - name: Alexandra Hardcastle
+  - name: Belen Olague
     position: Vice President
     image:
         url: images/members/vice-president.jpg
-        alt: Picture of Alexandra Hardcastle
+        alt: Picture of Belen Olague
 
   - name: Estevan Gonzalez
     position: Treasurer
@@ -16,17 +16,17 @@
         url: images/members/treasurer.jpg
         alt: Picture of Estevan Gonzalez
         
-  - name: Belen Olague
+  - name: Luke Mayberry
     position: Secretary
     image:
         url: images/members/secretary.jpg
-        alt: Picture of Belen Olague
+        alt: Picture of Luke Mayberry
 
-  - name: Diego Ruvalcaba
-    position: Friday Nights
+  - name: Mikaela Manzano
+    position: Club Resource Manager
     image:
-        url: images/members/friday-nights.jpg
-        alt: Picture of Diego Ruvalcaba
+        url: images/members/club-resource-manager.jpeg
+        alt: Picture of Mikaela Manzano
 
   - name: Brayden Schmidt
     position: Instruction
@@ -34,29 +34,29 @@
         url: images/members/instruction.jpg
         alt: Picture of Brayden Schmidt
 
-  - name: Sydney Jones
+  - name: Belen Olague
     position: Advertising
     image:
         url: images/members/advertising3.jpg
-        alt: Picture of Sydney Jones
+        alt: Picture of Belen Olague
 
-  - name: Sarah Miles
+  - name: Allie Holveck
     position: Social Media
     image:
         url: images/members/social-media.jpg
-        alt: Picture of Sarah Miles
+        alt: Picture of Allie Holveck
 
-  - name: Larisa Williams
+  - name: Cyndy Smith
     position: Community Outreach
     image:
         url: images/members/outreach-community.jpg
-        alt: Picture of Larisa Williams
+        alt: Picture of Cyndy Smith
 
-  - name: Kaito Lopez
-    position: Student Outreach
+  - name: Sarah Miles
+    position: Campus Outreach
     image:
         url: images/members/outreach-student.jpg
-        alt: Picture of Kaito Lopez
+        alt: Picture of Sarah Miles
 
   - name: Ed Pecson
     position: Executive Advisor

@@ -38,24 +38,25 @@ function layoutInstructors(dateElements) {
       }
     }
 
-    elemToAppendTo.appendChild(row);
-    row.className = 'row';
+    console.log(fridayDates[dateToGet].lessons.length)
+    if (dateToGet != null && fridayDates[dateToGet].lessons.length !== 0) {
+      elemToAppendTo.appendChild(row);
+      row.className = 'row';
+  
+      let col = document.createElement('div');
+      col.className = 'col-md-12';
+      row.appendChild(col);
+  
+      let header = document.createElement('h2');
+      let headerDate = new Date(dateToGet);
+      header.className = 'wow fadeInLeftBig';
+      header.innerText = `Instructors for ${headerDate.toDateString().split(' ').slice(1, 3).join(' ')}`;
+      col.appendChild(header);
+  
+      let content = document.createElement('p');
+      content.className = 'wow fadeInLeftBig';
+      col.appendChild(content);
 
-    let col = document.createElement('div');
-    col.className = 'col-md-12';
-    row.appendChild(col);
-
-    let header = document.createElement('h2');
-    let headerDate = new Date(dateToGet);
-    header.className = 'wow fadeInLeftBig';
-    header.innerText = `Instructors for ${headerDate.toDateString().split(' ').slice(1, 3).join(' ')}`;
-    col.appendChild(header);
-
-    let content = document.createElement('p');
-    content.className = 'wow fadeInLeftBig';
-    col.appendChild(content);
-
-    if (dateToGet != null) {
       for (let lesson of fridayDates[dateToGet].lessons) {
         let lessonContent = document.createElement('span');
         let instructors = document.createElement('span');

@@ -1,8 +1,8 @@
 onbreak: false
 first_date: 2022-04-01T19:30:00-0800
 dates:
-  - begins: 2022-04-01T19:30:00-0800
-    ends: 2022-04-01T24:00:00-0800
+  - begins: 2023-04-01T19:30:00-0800
+    ends: 2023-04-01T24:00:00-0800
     # lessons:
     #   - title: Bachata 101
     #     instructors: 'Ricky Tan & Mikaela Manzano'

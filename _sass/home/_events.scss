@@ -169,9 +169,30 @@
     color: $event-header-color;
 }
 .events .embed {
-    border-radius: 20px;
-    height: 350px;
-    margin: 25px auto;
+    .large {
+        @media (max-width: 550px) {
+            display: none;
+        }
+        max-width:800px;
+        border-radius: 20px;
+        border-width: 20px;
+          
+    }
+    .small {
+        @media (min-width: 550px) {
+            display: none;
+        }
+        height: 600px;
+        border-radius: 10px;
+        border-width: 10px;
+    }
+
+    iframe {
+        border:solid white;
+        width: 100%;
+    }
+    
+    height: 600px;
     overflow: hidden;
     transform: translateZ(0);
     width: 80%;
@@ -180,10 +201,6 @@
         width: 100%;
     }
 
-    .map-frame {
-        height: 100%;
-        width: 100%;
-    }
 }
 .section.events {
     .card {

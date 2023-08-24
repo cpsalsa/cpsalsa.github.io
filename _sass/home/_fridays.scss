@@ -1,6 +1,7 @@
 
 .fridays {
     position: relative;
+    @include default-padding;
 
     @media (max-device-width: $screen-xs-min) {
         background-attachment: scroll;
@@ -21,10 +22,10 @@
 .fridays .embed {
     border-radius: 20px;
     height: 450px;
-    margin: 25px 0 60px 0;
+    margin: 25px 0;
     overflow: hidden;
     transform: translateZ(0);
-    width: 100%;
+    width: 90%;
 
     .map-frame {
         height: 100%;
@@ -44,6 +45,7 @@
 .fridays .content {
     height: 100%;
     @include default-padding;
+    padding: 40px;
 
     .row {
         margin-left: -15px;

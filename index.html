@@ -54,18 +54,20 @@ published: true
             </div>
         </section>
 
-        <section class="fridays" id="fridays">
+        <section class="fridays content" id="fridays">
             <section class="power-image wow fadeInRightBig" data-wow-delay="0.2s" data-wow-duration="0.5s">
                 <picture>
                     <source srcset="images/chelsea-jose-big.webp" type="image/webp">
                     <img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="images/chelsea-jose-big.png" alt="Chelsea dancing with Jose">
                 </picture>
             </section>
-            {% assign friday = site.data.friday %}
+            <!-- Removed import of _data/friday.yml
+                {% assign friday = site.data.friday %}
+            -->
             <section class="container no-gutter">
                 <div class="row is-flex">
                     <div class="col-md-8 wow fadeInDown">
-                        <div class="content friday-text">
+                        <div class="friday-text">
                             <header>
                                 <h1 class="wow fadeInLeftBig" data-wow-duration="0.5s">Friday Nights</h1>
                             </header>
@@ -78,25 +80,31 @@ published: true
                                 our way towards some late night eateries to hang out some more!
                             </p>
                             <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Where</h2>
-                            <p class="wow fadeInRightBig" data-wow-duration="0.5s">Cal Poly Building 5, Rooms 225, 226, 100, & 104</p>
-                            <div class="embed wow fadeInRightBig friday-map" data-wow-duration="0.2s">
-                                <iframe class="map-frame" src="https://www.google.com/maps/d/u/0/embed?mid=1BdSrnhQuUgBTRHaDtk3-jv-TRqI" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <p class="wow fadeInRightBig" data-wow-duration="0.5s">
+                                <b>Lessons:</b> Cal Poly Building 5, Rooms 225, 226, 100, & 104
+                                <br />
+                                <b>Social:</b> Nexus SLO Ballroom
+                            </p>
+                            <div class="embed wow fadeInRightBig" data-wow-duration="0.2s">
+                                <iframe class="map-frame" src="https://www.google.com/maps/d/u/0/embed?mid=1snPHDzOwB4goErIS8alXFnNbrnEKB3U&ehbc=2E312F" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
-                            {% include dates.html dates=friday.dates cssClass="friday-date-recur" %}
+                            <!-- removed Dates section
+                                {% include dates.html dates=friday.dates cssClass="friday-date-recur" %}
+                            -->
                             <div class="row">
                                 <div class="col-md-12">
                                     <h2 class="wow fadeInRightBig" data-wow-duration="0.5s">Cost</h2>
                                 </div>
                                 <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
                                     <h3>General Pricing</h3>
-                                    $60 for 10 Lessons<br>
+                                    $70 for 10 Lessons<br>
                                     $40 for 5 Lessons<br>
                                     $10 for the night<br>
                                 </div>
                                 <div class="col-md-4 fadeInRightBig" data-wow-duration="0.5s">
                                     <h3>Student Pricing</h3>
-                                    $40 for 10 Lessons<br>
-                                    $25 for 5 Lessons<br>
+                                    $49 for 10 Lessons<br>
+                                    $28 for 5 Lessons<br>
                                     $7 for the night<br>
                                 </div>
                             </div>
@@ -106,8 +114,8 @@ published: true
                                     <p class="wow fadeInLeftBig" data-wow-duration="0.5s">
                                         <strong>7:00 PM - 8:00 PM</strong> : Bachata Lessons<br>
                                         <strong>8:00 PM - 9:00 PM</strong> : Salsa Lessons<br>
-                                        <strong>9:00 PM - 9:30 PM</strong> : Meet and Greet<br>
-                                        <strong>9:45 PM - 12:30 AM</strong> : Social Dancing at Studio @
+                                        <strong>9:00 PM - 9:30 PM</strong> : Mixer & Practice<br>
+                                        <strong>9:30 PM - 12:30 AM</strong> : Social Dancing at Nexus SLO Ballroom
                                     </p>
                                 </div>
                             </div>
@@ -120,11 +128,18 @@ published: true
         {% if site.events %}
         {% assign events = site.events | sort: 'first_date' %}
         <section class="events section" id="events">
-            <div class="container-fluid">
-                <header>
-                    <h1>Upcoming Events</h1>
-                </header>
-                <div class="row is-flex" id="event-layout-container">
+            <div class="container">
+                <div class="row is-flex">
+                    <div class="col-md-8 wow fadeInDown">
+                        <header>
+                            <h1>Upcoming Events</h1>
+                        </header>
+                        <div class="embed wow fadeInRightBig" data-wow-duration="0.2s">
+                            <iframe class="large" src="https://calendar.google.com/calendar/embed?src=cpsalsacalendar%40gmail.com&ctz=America%2FLos_Angeles" height="600" frameborder="0" scrolling="no"></iframe>
+                            <iframe class="small" src="https://calendar.google.com/calendar/embed?src=cpsalsacalendar%40gmail.com&ctz=America%2FLos_Angeles&mode=AGENDA&showPrint=0&showDate=0" scrolling="no"></iframe>
+                        </div>
+                        <div class="row is-flex" id="event-layout-container">
+                    </div>
                 </div>
             </div>
         </section>
@@ -147,8 +162,14 @@ published: true
                     welcoming.
                 </p>
                 <p>
-                    Wish to become a member? You'll get some free swag and free lessons if you do!<br>
-                    <a class="volunteer-btn" href="https://forms.gle/yDRj4wjKb3RVeLU48">Membership</a>
+                    <b>Wish to become a member?</b>
+                    <!-- a class="volunteer-btn" href="https://forms.gle/yDRj4wjKb3RVeLU48">Membership</a-->
+                </p>
+                <p>
+                    Membership (currently enrolled Cal Poly students) and partnership (non-Cal Poly students) is open to everyone! No dance experience is required to be a member/partner. 
+                    Benefits include free access to Friday/Monday lessons and dancing, access to club-exclusive events such as road trips to dance festivals and theme parks, discounts on private lessons and merchandise, 
+                    and becoming a part of the CPSalsa family for volunteering at our events and helping the club grow. Come speak with a club officer at our cashiering table during Friday lessons to sign up!
+                    
                 </p>
             </section>
             <section class="container-fluid our-team">

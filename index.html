@@ -172,32 +172,9 @@ published: true
                     
                 </p>
             </section>
-            <section class="container-fluid our-team">
-                <header class="container">
-                    <h2>Our Team</h2>
-                    <p>
-                        When you see these folks at any of our events, please give them a holler and
-                        maybe a thanks for the hard work they've put into it.
-                    </p>
-                </header>
-                <div class="row is-flex members">
-                {% for member in site.data.members %}
-                {% capture modulo %}{{ forloop.index0 | modulo: 4 }}{% endcapture %}
-                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="card wow {% if modulo == '0' or modulo == '1' %} fadeInLeft {% else %} fadeInRight {% endif %}"  data-wow-duration="0.5s">
-                            <div class="card-bg" style="background-image: url({{member.image.url}})"></div>
-                            <div class="details">
-                                <h3>{{ member.name }}</h3>
-                                <h4>{{ member.position }}</h4>
-                                {% if member.description %}
-                                <p>{{ member.description }}</p>
-                                {% endif %}
-                            </div>
-                        </div>
-                    </div>
-                {% endfor %}
-                </div>
-            </section>
+            <!--Removed "Our Team" section--> 
+            <!--added spacing because the dancing lady covers the text-->
+            <p><br><br></p>
         </section>
 
         <section class="posts posts-main" id="posts">
